@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase /expo2025/
+
+# 如果請求的是目錄，則重定向到 index.html
+RewriteCond %{REQUEST_URI} ^/expo2025/$
+RewriteRule ^$ index.html [L]
+
+# 如果請求的不是實際存在的文件或目錄，則重定向到 index.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /expo2025/ [L] 

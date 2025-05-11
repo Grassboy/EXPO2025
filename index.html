@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EXPO2025 大阪萬博地圖 by 小胖子 Grassboy</title>
+    <link rel="icon" type="image/x-icon" href="./favicon.ico">
+    <link rel="manifest" href="manifest.json?v=1.0.3">
+    <meta name="theme-color" content="#0068b7">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.css" />
+    <link rel="stylesheet" href="style.css?v=1.0.3">
+</head>
+<body>
+    <div id="map"></div>
+    <div id="popup">
+        <h3>
+            <span class="popup-title"></span><span class="code"></span>
+            <span class="cost-time"></span>
+            <span class="close-popup"><i class="fa-solid fa-xmark"></i></span>
+        </h3>
+        <div class="popup-content">
+            <div class="additional-info"></div>
+            <div class="summary"></div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OverlappingMarkerSpiderfier-Leaflet/0.2.6/oms.min.js"></script>
+    <script src="script.js?v=1.0.2"></script>
+</body>
+</html> 

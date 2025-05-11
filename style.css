@@ -1,0 +1,538 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    top: 0!important;
+}
+#map {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+
+#map.transparent {
+    opacity: 0.1;
+}
+
+#compare_map {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    opacity: 0.1;
+    transition: opacity 0.3s ease;
+}
+
+#compare_map.transparent {
+    opacity: 1;
+}
+
+#toggleMap {
+    position: absolute;
+    right: 10px;
+    bottom: 32px;
+    z-index: 1000;
+    padding: 8px 16px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+#toggleMap:hover {
+    background: #f0f0f0;
+}
+
+.toggle-button {
+    position: fixed;
+    left: 10px;
+    top: 96px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    background: white;
+    border: 2px solid #4CAF50;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: #4CAF50;
+    transition: all 0.3s ease;
+}
+
+.toggle-button:hover {
+    background: #4CAF50;
+    color: white;
+}
+
+.toggle-button.active {
+    background: #4CAF50;
+    color: white;
+}
+
+
+#popup {
+    display: none;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    z-index: 1000;
+    transform: translateY(100%);
+    transition: transform 0.3s ease-out;
+}
+
+#popup.show {
+    transform: translateY(0);
+}
+#popup {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    .popup-content {
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch; /* 在 iOS 上提供平滑滾動 */
+    }
+}
+@media (min-width: 800px) {
+    #popup {
+        left: 50%;
+        transform: translateX(-50%) translateY(100%);
+        width: 720px;
+        border-radius: 20px 20px 0 0;
+        padding: 2em;
+        box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+        max-height: 40vh;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch; /* 在 iOS 上提供平滑滾動 */
+    }
+    
+    #popup.show {
+        transform: translateX(-50%) translateY(0);
+    }
+}
+
+@media (max-width: 799px) {
+    #popup {
+        padding: 1em;
+        max-height: 60vh;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch; /* 在 iOS 上提供平滑滾動 */
+    }
+}
+@media (max-width: 767px) {
+    #map.in-iframe {
+        .leaflet-bottom.leaflet-right ,
+        .leaflet-bottom.leaflet-left {
+            bottom: calc(21.3333333333vw*0.25)
+        }
+    }
+}
+
+#popup h3 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+#popup .code {
+    font-size: 14px;
+    color: #666;
+    margin-left: 10px;
+}
+
+#popup .cost-time {
+    font-size: 12px;
+    color: #888;
+    margin-left: 10px;
+}
+
+#popup .summary {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #444;
+    padding-bottom: 30px;
+}
+.close-popup {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.close-popup:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.close-popup i {
+    color: #666;
+    font-size: 14px;
+}
+
+/* 標記點樣式 */
+.pavilion-marker {
+    background-color: #3388ff;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 1000!important;
+}
+
+.default-marker {
+    background-color: #e60012;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 1000000!important;
+}
+
+.gray-marker {
+    background-color: #999;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+.wheelchair-marker {
+    background-color: #4CAF50;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 1000003!important;
+}
+
+.marker-inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    .rank6 & {
+        background-color: #ff626a;
+    }
+    .rank5 & {
+        background-color: #ffff00;
+    }
+    .rank4 & {
+        background-color: #95baff;
+    }
+    .rank3 & {
+        background-color: #c2ff89;
+    }
+    .rank2 & {
+        background-color: #ffffff;
+    }
+    .rank1 & {
+        background-color: #5f5f5f;
+    }
+    border-radius: 50%;
+    &:after {
+        transition: visibility 0s, opacity 0.2s ease-in;
+        visibility: hidden;
+        opacity: 0;
+        pointer-events: none;
+        content: attr(title);
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translate(-50%, calc(100% + 1em));
+        width: 10em;
+        text-align: center;
+        text-shadow: 
+            0 0 3px white,
+            0 0 3px white,
+            0 0 3px white,
+            0 0 3px white,
+            0 0 3px white,
+            0 0 3px white,
+            0 0 3px white;
+    }
+    .zoom-in &:after ,
+    .leaflet-marker-icon:hover &:after {
+        visibility: visible;
+        opacity: 1;
+    }
+}
+
+.active-marker {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    z-index: 10000000!important;
+}
+
+.active-pavilion {
+    background-color: #3388ff;
+    animation: colorPulse2 1s infinite;
+}
+
+.active-event {
+    background-color: #e60012;
+    animation: colorPulse 1s infinite;
+}
+
+@keyframes colorPulse {
+    0% {
+        background-color: #e60012;
+    }
+    50% {
+        background-color: #fcc;
+    }
+    100% {
+        background-color: #e60012;
+    }
+}
+@keyframes colorPulse2 {
+    0% {
+        background-color: #3388ff;
+    }
+    50% {
+        background-color: #ccf;
+    }
+    100% {
+        background-color: #3388ff;
+    }
+}
+
+.custom-control-button {
+    &.active {
+        &[data-for="isPavilionVisible"] {
+            color: #1b4a8d;
+        }
+        &[data-for="isChairmanVisible"] {
+            color: #0e520e;
+        }
+        &[data-for="isMarkerVisible"] {
+            color: #791820;
+        }
+        background-image: linear-gradient(0deg, #fff, #ccc);
+        text-shadow: 0px 1px white;
+    }
+    font-size: 1.4em;
+}
+
+.search-box {
+    background: white;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+    font-size: 1.2em;
+    padding: 5px;
+    width: 50vw;
+    min-width: 200px;
+    max-width: 400px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+}
+
+.search-box:focus {
+    outline: none;
+    box-shadow: 0 1px 8px rgba(0,0,0,0.3);
+    border-color: #4CAF50;
+}
+.search-control-box {
+    display: none;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    right: 3px;
+    align-items: center;
+    justify-content: space-around;
+    color: #aaa;
+    .active & {
+        display: flex;
+    }
+    i {
+        transition: all 0.2s ease-in;
+        display: inline-box;
+        width: 2em; height: 2em; line-height: 2em;
+        text-align: center;
+        color: #333;
+        &:hover {
+            background: #eee;	
+        }
+        &:active {
+            background: #ddd;	
+        }
+        &.disabled {
+            color: #ccc;
+            pointer-events: none;
+        }
+    }
+    .total-search-index {
+        margin-right: 0.5em;
+    }
+}
+@media screen and (max-width: 512px) {
+    .search-box {
+        border-radius: 4px 4px 0 4px!important;
+    }
+    .search-control-box {
+        overflow: hidden;
+        min-width: 80%;
+        background: white;
+        border: 1px solid rgb(204, 204, 204);
+        border-top: none;
+        box-shadow: 0 1px 0px rgba(0,0,0,0.2);
+        right: 0px;
+        top: calc( 100% + 3px);
+        transform: translate(0, 0%);
+        border-radius: 10px;
+        .now-search-index {
+            margin-left: 1em;
+        }
+    }
+}
+
+/* 使用絕對定位來調整搜尋框的位置 */
+.leaflet-control-container .leaflet-top.leaflet-left {
+    position: relative;
+}
+
+.leaflet-control-container .leaflet-top.leaflet-right {
+    display: flex;
+}
+
+.leaflet-control-container .leaflet-top.leaflet-left .search-control {
+    position: absolute;
+    left: 48px;
+    border: none;
+    top: 0;
+}
+
+.leaflet-control-locate a {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f3c5"; /* fa-map-marker-alt */
+}
+@keyframes search-matches {
+    0% {
+        box-shadow: 0 0 0 0 #ff0000;
+    }
+    100% {
+        box-shadow: 0 0 0 10px #FFCCCC00;
+    }
+}
+.search-matches {
+    animation: search-matches 1s infinite;
+}
+.leaflet-marker-icon {
+    background-size: contain;
+    &:hover {
+        z-index: 100000001!important;
+    }
+}
+.time5 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAwIDEgMTQuOTk5OTk5OTk5OTk5OTk4IC0yNS45ODA3NjIxMTM1MzMxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48L3N2Zz4=')}
+.time10 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAwIDEgMjUuOTgwNzYyMTEzNTMzMTU3IC0xNS4wMDAwMDAwMDAwMDAwMDQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PC9zdmc+')}
+.time15 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAwIDEgMzAgLTEuODM2OTcwMTk4NzIxMDNlLTE1IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPjwvc3ZnPg==')}
+.time20 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAwIDEgMjUuOTgwNzYyMTEzNTMzMTYgMTQuOTk5OTk5OTk5OTk5OTkzIiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPjwvc3ZnPg==')}
+.time25 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAwIDEgMTQuOTk5OTk5OTk5OTk5OTk4IDI1Ljk4MDc2MjExMzUzMzE2IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPjwvc3ZnPg==')}
+.time30 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAwIDEgMy42NzM5NDAzOTc0NDIwNmUtMTUgMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PC9zdmc+')}
+.time35 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAxIDEgLTE1LjAwMDAwMDAwMDAwMDAwNCAyNS45ODA3NjIxMTM1MzMxNTciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PC9zdmc+')}
+.time40 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAxIDEgLTI1Ljk4MDc2MjExMzUzMzE1MyAxNS4wMDAwMDAwMDAwMDAwMTQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PC9zdmc+')}
+.time45 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAxIDEgLTMwIDUuNTEwOTEwNTk2MTYzMDg5ZS0xNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48L3N2Zz4=')}
+.time50 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAxIDEgLTI1Ljk4MDc2MjExMzUzMzE1NyAtMTUuMDAwMDAwMDAwMDAwMDA0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPjwvc3ZnPg==')}
+.time55 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAxIDEgLTE1LjAwMDAwMDAwMDAwMDAxNCAtMjUuOTgwNzYyMTEzNTMzMTUzIiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPjwvc3ZnPg==')}
+.time60 {background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9Ii00NSAtNDUgOTAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSAwIC0zMCBBIDMwIDMwIDAgMSAxIC03LjM0Nzg4MDc5NDg4NDEyZS0xNSAtMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRkFBIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48cGF0aCBkPSJNIDAgLTMwIEEgMzAgMzAgMCAxIDEgLTcuMzQ3ODgwNzk0ODg0MTJlLTE1IC0zMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48L3N2Zz4=')}
+
+
+/* { NEED_PERMISSION start */
+.rank-area {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 12px;
+    border: 1px solid #e9ecef;
+    span {
+        display: inline-block;
+        margin-right: 3px;
+        border-radius: 10px;
+        padding: 2px 5px;
+    }
+    .creative {
+        color: #4ba94d;
+        border: 1px solid #4ba94d;
+    }
+    .tech {
+        color: #00a6ec;
+        border: 1px solid #00a6ec;
+    }
+    .passion {
+        color: #f45320;
+        border: 1px solid #f45320;
+    }
+    blockquote {
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
+    .rank {
+        border: 1px solid transparent;
+        margin-right: 1em;
+        &.rank6 {
+            background-color: #ff626a;
+            border-color: #8a2227;
+            color: #ffffff;
+        }
+        &.rank5 {
+            background-color: #ffff00;
+            border-color: #3b3b10;
+        }
+        &.rank4 {
+            background-color: #95baff;
+            border-color: #223b69;
+            color: #ffffff;
+        }
+        &.rank3 {
+            background-color: #c2ff89;
+            border-color: #3c5e1d;
+        }
+        &.rank2 {
+            background-color: #ffffff;
+            border-color: #858585;
+        }
+        &.rank1 {
+            background-color: #5f5f5f;
+            border-color: #3d3d3d;
+            color: #ffffff;
+        }
+        
+    }
+    em {
+        display: block;
+        text-align: right;
+        font-style: normal;
+        * {
+            text-decoration: none;
+        }
+    }
+}
+.rank-area blockquote:last-child::before {
+    content: "💬 ";
+}
+/* NEED_PERMISSION end */

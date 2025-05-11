@@ -1,0 +1,6 @@
+/event_cache/cache0*.json
+/event_cache/cache1*.json
+/event_cache/events_*.json
+/event_cache/pavilion_*.json
+/nodejs/*
+/secret/*
