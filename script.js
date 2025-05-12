@@ -368,7 +368,11 @@ map.whenReady(async () => {
                 popup.classList.add('show');
             }, 10);
         }
-    }
+    };
+    document.querySelector('.popup-title').addEventListener('click', function() {
+        //複製 popup-title 的內容
+        navigator.clipboard.writeText(this.textContent);
+    });
     var oms_options = {
         circleSpiralSwitchover: 0,
         keepSpiderfied: true,
