@@ -147,7 +147,7 @@ html, body {
 #popup h3 {
     margin-bottom: 10px;
     color: #333;
-    .popup-title:after {
+    .popup-title:before {
         /* fontawesome 複製按鈕 */
         content: '\f0c5';
         font-family: 'Font Awesome 5 Free';

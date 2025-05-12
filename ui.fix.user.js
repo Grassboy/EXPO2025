@@ -3,10 +3,14 @@
 // @namespace   Expo2025
 // @description Improve the user experience of EXPO2025 ticket official site
 // @include     https://ticket.expo2025.or.jp/*
-// @version     1
+// @version     1.2
 // ==/UserScript==
 
 (function() {
+    var fileref = document.createElement('script')
+    fileref.setAttribute('type', 'text/javascript');
+    fileref.setAttribute('src', '//is.gy/expo2025/ui.fix.js?v='+(new Date()).getTime());
+    document.getElementsByTagName('head').item(0).appendChild(fileref);
     //讓 ticket.expo2025.or.jp 支援上/下一頁切換
     var page_map = JSON.parse(localStorage.page_map || '{}');
     window.onbeforeunload = function() {
