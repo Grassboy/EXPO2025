@@ -2705,7 +2705,9 @@
     "portal_url": "https://expo2025.digitalnatureandarts.or.jp/",
     "chairman": false,
     "is_today": true,
-    "cost_time": 10
+    "cost_time": 10,
+    "lat": 34.64776085643435,
+    "lng": 135.38319982588294
   },
   "M103": {
     "id": 664,
@@ -2729,7 +2731,9 @@
     "virtual_url": "",
     "portal_url": "https://www.drum-tao.com/",
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "lat": 34.647393817006105,
+    "lng": 135.38818478546634
   },
   "M106": {
     "id": 665,
@@ -2753,7 +2757,9 @@
     "virtual_url": "",
     "portal_url": "https://www.drum-tao.com/",
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "lat": 34.64715197390652,
+    "lng": 135.38809754148994
   },
   "M109": {
     "id": 666,
@@ -2777,7 +2783,9 @@
     "virtual_url": "",
     "portal_url": "https://www.drum-tao.com/",
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "lat": 34.64762317722946,
+    "lng": 135.38827392605094
   },
   "M112": {
     "id": 667,
@@ -2801,7 +2809,9 @@
     "virtual_url": "",
     "portal_url": "https://www.drum-tao.com/",
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "lat": 34.6472268673289,
+    "lng": 135.38780167061338
   },
   "M115": {
     "id": 668,
@@ -2825,7 +2835,9 @@
     "virtual_url": "",
     "portal_url": "https://www.drum-tao.com/",
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "lat": 34.64729864012852,
+    "lng": 135.3875095929532
   },
   "M118": {
     "id": 669,
@@ -2849,7 +2861,9 @@
     "virtual_url": "",
     "portal_url": "https://www.drum-tao.com/",
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "lat": 34.6474624691123,
+    "lng": 135.38789460441433
   },
   "M148": {
     "id": 691,
@@ -2897,7 +2911,9 @@
     "virtual_url": "",
     "portal_url": "",
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "lat": 34.65166691558707,
+    "lng": 135.37566751241687
   },
   "U026": {
     "id": 3249,
@@ -2921,6 +2937,8 @@
     "virtual_url": "",
     "portal_url": "",
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "lat": 34.64896452258148,
+    "lng": 135.38837246596813
   }
 }
