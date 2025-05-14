@@ -819,4 +819,32 @@ var HelpControl = L.Control.extend({
 
 // 創建並添加幫助控制項到地圖
 var helpControl = new HelpControl();
-helpControl.addTo(map); 
+helpControl.addTo(map);
+
+function alertMsg(txt) {
+    // 移除已存在的 alert-msg
+    const existingAlert = document.querySelector('.alert-msg');
+    if (existingAlert) {
+        existingAlert.remove();
+    }
+
+    // 創建新的 alert-msg
+    const alert = document.createElement('div');
+    alert.className = 'alert-msg';
+    alert.textContent = txt;
+    document.body.appendChild(alert);
+
+    // 強制重繪
+    alert.offsetHeight;
+
+    // 添加 show 類別來觸發動畫
+    alert.classList.add('show');
+
+    // 5秒後移除
+    setTimeout(() => {
+        alert.classList.remove('show');
+        setTimeout(() => {
+            alert.remove();
+        }, 300); // 等待動畫結束
+    }, 5000);
+} 

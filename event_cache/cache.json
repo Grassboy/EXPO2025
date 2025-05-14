@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-05-14 13:47:56",
+  "_parse_time": "2025-05-14 23:54:22",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -2733,7 +2733,8 @@
     "lat": 34.647393817006105,
     "lng": 135.38818478546634,
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "cost_time": 45
   },
   "M106": {
     "id": 665,
@@ -2759,7 +2760,8 @@
     "lat": 34.64715197390652,
     "lng": 135.38809754148994,
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "cost_time": 45
   },
   "M109": {
     "id": 666,
@@ -2785,7 +2787,8 @@
     "lat": 34.64762317722946,
     "lng": 135.38827392605094,
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "cost_time": 45
   },
   "M112": {
     "id": 667,
@@ -2811,7 +2814,8 @@
     "lat": 34.6472268673289,
     "lng": 135.38780167061338,
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "cost_time": 45
   },
   "M115": {
     "id": 668,
@@ -2837,7 +2841,8 @@
     "lat": 34.64729864012852,
     "lng": 135.3875095929532,
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "cost_time": 45
   },
   "M118": {
     "id": 669,
@@ -2863,7 +2868,8 @@
     "lat": 34.6474624691123,
     "lng": 135.38789460441433,
     "chairman": false,
-    "is_today": true
+    "is_today": true,
+    "cost_time": 45
   },
   "M148": {
     "id": 691,
@@ -2886,10 +2892,11 @@
     },
     "virtual_url": "",
     "portal_url": "https://www.drum-tao.com/",
+    "lat": 34.64768528194563,
+    "lng": 135.38798153400424,
     "chairman": true,
     "is_today": true,
-    "lat": 34.64768528194563,
-    "lng": 135.38798153400424
+    "cost_time": 45
   },
   "S01I": {
     "id": 4762,
