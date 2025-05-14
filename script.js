@@ -52,7 +52,7 @@ var fetchJSONifNotInLocalStorage = async function(url, cache_key) {
     if(localStorage.getItem(cache_key)) {
         var json = JSON.parse(localStorage.getItem(cache_key));
         // 如果 json 的 _parse_time 是今天，則直接返回 json
-        if(json._parse_time && new Date(json._parse_time).toString().substr(0,10) == new Date().toString().substr(0,10)) {
+        if(json._parse_time && json._parse_time != "2025-05-14 08:46:04" && new Date(json._parse_time).toString().substr(0,10) == new Date().toString().substr(0,10)) {
             return json;
         }
     }

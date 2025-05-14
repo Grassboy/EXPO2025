@@ -2887,7 +2887,9 @@
     "virtual_url": "",
     "portal_url": "https://www.drum-tao.com/",
     "chairman": true,
-    "is_today": true
+    "is_today": true,
+    "lat": 34.64767976555688,
+    "lng": 135.3879748284817
   },
   "S01I": {
     "id": 4762,
