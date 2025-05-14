@@ -597,7 +597,7 @@ html, body {
         text-align: center;
         list-style: none;
         font-size: 0.8em;
-        min-width: 150px;
+        min-width: 120px;
         margin-bottom: 0.3em;
     }
     .leaflet-marker-icon {
