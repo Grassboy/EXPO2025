@@ -2,7 +2,6 @@
 let cache = {};
 let pavilion = {};
 let rank = {};
-
 // default config managed by localStorage
 var getConfig = function(key, default_value){
     return localStorage.getItem(key) || (localStorage.setItem(key, default_value) || default_value);
@@ -10,6 +9,8 @@ var getConfig = function(key, default_value){
 var setConfig = function(key, value){
     localStorage.setItem(key, value);
 };
+
+localStorage.cache_time = getConfig('cache_time', (new Date()).getTime());
 
 //綁定 onmessage 事件 
 var support_events = {
@@ -304,6 +305,7 @@ var ReloadControl = L.Control.extend({
             .on(link, 'click', L.DomEvent.preventDefault)
             .on(link, 'click', function() {
                 if(confirm('您將清空您裝置上的快取並重新載入頁面，確定要繼續嗎？')) {
+                    setConfig('cache_time', (new Date()).getTime());
                     delete localStorage.cache;
                     delete localStorage.pavilion;
                     delete localStorage.rank;
@@ -323,10 +325,10 @@ map.whenReady(async () => {
     if(map.getZoom() > 18) {
         map.getContainer().classList.add('zoom-in');
     }
-    cache = await fetchJSONifNotInLocalStorage('event_cache/cache.json?v='+getMMDD(), 'cache');
-    pavilion = await fetchJSONifNotInLocalStorage('event_cache/pavilion.json?v='+getMMDD(), 'pavilion');
+    cache = await fetchJSONifNotInLocalStorage('event_cache/cache.json?v='+getMMDD()+localStorage.cache_time, 'cache');
+    pavilion = await fetchJSONifNotInLocalStorage('event_cache/pavilion.json?v='+getMMDD()+localStorage.cache_time, 'pavilion');
     //NEED_PERMISSION
-    rank = await fetchJSONifNotInLocalStorage('event_cache/rank.Sophy.json?v='+getMMDD(), 'rank');
+    rank = await fetchJSONifNotInLocalStorage('event_cache/rank.Sophy.json?v='+getMMDD()+localStorage.cache_time, 'rank');
 
     //console.log('地圖載入完成，開始添加標記點');
     let row = 0;
@@ -351,6 +353,7 @@ map.whenReady(async () => {
         previous_marker_icon = marker.getIcon();
         previous_marker_is_search_matches = marker.getElement().classList.contains('search-matches');
         const popup = document.getElementById('popup');
+        const popup2 = document.getElementById('popup_helper');
         const h3 = popup.querySelector('.popup-title');
         const code = popup.querySelector('.code');
         const cost_time = popup.querySelector('.cost-time');
@@ -363,9 +366,11 @@ map.whenReady(async () => {
         attachRankItem(code_text.split('-')[0], summary);
         if(popup.style.display != 'flex') {
             popup.style.display = 'flex';
+            popup2.classList.remove('show');
             // 使用 setTimeout 確保 display: flex 生效後再添加 show 類別
             setTimeout(() => {
                 popup.classList.add('show');
+                popup2.style.display = 'none';
             }, 10);
         }
     };
@@ -563,8 +568,9 @@ map.on('click', (newEvent) => {
         newEvent.originalEvent.preventDefault();
         newEvent.originalEvent.stopPropagation();
     } else {
-        const popup = document.getElementById('popup');
-        popup.classList.remove('show');
+        [...document.querySelectorAll('.popup')].forEach(popup => {
+            popup.classList.remove('show');
+        });
         if(previous_marker) {
             previous_marker.setIcon(previous_marker_icon);
             if(previous_marker_is_search_matches) {
@@ -573,12 +579,16 @@ map.on('click', (newEvent) => {
         }
         // 等待動畫結束後再隱藏元素
         setTimeout(() => {
-            popup.style.display = 'none';
+            [...document.querySelectorAll('.popup')].forEach(popup => {
+                popup.style.display = 'none';
+            });
         }, 300);
     }
 });
-document.querySelector('.close-popup').addEventListener('click', () => {
-    map.fire('click');
+[...document.querySelectorAll('.close-popup')].forEach(closePopup => {
+    closePopup.addEventListener('click', () => {
+        map.fire('click');
+    });
 });
 map.on('zoomend', () => {
     var zoom = map.getZoom();
@@ -781,4 +791,32 @@ var SearchControl = L.Control.extend({
 
 // 創建並添加搜尋控制項到地圖
 var searchControl = new SearchControl();
-searchControl.addTo(map); 
+searchControl.addTo(map);
+
+// 幫助控制項
+var HelpControl = L.Control.extend({
+    options: {
+        position: 'bottomright'
+    },
+    onAdd: function(map) {
+        var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
+        var link = L.DomUtil.create('a', 'help-control-button', container);
+        link.href = '#';
+        link.innerHTML = '<i class="fa-solid fa-circle-question"></i>';
+        L.DomEvent
+            .on(link, 'click', L.DomEvent.stopPropagation)
+            .on(link, 'click', L.DomEvent.preventDefault)
+            .on(link, 'click', function() {
+                const popup = document.getElementById('popup_helper');
+                popup.style.display = 'flex';
+                setTimeout(() => {
+                    popup.classList.add('show');
+                }, 10);
+            });
+        return container;
+    }
+});
+
+// 創建並添加幫助控制項到地圖
+var helpControl = new HelpControl();
+helpControl.addTo(map); 

@@ -19,7 +19,7 @@
 </head>
 <body>
     <div id="map"></div>
-    <div id="popup">
+    <div id="popup" class="popup">
         <h3>
             <span class="popup-title"></span><span class="code"></span>
             <span class="cost-time"></span>
@@ -28,6 +28,139 @@
         <div class="popup-content">
             <div class="additional-info"></div>
             <div class="summary"></div>
+        </div>
+    </div>
+    <div id="popup_helper" class="popup">
+        <h3>
+            <span class="helper-title-text">地圖使用說明</span>
+            <span class="close-popup"><i class="fa-solid fa-xmark"></i></span>
+        </h3>
+        <div class="popup-content">
+            <div class="card">
+                <h4>基本操作</h4>
+                <div class="helper-description">
+                    <span class="custom-control-button active language-control-button" style="outline-style: none; line-height: 100%; vertical-align: middle;" href="#">🇹🇼</span> 可點選來切換地圖語系顯示 (美、日、法、韓、繁中、簡中) <em>注意：語系只會影響各場館的介紹，介面呈現目前不支援多語系切換</em>
+                    <br>
+                    <span class="custom-control-button active reload-control-button" href="#" style="outline-style: none;"><i class="fa-solid fa-arrows-rotate"></i></span> 可清空場館資料、評價資料的本機暫存，確保資料是最新的
+                    <br>
+                    <span class="custom-control-button active leaflet-bar-part leaflet-bar-part-single" title="Show me where I am" role="button" href="#" style="outline-style: none;"><span class="fa-solid fa-location-crosshairs" style="transform: scale(0.8);"></span></span> 可用來 GPS 定位您所在的位置
+                </div>
+            </div>
+            <div class="card">
+                <h4>圖標外圍顏色：地點類型</h4>
+                <div class="helper-description">
+                    可透過點選
+                    <span class="custom-control-button active" data-for="isPavilionVisible" style="outline-style: none;"><i class="fa-solid fa-landmark-flag"></i></span>
+                    <span class="custom-control-button active" data-for="isMarkerVisible" style="outline-style: none;"><i class="fa-regular fa-calendar-plus"></i></span>
+                    <span class="custom-control-button active" data-for="isChairmanVisible" style="outline-style: none;"><i class="fa-brands fa-accessible-icon"></i></span>
+                    來切換顯示
+                    <em>注意：當日預約點，不保證與官網一致，若有出入請以官網資訊為準</em>
+                </div>
+                <ul>
+                    <li>
+                        <span class="leaflet-marker-icon pavilion-marker">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">官方場館介紹</span>
+                    </li>
+                    <li>
+                        <span class="leaflet-marker-icon default-marker">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">一般當日預約點</span>
+                    </li>
+                    <li>
+                        <span class="leaflet-marker-icon wheelchair-marker">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">無障礙當日預約點</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="card">
+                <h4>圖標弧型長條：估計時長(比照時鐘)</h4>
+                <ul>
+                    <li>
+                        <span class="leaflet-marker-icon default-marker time15">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">15分鐘</span>
+                    </li>
+                    <li>
+                        <span class="leaflet-marker-icon default-marker time45">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">45分鐘</span>
+                    </li>
+                    <li>
+                        <span class="leaflet-marker-icon default-marker time60">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">60分鐘以上</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="card">
+                <h4>圓心顏色：場館整體評價</h4>
+                <ul>
+                    <li>
+                        <span class="leaflet-marker-icon pavilion-marker time20 rank6">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">超超猛</span>
+                    </li>
+                    <li>
+                        <span class="leaflet-marker-icon pavilion-marker time20 rank5">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">超猛</span>
+                    </li>
+                    <li>
+                        <span class="leaflet-marker-icon pavilion-marker time20 rank4">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">用心</span>
+                    </li>
+                    <li>
+                        <span class="leaflet-marker-icon pavilion-marker time20 rank3">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">普通</span>
+                    </li>
+                    <li>
+                        <span class="leaflet-marker-icon pavilion-marker time20 rank2">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">未參觀/無評價</span>
+                    </li>
+                    <li>
+                        <span class="leaflet-marker-icon pavilion-marker time20 rank1">
+                            <span class="marker-inner"></span>
+                        </span>
+                        <span class="color-name">可..可以別去</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="card">
+                <h4>特別感謝</h4>
+                <div class="helper-description">
+                    <span>SVG 圖示 <a href="https://www.svgrepo.com/" target="_blank" rel="noopener noreferrer">https://www.svgrepo.com/</a></span>
+                    <br>
+                    <span>場館評價協力 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2iOPhoVcIdiR4fha8-YV0zbFeKJHwXBD97_FqSuSUdWrLm82dUnsmtvZpxY4qQpe0UYTXMCbhFMaK/pubhtml?fbclid=IwY2xjawJ2nuJleHRuA2FlbQIxMABicmlkETFESUlkSWt0dWFZNzUzUUFLAR6AegBApEHvz8N76TT7bg-AdbbMuXpi9S0MTgardWOyHlDxJiFa_XJf20tVYg_aem_EHqJW0lUFvytpd1KdWWAQA" target="_blank" rel="noopener noreferrer">Sophy Lin.</a></span>
+                </div>
+            </div>
+            <div class="card">
+                <h4>免責聲明 & 閒聊</h4>
+                <div class="helper-description">
+                    本地圖所使用到的場館資訊，資料來源皆為官網收集而來，若地圖上的資訊與官網有所出入，請以官網資訊為主<br>
+                    此地圖為非官方地圖，若有問題請勿拿著此地圖打擾官方人員XD
+                    <br><br>
+                    若對此地圖有任何建議，您可以發 <a href="https://github.com/grassboy/EXPO2025/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a>，
+                    或至 <a href="https://www.facebook.com/Grassboy/posts/pfbid02KdeZkzFkMNj9nALds2msCGbonuNMY82P9MedLCmbPf5bSBGTXaV56kmKRNqbXsADl" target="_blank" rel="noopener noreferrer">Facebook</a> 進行交流
+                    <br>
+                    小胖子 Grassboy 祝您萬博之旅愉快！
+                </div>
+            </div>
         </div>
     </div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
