@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-05-12 04:23:15",
+  "_parse_time": "2025-05-14 08:46:04",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -685,8 +685,8 @@
       "zh-cn": null
     },
     "event_summary": {
-      "en": "[Duration: 30min] [Gather: On the hour] Enter the liminal realm where matter and void, real and virtual, coalesce. Experience a transformative theater where digital bodies come to life, and witness pavilion sculptures that distort landscapes, allowing you to perceive the ever-shifting nature of reality. This pavilion, with 'Null' at its core, explores the interplay between being and non-being. Embark upon a journey into the Digital Nature, where contrasts entwine. *Please note that this experience features intense flashing lights and high volume sound. *Requires the 'Mirrored Body🄬' app.",
-      "ja": "【所要時間30分】【受付時間：表示時刻通り】ここは、物質と非物質、現実と仮想の境界線が溶け合う、未知なる領域への入り口です。デジタルの身体が動き出すシアター体験と、風景を歪ませるパビリオンの彫刻を鑑賞することで変幻する現実を感じられます。「ヌル（null）」という概念を軸に、存在と非存在の相互作用を探求するこのパビリオンで、静寂と騒音、光と闇、生と死――相反する要素が交錯するデジタルネイチャー（計算機自然）への旅に出発しましょう。※本体験は強い光の明滅と大音量を使った演出です。※本体験は「Mirrored Body🄬アプリ」が必要となります。",
+      "en": "[Duration: 30min] [Gather: On the hour] Observe a story of the eternal“now”through a dialogue with the\nMirrored Body in a world shaped by computationl nature. *Please note that this experience features intense flashing lights and high volume sound. *Prepare the “Mirrored Body🄬” app in advance for a better experience.",
+      "ja": "【所要時間30分】【受付時間：表示時刻通り】デジタルの身体（Mirrored Body）との対話、計算機自然で永遠の「いま」を生きるストーリーを観覧できます  ※本体験は強い光の明滅と大音量を使った演出です。※本体験は「Mirrored Body🄬アプリ」を事前にご準備いただくとよりお楽しみいただけます。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -759,7 +759,7 @@
     "event_code": "II00",
     "event_name": {
       "en": "Signature Pavilion KAWAMORI Shoji”Live Earth Journey” Deep Vision",
-      "ja": "＊13歳以上＊シグネチャーパビリオン 河森正治 「いのちめぐる冒険」 超時空シアター",
+      "ja": "*13歳以上*シグネチャーパビリオン 河森正治 「いのちめぐる冒険」 超時空シアター",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -786,7 +786,7 @@
     "event_code": "II03",
     "event_name": {
       "en": "Signature Pavilion KAWAMORI Shoji”Live Earth Journey” Deep Vision Wheelchair Accesible",
-      "ja": "シグネチャーパビリオン 河森正治 「いのちめぐる冒険」 超時空シアター 車いす対応",
+      "ja": "*車いす専用*シグネチャーパビリオン 河森正治 「いのちめぐる冒険」 超時空シアター",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -2035,7 +2035,7 @@
     "lat": 34.65279375563385,
     "lng": 135.37446756678284,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "Q013": {
     "id": 1233,
@@ -2061,7 +2061,7 @@
     "lat": 34.65282183876391,
     "lng": 135.37451877520377,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T11R": {
     "id": 3242,
@@ -2135,7 +2135,7 @@
     "lat": 34.65175623332695,
     "lng": 135.38144234337582,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 30
   },
   "IO06": {
@@ -2187,7 +2187,7 @@
     "lat": 34.65280077641725,
     "lng": 135.37450075742603,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "SI06": {
     "id": 1264,
@@ -2654,7 +2654,7 @@
     "lat": 34.65178275661531,
     "lng": 135.37573355274498,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U00X": {
     "id": 1896,
@@ -2681,5 +2681,246 @@
     "lng": 135.3883687564601,
     "chairman": false,
     "is_today": false
+  },
+  "IC03": {
+    "id": 44,
+    "event_code": "IC03",
+    "event_name": {
+      "en": "Signature Pavilion OCHIAI Yoichi 'null²' walkthrough",
+      "ja": "シグネチャーパビリオン 落合陽一  「null²」インスタレーションモード　※予約時間の10分前集合",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "［AverageDuration:10min］［10 min before the reservation start time］View an autonomous piece featuring artificial life projected\non to mirrored LED panels on the ceiling and floor.  *Please note that this experience features intense flashing lights and high volume sound. ",
+      "ja": "【平均所要時間10分】【受付時間：予約時間の10分前集合】天井と床の鏡面状LEDに映し出される人工生命が自律生成された作品を鑑賞いただけます。 ※本体験は強い光の明滅と大音量を使った演出です",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-024530",
+    "portal_url": "https://expo2025.digitalnatureandarts.or.jp/",
+    "chairman": false,
+    "is_today": true,
+    "cost_time": 10
+  },
+  "M103": {
+    "id": 664,
+    "event_code": "M103",
+    "event_name": {
+      "en": "DRUM TAO 「THE　WADAIKO」　　AA",
+      "ja": "DRUM TAO 「THE　WADAIKO」　ブロック　AA",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date：May 14 - May 15】【Doors open are 1 hour before the show starts】*Customers using wheelchair are requested to make a reservation in the wheelchair seats.*Please refrain from entering with strollers.【Performer】 DRUM TAO　【Summary】Expressing tradition and innovation through cutting-edge/pioneering stage arts, this performance crafts a compelling story in collaboration with visuals. World-renowned fashion designer Junko Koshino's costumes will elevate the experience into the ultimate fusion of art and beat! ■Non-verbal taiko-drumming entertainments Show(45min)/Please enjoy it. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：5月14日～5月15日】【来場は開演1時間前】＊車いすでのご参加は車いす用のブロックで予約が必要となります。＊ベビーカーでの入場はご遠慮ください。【出演者】　DRUM TAO　【概要】伝統と革新を最先端の舞台芸術として表現し、映像とのコラボでストーリーを描く。世界的なファッションデザイナー「コシノジュンコ」の衣装が、究極のアート＆ビートへと覚醒させる！！■ノンバーバル和太鼓エンターテインメントショー(上演時間45分)■ぜひお楽しみください。ブロック座席の位置はVisitorsアプリを参照してください。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.drum-tao.com/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M106": {
+    "id": 665,
+    "event_code": "M106",
+    "event_name": {
+      "en": "DRUM TAO 「THE　WADAIKO」　　A",
+      "ja": "DRUM TAO 「THE　WADAIKO」　ブロック　A",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date：May 14 - May 15】【Doors open are 1 hour before the show starts】*Customers using wheelchair are requested to make a reservation in the wheelchair seats.*Please refrain from entering with strollers.【Performer】 DRUM TAO　【Summary】Expressing tradition and innovation through cutting-edge/pioneering stage arts, this performance crafts a compelling story in collaboration with visuals. World-renowned fashion designer Junko Koshino's costumes will elevate the experience into the ultimate fusion of art and beat! ■Non-verbal taiko-drumming entertainments Show(45min)/Please enjoy it. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：5月14日～5月15日】【来場は開演1時間前】＊車いすでのご参加は車いす用のブロックで予約が必要となります。＊ベビーカーでの入場はご遠慮ください。【出演者】　DRUM TAO　【概要】伝統と革新を最先端の舞台芸術として表現し、映像とのコラボでストーリーを描く。世界的なファッションデザイナー「コシノジュンコ」の衣装が、究極のアート＆ビートへと覚醒させる！！■ノンバーバル和太鼓エンターテインメントショー(上演時間45分)■ぜひお楽しみください。ブロック座席の位置はVisitorsアプリを参照してください。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.drum-tao.com/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M109": {
+    "id": 666,
+    "event_code": "M109",
+    "event_name": {
+      "en": "DRUM TAO 「THE　WADAIKO」　　B",
+      "ja": "DRUM TAO 「THE　WADAIKO」　ブロック　B",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date：May 14 - May 15】【Doors open are 1 hour before the show starts】*Customers using wheelchair are requested to make a reservation in the wheelchair seats.*Please refrain from entering with strollers.【Performer】 DRUM TAO　【Summary】Expressing tradition and innovation through cutting-edge/pioneering stage arts, this performance crafts a compelling story in collaboration with visuals. World-renowned fashion designer Junko Koshino's costumes will elevate the experience into the ultimate fusion of art and beat! ■Non-verbal taiko-drumming entertainments Show(45min)/Please enjoy it. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：5月14日～5月15日】【来場は開演1時間前】＊車いすでのご参加は車いす用のブロックで予約が必要となります。＊ベビーカーでの入場はご遠慮ください。【出演者】　DRUM TAO　【概要】伝統と革新を最先端の舞台芸術として表現し、映像とのコラボでストーリーを描く。世界的なファッションデザイナー「コシノジュンコ」の衣装が、究極のアート＆ビートへと覚醒させる！！■ノンバーバル和太鼓エンターテインメントショー(上演時間45分)■ぜひお楽しみください。ブロック座席の位置はVisitorsアプリを参照してください。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.drum-tao.com/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M112": {
+    "id": 667,
+    "event_code": "M112",
+    "event_name": {
+      "en": "DRUM TAO 「THE　WADAIKO」　　C",
+      "ja": "DRUM TAO 「THE　WADAIKO」　ブロック　C",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date：May 14 - May 15】【Doors open are 1 hour before the show starts】*Customers using wheelchair are requested to make a reservation in the wheelchair seats.*Please refrain from entering with strollers.【Performer】 DRUM TAO　【Summary】Expressing tradition and innovation through cutting-edge/pioneering stage arts, this performance crafts a compelling story in collaboration with visuals. World-renowned fashion designer Junko Koshino's costumes will elevate the experience into the ultimate fusion of art and beat! ■Non-verbal taiko-drumming entertainments Show(45min)/Please enjoy it. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：5月14日～5月15日】【来場は開演1時間前】＊車いすでのご参加は車いす用のブロックで予約が必要となります。＊ベビーカーでの入場はご遠慮ください。【出演者】　DRUM TAO　【概要】伝統と革新を最先端の舞台芸術として表現し、映像とのコラボでストーリーを描く。世界的なファッションデザイナー「コシノジュンコ」の衣装が、究極のアート＆ビートへと覚醒させる！！■ノンバーバル和太鼓エンターテインメントショー(上演時間45分)■ぜひお楽しみください。ブロック座席の位置はVisitorsアプリを参照してください。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.drum-tao.com/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M115": {
+    "id": 668,
+    "event_code": "M115",
+    "event_name": {
+      "en": "DRUM TAO 「THE　WADAIKO」　　D",
+      "ja": "DRUM TAO 「THE　WADAIKO」　ブロック　D",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date：May 14 - May 15】【Doors open are 1 hour before the show starts】*Customers using wheelchair are requested to make a reservation in the wheelchair seats.*Please refrain from entering with strollers.【Performer】 DRUM TAO　【Summary】Expressing tradition and innovation through cutting-edge/pioneering stage arts, this performance crafts a compelling story in collaboration with visuals. World-renowned fashion designer Junko Koshino's costumes will elevate the experience into the ultimate fusion of art and beat! ■Non-verbal taiko-drumming entertainments Show(45min)/Please enjoy it. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：5月14日～5月15日】【来場は開演1時間前】＊車いすでのご参加は車いす用のブロックで予約が必要となります。＊ベビーカーでの入場はご遠慮ください。【出演者】　DRUM TAO　【概要】伝統と革新を最先端の舞台芸術として表現し、映像とのコラボでストーリーを描く。世界的なファッションデザイナー「コシノジュンコ」の衣装が、究極のアート＆ビートへと覚醒させる！！■ノンバーバル和太鼓エンターテインメントショー(上演時間45分)■ぜひお楽しみください。ブロック座席の位置はVisitorsアプリを参照してください。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.drum-tao.com/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M118": {
+    "id": 669,
+    "event_code": "M118",
+    "event_name": {
+      "en": "DRUM TAO 「THE　WADAIKO」　　E",
+      "ja": "DRUM TAO 「THE　WADAIKO」　ブロック　E",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date：May 14 - May 15】【Doors open are 1 hour before the show starts】*Customers using wheelchair are requested to make a reservation in the wheelchair seats.*Please refrain from entering with strollers.【Performer】 DRUM TAO　【Summary】Expressing tradition and innovation through cutting-edge/pioneering stage arts, this performance crafts a compelling story in collaboration with visuals. World-renowned fashion designer Junko Koshino's costumes will elevate the experience into the ultimate fusion of art and beat! ■Non-verbal taiko-drumming entertainments Show(45min)/Please enjoy it. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：5月14日～5月15日】【来場は開演1時間前】＊車いすでのご参加は車いす用のブロックで予約が必要となります。＊ベビーカーでの入場はご遠慮ください。【出演者】　DRUM TAO　【概要】伝統と革新を最先端の舞台芸術として表現し、映像とのコラボでストーリーを描く。世界的なファッションデザイナー「コシノジュンコ」の衣装が、究極のアート＆ビートへと覚醒させる！！■ノンバーバル和太鼓エンターテインメントショー(上演時間45分)■ぜひお楽しみください。ブロック座席の位置はVisitorsアプリを参照してください。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.drum-tao.com/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M148": {
+    "id": 691,
+    "event_code": "M148",
+    "event_name": {
+      "en": "DRUM TAO 「THE　WADAIKO」　wheelchair",
+      "ja": "DRUM TAO 「THE　WADAIKO」　車いす席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date：May 14 - May 15】【Doors open are 1 hour before the show starts】*Customers using wheelchair are requested to make a reservation in the wheelchair seats.*Please refrain from entering with strollers.【Performer】 DRUM TAO　【Summary】Expressing tradition and innovation through cutting-edge/pioneering stage arts, this performance crafts a compelling story in collaboration with visuals. World-renowned fashion designer Junko Koshino's costumes will elevate the experience into the ultimate fusion of art and beat! ■Non-verbal taiko-drumming entertainments Show(45min)/Please enjoy it. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：5月14日～5月15日】【来場は開演1時間前】＊車いすでのご参加は車いす用のブロックで予約が必要となります。＊ベビーカーでの入場はご遠慮ください。【出演者】　DRUM TAO　【概要】伝統と革新を最先端の舞台芸術として表現し、映像とのコラボでストーリーを描く。世界的なファッションデザイナー「コシノジュンコ」の衣装が、究極のアート＆ビートへと覚醒させる！！■ノンバーバル和太鼓エンターテインメントショー(上演時間45分)■ぜひお楽しみください。ブロック座席の位置はVisitorsアプリを参照してください。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.drum-tao.com/",
+    "chairman": true,
+    "is_today": true
+  },
+  "S01I": {
+    "id": 4762,
+    "event_code": "S01I",
+    "event_name": {
+      "en": "[Junior SDGs Camp]Let's learn about the SDGs with the Netherlands at the Expo!",
+      "ja": "【ジュニアSDGsキャンプ】オランダと一緒にSDGsについて万博で勉強しましょう！",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "*This event will be held at Junior SDGs Camp in Future Life Zone.【Date:May 8th, 14th and 29th】【15:00-16:00(OPEN14:40)】【recommended age】For elementary school lower grades【Summary】Through presentations by Dutch students, you can learn about the culture of the Netherlands, which is said to be the 'happiest country for children in the world,' and think together about the differences between Japan and the Netherlands from the perspective of the SDGs and the reasons for them! *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "※本イベントの実施場所はフューチャーライフゾーン「ジュニアSDGsキャンプ」です。【開催日：5月8日、14日、29日】【15:00-16:00(OPEN14:40)】【対象学年】中学生～高校生向け【概要】オランダ人学生によるプレゼンテーションで、「子供が世界一幸福な国」と言われるオランダの文化等を知るとともに、ディスカッションを通じて、SDGsの観点で日本との違いやその理由について一緒に考えましょう！※本プログラムは英語で実施予定です。日本語対応可能なスタッフも同席します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "chairman": false,
+    "is_today": true
+  },
+  "U026": {
+    "id": 3249,
+    "event_code": "U026",
+    "event_name": {
+      "en": " WA Space <Canada Presents: RegenHERation>",
+      "ja": "WAスペース カナダ・プレゼンツ：輝き続ける女性たち",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: May 14th】【12:00-14:30 (OPEN11:30)】【Summary】Women’s Pavilion.Expo 2025 Osaka Kansai, Canada will present a monthly series of events at the Women's Pavilion in collaboration with Cartier. Titled 'RegenHERation' (which draws from the Canada Pavilion theme of 'Regeneration'), the series will seek to celebrate progress made in advancing gender equality globally, and inspire the current and future generations who are moving society forward. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：5月14日】【12:00-14:30 (OPEN11:30)】【概要】ウーマンズパビリオン。2025大阪・関西万博に出展されるウーマンズ パビリオン in collaboration with Cartier  で、カナダは毎月シリーズとしてイベントをお届けします。シリーズのタイトルは、「輝き続ける女性たち」。カナダパビリオンのテーマである「再生」に関連付けたこのタイトルの下、ジェンダー平等の実現に向けたこれまでの世界の進歩を称え、これからの社会の発展を担う現在と未来の世代にインスピレーションをもたらすことを目標としています。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "chairman": false,
+    "is_today": true
   }
 }

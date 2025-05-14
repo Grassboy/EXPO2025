@@ -146,7 +146,7 @@ var isChairmanVisible = JSON.parse(getConfig('isChairmanVisible', '"false"'));
 var isPavilionVisible = JSON.parse(getConfig('isPavilionVisible', '"true"'));
 var isMarkerVisible = JSON.parse(getConfig('isMarkerVisible', '"true"'));
 var markerGroup, chairmanMarkerGroup, pavilionMarkerGroup;
-var view = [[34.6937, 135.5023, 15], 15];
+var view = [[34.64961709870932, 135.38326621055606], 16];
 if (savedCenter && savedZoom) {
     const center = JSON.parse(savedCenter);
     view = [center, parseFloat(savedZoom)];
