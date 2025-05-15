@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-05-14 23:54:22",
+  "_parse_time": "2025-05-15 08:22:54",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -2035,7 +2035,7 @@
     "lat": 34.65279375563385,
     "lng": 135.37446756678284,
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "Q013": {
     "id": 1233,
@@ -2061,7 +2061,7 @@
     "lat": 34.65282183876391,
     "lng": 135.37451877520377,
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "T11R": {
     "id": 3242,
@@ -2187,7 +2187,7 @@
     "lat": 34.65280077641725,
     "lng": 135.37450075742603,
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "SI06": {
     "id": 1264,
@@ -2922,7 +2922,7 @@
     "lat": 34.65166691558707,
     "lng": 135.37566751241687,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U026": {
     "id": 3249,
@@ -2948,6 +2948,110 @@
     "lat": 34.64896452258148,
     "lng": 135.38837246596813,
     "chairman": false,
-    "is_today": true
+    "is_today": false
+  },
+  "HKH0": {
+    "id": 2720,
+    "event_code": "HKH0",
+    "event_name": {
+      "en": "YOSHIMOTO Pavilion waraii myraii",
+      "ja": "よしもとwaraii myraii館（球体内鑑賞）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Experience the power of laughter—connecting mind and body—at the Yoshimoto waraii myraii Pavilion.A smile-filled sphere greets visitors, housing an installation by artist Masaru Ozaki.Advance reservations are recommended for this pavilion's unique exhibition.Daily shows in the plaza beyond the sphere offer a fresh experience every day, regardless of the weather.Let laughter lighten your heart and soul.",
+      "ja": "「こころとからだにつながる、笑いのチカラ」を体験できる場所、それが「よしもとwaraii myraii館」です。訪れた人々を出迎えるのは、笑顔を象徴する球体です。球体内には、アーティスト尾崎まさる氏のインスタレーションを展示。本パビリオンでは、この球体内の展示をスムーズにご覧いただく、事前予約を受け付けております。球体の抜けた先に広がる広場では、毎日多彩なショーが開催され、晴れの日も雨の日も、どんな日でも一期一会の体験を提供します。笑いによってこころもからだも軽くなる時間をお楽しみください。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-325565",
+    "portal_url": "",
+    "chairman": false,
+    "is_today": true,
+    "lat": 34.65027403607616,
+    "lng": 135.3797353960111
+  },
+  "T200": {
+    "id": 1866,
+    "event_code": "T200",
+    "event_name": {
+      "en": "Smart City Solutions: Bringing Collaboration among Lithuania, Japan and Globally",
+      "ja": "スマートシティ・ソリューション：リトアニアと日本、そしてグローバルなコラボレーションの架け橋",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The future of Community and Mobility】【Date:May 15th】【10:00-12:30 (OPEN9:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】The event aims to foster global collaboration, particularly between Lithuania and Japan, on smart city innovations. (Republic of Lithuania) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・未来のコミュニティとモビリティ】【開催日：5月15日】【10:00-12:30(OPEN9:30)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】このイベントは、特にリトアニアと日本の間でスマートシティのイノベーションに関する世界的な協力を促進することを目的としています。（リトアニア共和国）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66ee25094a2eb.html",
+    "chairman": false,
+    "is_today": true,
+    "lat": 34.6522367715888,
+    "lng": 135.3828572130803
+  },
+  "T22F": {
+    "id": 3246,
+    "event_code": "T22F",
+    "event_name": {
+      "en": "Reimagining healthy ageing: Transforming care pathways",
+      "ja": "健康寿命の延伸に向けたトランスフォームケア（保健医療の変革）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The Future of Community and Mobility】【Date:May 15th】【15:00-19:30 (OPEN14:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】With an aging population,  non-communicable diseases (NCDs) such as cancer, cardiovascular diseases, and COPD have become significant challenges. To extend healthy life expectancy, the widespread…（EXPO 2025 Thematic Project ”Resonance of Lives”(Producer MIYATA Hiroaki)） *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・未来のコミュニティとモビリティ】【開催日：5月15日】【15:00-19:30 (OPEN14:30)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】高齢化に伴い、がんや循環器疾患、COPDなどの非感染性疾患（NCDs）が大きな課題です。健康寿命を延ばすためには、これらへの新しいソリューションの普及が必要です。イベントでは優れた取り組みを共有し、課題と解決策を…（大阪・関西万博テーマ事業 いのちを響き合わせる（宮田プロデューサー））　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/67bfec2273dc2.html",
+    "chairman": false,
+    "is_today": true,
+    "lat": 34.6522547137102,
+    "lng": 135.383071529805
+  },
+  "U019": {
+    "id": 1899,
+    "event_code": "U019",
+    "event_name": {
+      "en": " WA Space <Nordic Insights: Inspiring and Empowering Women to Thrive>",
+      "ja": "WAスペース 北欧からの気づき：輝く女性たちへのエンパワーメント",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: May 15th】【11:30-14:30 (OPEN11:00)】【Summary】Women’s Pavilion.Discover how Danish women leaders and cross-cultural STEM students blend ambitious achievement with Nordic-balanced living. This symposium offers practical insights on work-life harmony, professional growth, and cultural adaptation - specially curated for Asian women pursuing global careers. Learn valuable strategies for sustainable success and wellbeing in today's dynamic world. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：5月15日】【11:30-14:30 (OPEN11:00)】【概要】ウーマンズパビリオン。デンマークの女性リーダーと多国籍STEM留学生が、野心的な目標達成と北欧式ワークライフバランスの両立について語ります。このシンポジウムでは、グローバルキャリアを目指すアジアの女性たちに向けて、仕事と生活の調和、キャリア成長、異文化適応に関する実践的な洞察を提供します。変化の激しい現代社会で持続可能な成功と幸福を実現するための貴重な戦略を学びましょう。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "chairman": false,
+    "is_today": true,
+    "lat": 34.64896734020424,
+    "lng": 135.38837539458873
   }
 }
