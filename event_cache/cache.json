@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-05-15 08:22:54",
+  "_parse_time": "2025-05-16 08:21:38",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -213,7 +213,7 @@
     "lat": 34.6489689004504,
     "lng": 135.3881895269868,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 30
   },
   "H7H0": {
@@ -1126,7 +1126,7 @@
     "lat": 34.65076082378006,
     "lng": 135.38473485518148,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 30
   },
   "CCB0": {
@@ -1827,7 +1827,7 @@
     "lat": 34.64862637249134,
     "lng": 135.3874357044697,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 80
   },
   "H1HF": {
@@ -1854,7 +1854,7 @@
     "lat": 34.64842888778767,
     "lng": 135.3873632848263,
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 80
   },
   "H7H3": {
@@ -1881,7 +1881,7 @@
     "lat": 34.6508903213097,
     "lng": 135.38671301751634,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 90
   },
   "H7H6": {
@@ -1908,7 +1908,7 @@
     "lat": 34.65081855161949,
     "lng": 135.38687612582007,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 90
   },
   "M151": {
@@ -2024,7 +2024,7 @@
     },
     "event_summary": {
       "en": "Please arrive on time.Event-Style Sauna experience guided by the staff.Woman Only (the same applies to children).Sauna and cold bath are co-ed.Swimwear required.Not available for children under 6.Children aged 7to12 must be accompanied by a guardian.Individuals with disabilities must be accompanied by a companion.No use for those who are intoxicated, pregnant, have contagious diseases, or are advised by a doctor to avoid.Bring your own swimwear.You are responsible for your health and belongings.",
-      "ja": "【時間通りにお越し下さい】【ガイドの案内で体験して頂くイベント形式サウナです】【女性のみご予約頂けます（お子様も男性のみ）】【サウナ・水風呂は混浴】【水着着用必須】【６歳以下利用不可】【7歳以上12歳以下は保護者同伴必須】【お身体の不自由な方は同伴者必須】【飲酒されている方・妊娠されている方・伝染性疾患をお持ちの方・その他医師から温浴施設の利用を止められている方はご利用不可】【水着はご持参下さい】【体調管理やお手回り品の管理は自己責任です】※内容は現段階でのお知らせです。",
+      "ja": "【時間通りにお越し下さい】【ガイドの案内で体験して頂くイベント形式サウナです】【女性のみご予約頂けます（お子様も女性のみ）】【サウナ・水風呂は混浴】【水着着用必須】【６歳以下利用不可】【7歳以上12歳以下は保護者同伴必須】【お身体の不自由な方は同伴者必須】【飲酒されている方・妊娠されている方・伝染性疾患をお持ちの方・その他医師から温浴施設の利用を止められている方はご利用不可】【水着はご持参下さい】【体調管理やお手回り品の管理は自己責任です】※内容は現段階でのお知らせです。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -2686,7 +2686,7 @@
     "id": 44,
     "event_code": "IC03",
     "event_name": {
-      "en": "Signature Pavilion OCHIAI Yoichi 'null²' walkthrough",
+      "en": "Signature Pavilion OCHIAI Yoichi \"null²\" Installation Mode",
       "ja": "シグネチャーパビリオン 落合陽一  「null²」インスタレーションモード　※予約時間の10分前集合",
       "zh-tw": null,
       "fr": null,
@@ -2733,7 +2733,7 @@
     "lat": 34.647393817006105,
     "lng": 135.38818478546634,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "M106": {
@@ -2760,7 +2760,7 @@
     "lat": 34.64715197390652,
     "lng": 135.38809754148994,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "M109": {
@@ -2787,7 +2787,7 @@
     "lat": 34.64762317722946,
     "lng": 135.38827392605094,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "M112": {
@@ -2814,7 +2814,7 @@
     "lat": 34.6472268673289,
     "lng": 135.38780167061338,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "M115": {
@@ -2841,7 +2841,7 @@
     "lat": 34.64729864012852,
     "lng": 135.3875095929532,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "M118": {
@@ -2868,7 +2868,7 @@
     "lat": 34.6474624691123,
     "lng": 135.38789460441433,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "M148": {
@@ -2895,7 +2895,7 @@
     "lat": 34.64768528194563,
     "lng": 135.38798153400424,
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "S01I": {
@@ -2971,10 +2971,10 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-325565",
     "portal_url": "",
-    "chairman": false,
-    "is_today": true,
     "lat": 34.65027403607616,
-    "lng": 135.3797353960111
+    "lng": 135.3797353960111,
+    "chairman": false,
+    "is_today": true
   },
   "T200": {
     "id": 1866,
@@ -2997,10 +2997,10 @@
     },
     "virtual_url": "",
     "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66ee25094a2eb.html",
-    "chairman": false,
-    "is_today": true,
     "lat": 34.6522367715888,
-    "lng": 135.3828572130803
+    "lng": 135.3828572130803,
+    "chairman": false,
+    "is_today": false
   },
   "T22F": {
     "id": 3246,
@@ -3023,10 +3023,10 @@
     },
     "virtual_url": "",
     "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/67bfec2273dc2.html",
-    "chairman": false,
-    "is_today": true,
     "lat": 34.6522547137102,
-    "lng": 135.383071529805
+    "lng": 135.383071529805,
+    "chairman": false,
+    "is_today": false
   },
   "U019": {
     "id": 1899,
@@ -3049,9 +3049,87 @@
     },
     "virtual_url": "",
     "portal_url": "",
-    "chairman": false,
-    "is_today": true,
     "lat": 34.64896734020424,
-    "lng": 135.38837539458873
+    "lng": 135.38837539458873,
+    "chairman": false,
+    "is_today": false
+  },
+  "T203": {
+    "id": 1867,
+    "event_code": "T203",
+    "event_name": {
+      "en": "Panel discussion on climate change",
+      "ja": "気候変動に関するパネルディスカッション\t",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The Future of Community and Mobility】【Date:May 16th】【10:00-12:30(OPEN9:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】A pannel discussion on Climate Change, Carbon Credits and its challenges, and role of Pakistan. The program will include discussion on the ongoing practices in the world related to the mitigation of the effects of climate change, and what the countries can learn from it. It will also include measures being taken in Pakistan.*All speakers except Dr. Arfa Shahid will attend online. (Islamic Republic of Pakistan) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・未来のコミュニティとモビリティ】【開催日：5月16日】【10:00-12:30(OPEN9:30)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】気候変動、カーボンクレジットとその課題、さらにパキスタンの役割に関するパネルディスカッションです。気候変動の影響を抑えるために世界で行われている取り組みと、そこから各国が学べることについて議論します。また、パキスタンにおける対策も紹介します。※アルファ・シャヒッド博士以外はオンラインでの出演です。（パキスタン・イスラム共和国）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66ee265512f81.html",
+    "lat": 34.65221804937101,
+    "lng": 135.38307911623772,
+    "chairman": false,
+    "is_today": true
+  },
+  "T206": {
+    "id": 1868,
+    "event_code": "T206",
+    "event_name": {
+      "en": "Leading Dialogues for Future Cities",
+      "ja": "未来の都市のための先進的な議論",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The Future of Community and Mobility】【Date:May 16th】【17:45-20:30(OPEN17:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】A visionary journey into the future as we unveil a cutting-edge model of urban living, centred on smart cities, digital garden cities, and the role of space technology. This event will feature a panel discussion where experts and leading city developers will...（Kingdom of Saudi Arabia） *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・未来のコミュニティとモビリティ】【開催日：5月16日】【17:45-20:30(OPEN17:30)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】スマートシティ、デジタル田園都市、宇宙技術の役割を中心とした都市生活の最先端モデルを披露する、未来へのビジョンに満ちた旅。このイベントでは都市開発の第一人者たちが、都市計画、持続可能性、スマートテクノロジーについて議論します。サウジアラビアがスマートシティをどのように変貌させているのか、自然とテ...（サウジアラビア王国）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66ee27c678258.html",
+    "lat": 34.65224301232711,
+    "lng": 135.38328394992146,
+    "chairman": false,
+    "is_today": true
+  },
+  "T21C": {
+    "id": 1882,
+    "event_code": "T21C",
+    "event_name": {
+      "en": "Talk Session: Creating a Well-Balanced Future Lifestyle with Automation",
+      "ja": "トークセッション「オートメーションでつくる未来のちょうどいい暮らし」",
+      "zh-tw": "討論會：通過自動化創造平衡的未來生活方式",
+      "fr": "Session de discussion : Créer un style de vie futur bien équilibré avec l'automatisation",
+      "ko": "토크 세션: 자동화로 만드는 균형 잡힌 미래 생활",
+      "zh-cn": "讨论会：通过自动化创造平衡的未来生活方式"
+    },
+    "event_summary": {
+      "en": "【ThemeWeeks・The Future of Community and Mobility】【Date:May 16th】【14:30-16:00 (OPEN14:00)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】By 2050, we might see a world where human comfort and the Earth's environment are harmoniously balanced, in ways we can't even imagine today. Through Azbil's concept of 'Human-Centered Automation,' we will delve into themes such as smart cities, carbon neutrality・・・（Azbil Corporation） *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・未来のコミュニティとモビリティ】【開催日：5月16日】【14:30-16:00 (OPEN14:00)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】2050年には、現代の私たちには想像もつかないような、人の快適と地球環境が調和する世界が広がっているかもしれません。アズビルが考える「人を中心としたオートメーション」を通じて、スマートシティ、カーボンニュートラル、田園都市などのグローバルな未来について議論を深めます。・・・（アズビル株式会社）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": "【主題周・未來的社區和移動性】[日期：5月16日] [14:30-16:00 (OPEN 14:00)]【地點：主題週工作室】[注意事項] *如果您想聽同聲傳譯，請準備智慧型手機和耳機。 *取消、變更等將在主題週特別網站「Notifications」上通知。 【概述】到2050 年，我們或許會迎來一個現今無法想像的世界。在這個世界裡，人們能舒適的與地球環境和諧共存。透過Azbil所倡導的「以人為中心的自動化」理念，我們將深入探討智慧城市、碳中和、田園城市等全球未來主題。誠摯邀請各位嘉賓與我們一起描繪適合未來世代的生活方式，共同塑造這一個願景！（阿自倍爾株式會社） *3歲以下兒童如想使用座位，也必須預約。",
+      "fr": "【Semaines de thème・L'avenir de communauté et Semaine de mobilité】【Date : 16 mai】 【14h30-16h00 (OUVERT 14h00)】【Lieu:Theme Weeks Studio】【Notes】 *Si vous souhaitez écouter l'interprétation simultanée, veuillez préparer un smartphone et des écouteurs. *Les annulations, modifications, etc. seront notifiées sur le site dédié à la semaine thématique. 【Notifications】D'ici 2050, nous pourrions voir un monde où le confort humain et l'environnement de la Terre sont harmonieusement équilibrés, d'une manière que nous ne pouvons même pas imaginer aujourd'hui. (Société Azbil) *Les enfants de moins de 3 ans doivent également réserver s'ils veulent utiliser un siège.",
+      "ko": "【테마 위크・미래의 커뮤니티와모빌러티】【개최일:5월 16일】【14:30-16:00 (OPEN14:00)】【개최 장소: 테마 위크 스튜디오】【주의사항】*동시통역을 필요하시면, 스마트폰, 이어폰을 준비해주세요. *중지, 변경 등은 테마 위크 특설 Web 「공지사항」에서 통지합니다. 2050년에는 현대의 우리가 상상도 할 수 없는 방식으로 인간의 편안함과 지구 환경이 조화를 이루는 세상이 펼쳐질지도 모릅니다. 아즈빌이 생각하는 '사람 중심의 자동화'를 통해 스마트 시티, 탄소 중립, 농촌 도시화 등 글로벌 미래에 대해 논의합니다. 멋진 게스트와 함께 '미래 사람들의 균형 잡힌 생활'을 상상해 봅시다. 많은 참여 부탁드립니다!(아즈빌 주식회사) *3세 이하 어린이도 좌석을 이용하려면 예약이 필요합니다.",
+      "zh-cn": "【主题周・未来的社区和移动性】[日期：5月16日] [14:30-16:00 (OPEN 14:00)]【地点：主题周工作室】[注意事项] *如果您想听同声传译，请准备智能手机和耳机。 *取消、变更等将在主题周特别网站“Notifications”上通知。【概述】到2050年，我们可能会迎来一个超出当下想象的、人类的舒适与地球环境和谐共存的世界。通过Azbil所倡导的“以人为中心的自动化”的理念，我们将深入探讨智能城市、碳中和、花园城市等全球未来主题。诚邀您加入我们，与嘉宾共同描绘“未来人们的平衡生活”（阿自倍尔株式会社） *3岁以下儿童如需使用座位，也需要预订。"
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/675bf5544137d.html",
+    "lat": 34.65218840585087,
+    "lng": 135.38286669612125,
+    "chairman": false,
+    "is_today": true
   }
 }
