@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-05-16 08:21:38",
+  "_parse_time": "2025-05-17 18:56:13",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -213,7 +213,7 @@
     "lat": 34.6489689004504,
     "lng": 135.3881895269868,
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 30
   },
   "H7H0": {
@@ -426,8 +426,8 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-108932",
     "portal_url": "https://www.zeri.jp/expo2025/",
-    "lat": 34.65437639122353,
-    "lng": 135.37657678127292,
+    "lat": 34.651472747808455,
+    "lng": 135.3805974125862,
     "chairman": false,
     "is_today": true
   },
@@ -452,8 +452,8 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-108932",
     "portal_url": "https://www.zeri.jp/expo2025/",
-    "lat": 34.65430799349828,
-    "lng": 135.37650704383853,
+    "lat": 34.65109544321086,
+    "lng": 135.38041502237323,
     "chairman": true,
     "is_today": true
   },
@@ -1126,7 +1126,7 @@
     "lat": 34.65076082378006,
     "lng": 135.38473485518148,
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 30
   },
   "CCB0": {
@@ -1827,7 +1827,7 @@
     "lat": 34.64862637249134,
     "lng": 135.3874357044697,
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 80
   },
   "H1HF": {
@@ -1854,7 +1854,7 @@
     "lat": 34.64842888778767,
     "lng": 135.3873632848263,
     "chairman": true,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 80
   },
   "H7H3": {
@@ -1869,8 +1869,8 @@
       "zh-cn": null
     },
     "event_summary": {
-      "en": "【Duration90min】【With food and drink at Wakayama zone】At the Wakayama zone within the KANSAI PAVILION, we offer delicious meals with stylish presentations, allowing you to explore the local cuisine of Wakayama on site.\r\n*Food and drink are not free of charge（6,000 yen including tax）.\r\n*There is a 45-minute time limit for each table reservation.\r\n*Please note that reservations will be cancelled 15 minutes after the start time.\r\n*Closed on the 3rd Friday and Saturday of every month for a special \"sake drinking  contest （no reservation required）\"",
-      "ja": "【所要時間90分】【和歌山ゾーンでの飲食予約付（有料）】関西パビリオン内の和歌山ゾーンでは、カウンターバーを設けて飲食提供をおこないます。和歌山の食文化を楽しんでいただくため「美味しい」だけでなく、芸術的な演出を含めた「食のアート」体験を提供します。\r\n※飲食は有料（税込6,000円）となります。現地支払い。\r\n※飲食は入館予約時間からの45分制となります。\r\n※予約開始時間の15分を経過しますとキャンセル扱いとなりますのでご注意ください。\r\n※毎月第3金曜・土曜は特別企画として「お酒の飲み比べ（予約不要）」を実施するため休業します。",
+      "en": "【Duration45min】At the Wakayama zone within the KANSAI PAVILION, we offer delicious meals with stylish presentations, allowing you to explore the local cuisine of Wakayama on site.\n*Food and drink are not free of charge（6,000 yen including tax）.\n*There is a 45-minute time limit for each table reservation.\n*Please note that reservations will be cancelled 15 minutes after the start time.\n*Closed on the 3rd Friday and Saturday of every month for a special \"sake drinking  contest （no reservation required）\"",
+      "ja": "【所要時間45分】関西パビリオン内の和歌山ゾーンでは、万博に向けて作り上げた特別な和菓子等とドリンクのペアリングセットを提供。芸術的な演出を含めた「食のアート」体験を提供します。\r\n※飲食は有料（１セット税込6,000円）。現地支払い。\r\n※飲食は入館予約時間からの45分制。\r\n※予約開始時間の15分を経過した場合はキャンセル扱い。\r\n※毎月第3金曜・土曜は特別企画「お酒の飲み比べ（予約不要）」実施のため休業。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -1881,8 +1881,8 @@
     "lat": 34.6508903213097,
     "lng": 135.38671301751634,
     "chairman": false,
-    "is_today": false,
-    "cost_time": 90
+    "is_today": true,
+    "cost_time": 45
   },
   "H7H6": {
     "id": 2714,
@@ -1896,8 +1896,8 @@
       "zh-cn": null
     },
     "event_summary": {
-      "en": "【Duration90min】【With food and drink at Wakayama zone】【Wheelchair accessible *available to anyone】At the Wakayama zone within the KANSAI PAVILION, we offer delicious meals with stylish presentations, allowing you to explore the local cuisine of Wakayama on site.\r\n*Food and drink are not free of charge（6,000 yen including tax）.\r\n*There is a 45-minute time limit for each table reservation.\r\n*Please note that reservations will be cancelled 15 minutes after the start time.\r\n*Closed on the 3rd Friday and Saturday of every month for a special \"sake drinking  contest （no reservation required）\"",
-      "ja": "【所要時間90分】【和歌山ゾーンでの飲食予約付（有料）】【車いす対応可（※車いす利用者以外でも予約可能）】関西パビリオン内の和歌山ゾーンでは、カウンターバーを設けて飲食提供をおこないます。和歌山の食文化を楽しんでいただくため「美味しい」だけでなく、芸術的な演出を含めた「食のアート」体験を提供します。\r\n※飲食は有料（税込6,000円）となります。現地支払い。\r\n※飲食は入館予約時間からの45分制となります。\r\n※予約開始時間の15分を経過しますとキャンセル扱いとなりますのでご注意ください。\r\n※毎月第3金曜・土曜は特別企画として「お酒の飲み比べ（予約不要）」を実施するため休業します。",
+      "en": "【Duration45min】【Wheelchair accessible *available to anyone】At the Wakayama zone within the KANSAI PAVILION, we offer delicious meals with stylish presentations, allowing you to explore the local cuisine of Wakayama on site.\n*Food and drink are not free of charge（6,000 yen including tax）.\n*There is a 45-minute time limit for each table reservation.\n*Please note that reservations will be cancelled 15 minutes after the start time.\n*Closed on the 3rd Friday and Saturday of every month for a special \"sake drinking  contest （no reservation required）\"",
+      "ja": "【所要時間45分：車いす利用者以外でも予約可能】関西パビリオン内の和歌山ゾーンでは、万博に向けて作り上げた特別な和菓子等とドリンクのペアリングセットを提供。芸術的な演出を含めた「食のアート」体験を提供します。\r\n※飲食は有料（１セット税込6,000円）。現地支払い。\r\n※飲食は入館予約時間からの45分制。\r\n※予約開始時間の15分を経過した場合はキャンセル扱い。\r\n※毎月第3金曜・土曜は特別企画「お酒の飲み比べ（予約不要）」実施のため休業。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -1908,8 +1908,8 @@
     "lat": 34.65081855161949,
     "lng": 135.38687612582007,
     "chairman": false,
-    "is_today": false,
-    "cost_time": 90
+    "is_today": true,
+    "cost_time": 45
   },
   "M151": {
     "id": 1250,
@@ -2687,15 +2687,15 @@
     "event_code": "IC03",
     "event_name": {
       "en": "Signature Pavilion OCHIAI Yoichi \"null²\" Installation Mode",
-      "ja": "シグネチャーパビリオン 落合陽一  「null²」インスタレーションモード　※予約時間の10分前集合",
+      "ja": "シグネチャーパビリオン 落合陽一  「null²」インスタレーションモード",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
     "event_summary": {
-      "en": "［AverageDuration:10min］［10 min before the reservation start time］View an autonomous piece featuring artificial life projected\non to mirrored LED panels on the ceiling and floor.  *Please note that this experience features intense flashing lights and high volume sound. ",
-      "ja": "【平均所要時間10分】【受付時間：予約時間の10分前集合】天井と床の鏡面状LEDに映し出される人工生命が自律生成された作品を鑑賞いただけます。 ※本体験は強い光の明滅と大音量を使った演出です",
+      "en": "［AverageDuration:10min］［a few min before the reservation start time］View an autonomous piece featuring artificial life projected\non to mirrored LED panels on the ceiling and floor.  *Please note that this experience features intense flashing lights and high volume sound. ",
+      "ja": "【平均所要時間10分】【受付時間：予約時間の数分前集合】天井と床の鏡面状LEDに映し出される人工生命が自律生成された作品を鑑賞いただけます。 ※本体験は強い光の明滅と大音量を使った演出です",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -3078,7 +3078,7 @@
     "lat": 34.65221804937101,
     "lng": 135.38307911623772,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T206": {
     "id": 1868,
@@ -3104,7 +3104,7 @@
     "lat": 34.65224301232711,
     "lng": 135.38328394992146,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T21C": {
     "id": 1882,
@@ -3130,6 +3130,84 @@
     "lat": 34.65218840585087,
     "lng": 135.38286669612125,
     "chairman": false,
-    "is_today": true
+    "is_today": false
+  },
+  "T21R": {
+    "id": 1887,
+    "event_code": "T21R",
+    "event_name": {
+      "en": "Transforming into sustainable region & cities Agenda2025 Organised Programme",
+      "ja": "持続可能な都市・地方への転換 アジェンダ2025 主催プログラム",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The Future of Community and Mobility】【Date:May 17th】【10:00-12:00 (OPEN9:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website.【Summary】The programme, together with the General Sponsors, explores: 'What changes will be brought to industry, the economy, and communities in an era of evolution toward sustainable cities, regions, and mobility?'(Japan Association for the 2025 World Exposition) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・未来のコミュニティとモビリティ】【開催日：5月17日】【10:00-12:00 (OPEN9:30)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】本プログラムは、テーマウィーク全体協賛者と連携して企画・実施する「アジェンダ2025」の一つです。「持続可能な都市・地方とモビリティへの進化が求められる時代、産業と経済、コミュニティのあり方にどのような変化がもたらされるか」というセントラルクエスチョンを中心に、トークセッションが展開されます。（２０２５年日本国際博覧会協会）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2b023de64c.html",
+    "chairman": false,
+    "is_today": true,
+    "lat": 34.6522008746331,
+    "lng": 135.38285583257675
+  },
+  "T21U": {
+    "id": 1888,
+    "event_code": "T21U",
+    "event_name": {
+      "en": "Integration of the real & digital worlds Agenda2025 Organised Programme",
+      "ja": "リアルとデジタルが融合した社会のあり方 アジェンダ2025 主催プログラム",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The Future of Community and Mobility】【Date:May 17th】【13:30-15:30 (OPEN13:00)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website.【Summary】The programme, together with the General Sponsors, explores: 'How will the integration of real and digital realms affect community & mobility? (Social participation through avatars/humanoids)'(Japan Association for the 2025 World Exposition) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・未来のコミュニティとモビリティ】【開催日：5月17日】【13:30-15:30 (OPEN13:00)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】本プログラムは、テーマウィーク全体協賛者と連携して博覧会協会が企画・実施する「アジェンダ2025」の一つです。「リアルとデジタルが融合した都市と、地方・コミュニティの在り方はどのようになっていくか」というセントラルクエスチョンを中心に、トークセッションが展開されます。（２０２５年日本国際博覧会協会）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2ae1f9ffda.html",
+    "chairman": false,
+    "is_today": true,
+    "lat": 34.65222735185167,
+    "lng": 135.38307577371597
+  },
+  "T21X": {
+    "id": 1889,
+    "event_code": "T21X",
+    "event_name": {
+      "en": "Next-generation of digitally-centered communities Agenda2025 Organised Programme",
+      "ja": "デジタルを中心とした次世代のコミュニティ アジェンダ2025 主催プログラム",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The Future of Community and Mobility】【Date:May 17th】【17:00-19:00 (OPEN16:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website.【Summary】The programme, together with the General Sponsors, explores: 'What does the future of digitally-centered communities look like? What are the hurdles to realization?'(Japan Association for the 2025 World Exposition) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・未来のコミュニティとモビリティ】【開催日：5月17日】【17:00-19:00 (OPEN16:30)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】本プログラムは、テーマウィーク全体協賛者と連携して博覧会協会が企画・実施する「アジェンダ2025」の一つです。「デジタルを中心とした未来のコミュニティの形はどのようなものか。実現に向けてのハードルは何があるか」というセントラルクエスチョンを中心に、トークセッションが展開されます。（２０２５年日本国際博覧会協会）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2ae0e4b725.html",
+    "chairman": false,
+    "is_today": true,
+    "lat": 34.65223948724068,
+    "lng": 135.38329571485522
   }
 }
