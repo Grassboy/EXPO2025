@@ -177,7 +177,7 @@ L.tileLayer(
     }).addTo(map);
 
 // 設定圖片路徑與圖片對應的地理範圍
-const imageUrl = 'https://www.expovisitors.expo2025.or.jp/_nuxt/illust-map.b3319239.jpeg';
+const imageUrl = 'https://www.expovisitors.expo2025.or.jp/_nuxt/illust-map-en.f8c189cf.jpg';
 const imageBounds = [
     [34.642367209, 135.372827911],  // 南緯、西經
     [34.658401515, 135.394178298]   // 北緯、東經
