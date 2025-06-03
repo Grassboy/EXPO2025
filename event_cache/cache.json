@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-05-17 18:56:13",
+  "_parse_time": "2025-06-03 10:07:49",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -24,7 +24,7 @@
     "lat": 34.64825236474936,
     "lng": 135.385959148407,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 15
   },
   "C0R3": {
@@ -51,7 +51,7 @@
     "lat": 34.648179548886574,
     "lng": 135.38607984781265,
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 15
   },
   "C930": {
@@ -132,7 +132,7 @@
     "lat": 34.65057912887339,
     "lng": 135.38103461265567,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 30
   },
   "CO70": {
@@ -210,8 +210,8 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-719552",
     "portal_url": "https://womenspavilion.cartier.com/ja/",
-    "lat": 34.6489689004504,
-    "lng": 135.3881895269868,
+    "lat": 34.64888343288135,
+    "lng": 135.38824036717415,
     "chairman": false,
     "is_today": true,
     "cost_time": 30
@@ -523,8 +523,8 @@
       "zh-cn": null
     },
     "event_summary": {
-      "en": "【Duration:45 min.】 【Reception Time:10 mins. before your reservation】 The Mobius loop-shaped building, entirely covered with Nisijin txtile, expresses the message that “a good tradition lasts forever never stopping evolving”. In the Pavilion, we would like all of you to experience and share how our Group imagines the lifestyle in the future would be like through not only a part of our technology for creating houses for the future with consideration for our health and environment but also models and films of towns which make us picture the self-sufficient society in the future.",
-      "ja": "【所要時間:45分】【受付時間:予約時間の10分前まで】美しい西陣織を全面にまとったメビウスの輪形状の建物は、「良き伝統は進化を繰り返しながら未来に永続していく」というメッセージを表現しております。パビリオン内では、健康と環境に配慮した未来型住宅の技術の一部や、未来の自給自足型社会をイメージした街の模型や映像を通じて、当社グループが考える未来の暮らしを体感していただきたいと考えております。",
+      "en": "【Duration:20～45 min.】 【Reception Time:10 mins. before your reservation】 In the Pavilion, we would like all of you to experience and share how our Group imagines the lifestyle in the future would be like through not only a part of our technology for creating houses for the future with consideration for our health and environment but also models and films of towns which make us picture the self-sufficient society in the future.※Please note that if you enter the museum after 7:00 p.m., you may not be able to use some of the interactive exhibits.",
+      "ja": "【所要時間:20～45分】【受付時間:予約時間の10分前から】美しい西陣織を全面にまとったメビウスの輪形状の建物は、「良き伝統は進化を繰り返しながら未来に永続していく」というメッセージを表現しております。パビリオン内では、健康と環境に配慮した未来型住宅の技術の一部や、未来の自給自足型社会をイメージした街の模型や映像を通じて、当社グループが考える未来の暮らしを体感していただきたいと考えております。※１９：００以降に入館される際は、一部体験展示の利用が出来ない場合がありますのでご注意ください。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -536,7 +536,7 @@
     "lng": 135.38156182969132,
     "chairman": false,
     "is_today": true,
-    "cost_time": 45
+    "cost_time": 20
   },
   "HWH3": {
     "id": 22,
@@ -550,8 +550,8 @@
       "zh-cn": null
     },
     "event_summary": {
-      "en": "【Duration:45 min】 【Application requirements: wheelchair user and one accompanying person only】 【Reception Time : 10 minutes before your reservation】 The Mobius loop-shaped building, entirely covered with Nisijin txtile, expresses the message that “a good tradition lasts forever never stopping evolving”. In the Pavilion, we would like all of you to experience and share how our Group imagines the lifestyle in the future would be like through not only a part of our technology for creating houses for the future with consideration for our health and environment but also models and films of towns which make us picture the self-sufficient society in the future.",
-      "ja": "飯田グループ×大阪公立大学共同出展館　車いす対応【所要時間:45分】【申込条件：車いす利用者と同行者1名のみ】【受付時間:予約時間の10分前まで】美しい西陣織を全面にまとったメビウスの輪形状の建物は、「良き伝統は進化を繰り返しながら未来に永続していく」というメッセージを表現しております。パビリオン内では、健康と環境に配慮した未来型住宅の技術の一部や、未来の自給自足型社会をイメージした街の模型や映像を通じて、当社グループが考える未来の暮らしを体感していただきたいと考えております。",
+      "en": "【Duration:20～45 min】 【Application requirements: wheelchair user and one accompanying person only】 【Reception Time : 10 minutes before your reservation】 In the Pavilion, we would like all of you to experience and share how our Group imagines the lifestyle in the future would be like through not only a part of our technology for creating houses for the future with consideration for our health and environment but also models and films of towns which make us picture the self-sufficient society in the future.※Please note that if you enter the museum after 7:00 p.m., you may not be able to use some of the interactive exhibits.",
+      "ja": "飯田グループ×大阪公立大学共同出展館　車いす対応\r\n【所要時間:20～45分】【申込条件：車いす利用者と同行者1名のみ】【受付時間:予約時間の10分前から】美しい西陣織を全面にまとったメビウスの輪形状の建物は、「良き伝統は進化を繰り返しながら未来に永続していく」というメッセージを表現しております。パビリオン内では、健康と環境に配慮した未来型住宅の技術の一部や、未来の自給自足型社会をイメージした街の模型や映像を通じて、当社グループが考える未来の暮らしを体感していただきたいと考えております。※１９：００以降に入館される際は、一部体験展示の利用が出来ない場合がありますのでご注意ください。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -563,7 +563,7 @@
     "lng": 135.38170217869686,
     "chairman": true,
     "is_today": true,
-    "cost_time": 45
+    "cost_time": 20
   },
   "I300": {
     "id": 23,
@@ -1021,7 +1021,7 @@
     "lat": 34.649618201961324,
     "lng": 135.3804109990597,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "C2N3": {
     "id": 2717,
@@ -1047,7 +1047,7 @@
     "lat": 34.64974507584284,
     "lng": 135.38046464323997,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "C570": {
     "id": 3847,
@@ -1073,7 +1073,7 @@
     "lat": 34.64793131251,
     "lng": 135.3816508501768,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "C730": {
     "id": 312,
@@ -1222,12 +1222,12 @@
       "zh-cn": "波兰馆：肖邦音乐会（仅适用于肖邦音乐会） "
     },
     "event_summary": {
-      "en": "(Duration 30 min) Chopin Concerts in the Poland Pavilion will be presented three times a day in the Concert Hall. This addmition is for the Chopin Concert only (exluded from visiting exhibition).  *Reservations are required for children under 3 years old.",
-      "ja": "［所要時間30分］ポーランドパビリオンのショパンコンサートは、コンサートホールで1日3回開催されます。ショパンコンサートのみ入場可です（展示は含みません）。　※３歳以下の方もご予約が必要です。",
-      "zh-tw": "（時長 30 分鐘）波蘭館裡的蕭邦音樂會每天在音樂廳舉行三場。此門票僅適用於蕭邦音樂會（參觀展覽除外）。 *3以下兒童需預約",
-      "fr": "(Durée 30 min) Les récitals de Chopin dans le Pavillon Pologne seront présentés dans la salle de concert trois fois par jour. Cette admission s’applique uniquement au récital de Chopin (pas à la visite de l'exposition). *Réservation obligatoire pour les enfants de moins de 3 ans.",
-      "ko": "(소요 시간 30분) 폴란드 전시관 쇼팽 콘서트는 콘서트홀에서 매일 3회 공연합니다. 본 입장료는 쇼팽 콘서트에만 입장이 가능합니다(전시회 입장은 제외됩니다.) *3세 미만 어린이는 예약이 필요합니다.",
-      "zh-cn": "（时长 30 分钟）波兰馆里的肖邦音乐会每天在音乐厅举行三场。此门票仅适用于肖邦音乐会（参观展览除外）。 *3岁以下儿童需要预约"
+      "en": "(Duration 30 min) Chopin Concerts in the Poland Pavilion will be presented three times a day in the Concert Hall. This addmition is for the Chopin Concert only (exluded from visiting exhibition). The concerts start at full hour and last 30 minutes.The concerts are for adults and children over 6 years old.We kindly ask that you arrive at least 10 minutes before the concert begins.",
+      "ja": "［所要時間30分］ポーランドパビリオンのショパンコンサートは、コンサートホールで1日3回開催されます。ショパンコンサートのみ入場可です（展示は含みません）。※６歳以上が対象となります。コンサート開始の10分前までにお越しください。",
+      "zh-tw": "（時長 30 分鐘）波蘭館裡的蕭邦音樂會每天在音樂廳舉行三場。此門票僅適用於蕭邦音樂會（參觀展覽除外）。音樂會整點開始，為時 30 分鐘。音樂會適用於成人和 6 歲以上的兒童。我們懇請您至少在音樂會開始前 10 分鐘到達。",
+      "fr": "(Durée 30 min) Les récitals de Chopin dans le Pavillon Pologne seront présentés dans la salle de concert trois fois par jour. Cette admission s’applique uniquement au récital de Chopin (pas à la visite de l'exposition). Les concerts commencent à l'heure pleine et durent 30 minutes.Les concerts sont destinés aux adultes et aux enfants de plus de 6 ans.Nous vous demandons d'arriver au moins 10 minutes avant le début du concert.",
+      "ko": "(소요 시간 30분) 폴란드 전시관 쇼팽 콘서트는 콘서트홀에서 매일 3회 공연합니다. 본 입장료는 쇼팽 콘서트에만 입장이 가능합니다(전시회 입장은 제외됩니다.) 콘서트는 정시에 시작하여 30분간 진행됩니다.\n콘서트는 성인과 6세 이상 어린이를 대상으로 합니다.공연 시작 최소 10분 전에 도착해 주시기 바랍니다.",
+      "zh-cn": "（时长 30 分钟）波兰馆里的肖邦音乐会每天在音乐厅举行三场。此门票仅适用于肖邦音乐会（参观展览除外）。音乐会整点开始，持续 30 分钟。音乐会面向成人和 6 岁以上儿童。我们恳请您至少在音乐会开始前 10 分钟到达。"
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499794",
     "portal_url": "https://expo.gov.pl/?lang=en",
@@ -1827,7 +1827,7 @@
     "lat": 34.64862637249134,
     "lng": 135.3874357044697,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 80
   },
   "H1HF": {
@@ -1854,7 +1854,7 @@
     "lat": 34.64842888778767,
     "lng": 135.3873632848263,
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 80
   },
   "H7H3": {
@@ -2201,12 +2201,12 @@
       "en": "Osakagas　Methanation　Demonstraition　Project（General use）"
     },
     "event_summary": {
-      "ja": "カーボン・リサイクル・ファクトリー内大阪ガスメタネーション実証プラント見学ツアーは、万博会場内で発生した生ごみ由来の「バイオガス」中に含まれるCO2や、大気や排ガスから回収した二酸化炭素（CO2）と水素を原料に、都市ガスの主成分である「メタン」をつくる実証プラントのサイト見学ツアーです。本見学：約４０分。１３歳未満の参加には保護者の同伴が必要で、子供、保護者両方申し込み必要。ガスパビリオン前から出発する専用バスにてメタネーション実証プラントへ移動いただきます。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": "這是一個參觀示範工廠的導覽活動，該工廠利用在世博會場內產生的廚餘垃圾生成的「沼氣」中含有的二氧化碳（CO2），以及從空氣和廢氣中回收的二氧化碳（CO2）和氫氣為原料，生產城市燃氣的主要成分「甲烷」。本次參觀約40分鐘。13歲以下的參加者需要有監護人陪同，孩子和監護人都需要報名。您將乘坐從燃氣館前出發的專用巴士前往甲烷化示範工廠。 *3歲以下兒童如想使用座位，也必須預約。",
-      "fr": "Il s'agit d'une visite guidée d'une usine pilote produisant du 'méthane', le principal composant du gaz de ville, à partir de CO2 dérivé du 'biogaz' généré sur le site de l'Expo, ainsi que du dioxyde de carbone (CO2) et de l'hydrogène récupérés de l'air et des gaz d'échappement. La visite dure environ 40 minutes. Les participants de moins de 13 ans doivent être accompagnés d'un tuteur, et l'inscription est nécessaire pour l'enfant et le tuteur. Vous serez transporté vers l'usine pilote de méthanation par un bus dédié au départ de l'avant du Pavillon du Gaz. *Les enfants de moins de 3 ans doivent également réserver s'ils veulent utiliser un siège.",
-      "ko": "엑스포 현장에서 발생한 음식물 쓰레기 유래의 '바이오가스'에 포함된 CO2와 대기 및 배기가스로부터 회수한 이산화탄소(CO2)와 수소를 원료로 도시가스의 주성분인 '메탄'을 만드는 실증 플랜트의 사이트 견학 투어입니다. 본 견학은 약 40분 소요됩니다. 13세 미만의 참가자는 보호자가 동반해야 하며, 아이와 보호자 모두 신청이 필요합니다. 가스 파빌리온 앞에서 출발하는 전용 버스를 타고 메타네이션 실증 플랜트로 이동합니다. *3세 이하 어린이도 좌석을 이용하려면 예약이 필요합니다.",
-      "zh-cn": "这是一个参观示范工厂的网站游览，该工厂利用在世博会场内生成的厨余垃圾产生的“沼气”中含有的二氧化碳（CO2），以及从空气和废气中回收的二氧化碳（CO2）和氢气为原料，生产城市燃气的主要成分“甲烷”。本次参观约40分钟。13岁以下的参与者需要有监护人陪同，孩子和监护人都需要报名。从燃气展馆前出发的专用巴士将载您前往甲烷化示范工厂。 *3岁以下儿童如需使用座位，也需要预订。",
-      "en": "Osaka Gas metanation tour  is a plant tour in the Area Carbon Recycle Factory of making methane with carbon dioxide (CO2) and hydrogen. We gather the CO2 collected from the atmosphere or the biogas and  use it as raw materials of the city gas, which we use as the fuel  for the kitchen of the guesthouse,  : Approx.40 minutes. You will be transported to the  plant by a dedicated bus departing from the front of the Gas Pavilion. *Reservations are required for children under 3 years old if they wish to use the seats."
+      "ja": "カーボン・リサイクル・ファクトリー内大阪ガスメタネーション実証プラント見学ツアーは、万博会場内で発生した生ごみ由来の「バイオガス」中に含まれるCO2や、大気や排ガスから回収した二酸化炭素（CO2）と水素を原料に、都市ガスの主成分である「メタン」をつくる実証プラントのサイト見学ツアーです。本見学：約４０分。１３歳未満の参加には保護者の同伴が必要で、子供、保護者両方申し込み必要。ガスパビリオン前から出発する専用バス＊にてメタネーション実証プラントへ移動いただきます。\r\n※３歳以下のお子様も座席を使いたい場合は予約必要です。\r\n＊バスは定刻出発しますので、遅れた場合は参加できません。ご理解とご了承をお願い申し上げます。",
+      "zh-tw": "這是一個參觀示範工廠的導覽活動，該工廠利用在世博會場內產生的廚餘垃圾生成的「沼氣」中含有的二氧化碳（CO2），以及從空氣和廢氣中回收的二氧化碳（CO2）和氫氣為原料，生產城市燃氣的主要成分「甲烷」。本次參觀約40分鐘。13歲以下的參加者需要有監護人陪同，孩子和監護人都需要報名。您將乘坐從燃氣館前出發的專用巴士**前往甲烷化示範工廠。 *3歲以下兒童如想使用座位，也必須預約。\n**巴士將準時出發，因此如果您遲到將無法參加。感謝您的理解與合作。",
+      "fr": "Il s'agit d'une visite guidée d'une usine pilote produisant du 'méthane', le principal composant du gaz de ville, à partir de CO2 dérivé du 'biogaz' généré sur le site de l'Expo, ainsi que du dioxyde de carbone (CO2) et de l'hydrogène récupérés de l'air et des gaz d'échappement. La visite dure environ 40 minutes. Les participants de moins de 13 ans doivent être accompagnés d'un tuteur, et l'inscription est nécessaire pour l'enfant et le tuteur. Vous serez transporté vers l'usine pilote de méthanation par un bus** dédié au départ de l'avant du Pavillon du Gaz. *Les enfants de moins de 3 ans doivent également réserver s'ils veulent utiliser un siège.\n**Le bus partira à l'heure ; tout retard vous empêchera de participer. Merci de votre compréhension et de votre coopération.",
+      "ko": "엑스포 현장에서 발생한 음식물 쓰레기 유래의 '바이오가스'에 포함된 CO2와 대기 및 배기가스로부터 회수한 이산화탄소(CO2)와 수소를 원료로 도시가스의 주성분인 '메탄'을 만드는 실증 플랜트의 사이트 견학 투어입니다. 본 견학은 약 40분 소요됩니다. 13세 미만의 참가자는 보호자가 동반해야 하며, 아이와 보호자 모두 신청이 필요합니다. 가스 파빌리온 앞에서 출발하는 전용 버스를 타고 메타네이션 실증 플랜트로 이동합니다. *3세 이하 어린이도 좌석을 이용하려면 예약이 필요합니다.\n**버스는 정시에 출발하므로 늦으시면 참여하실 수 없습니다. 양해와 협조 부탁드립니다.",
+      "zh-cn": "这是一个参观示范工厂的网站游览，该工厂利用在世博会场内生成的厨余垃圾产生的“沼气”中含有的二氧化碳（CO2），以及从空气和废气中回收的二氧化碳（CO2）和氢气为原料，生产城市燃气的主要成分“甲烷”。本次参观约40分钟。13岁以下的参与者需要有监护人陪同，孩子和监护人都需要报名。从燃气展馆前出发的专用巴士**将载您前往甲烷化示范工厂。 *3岁以下儿童如需使用座位，也需要预订。\n**巴士准时出发，如迟到将无法参加。感谢您的理解与配合",
+      "en": "Osaka Gas metanation tour  is a plant tour in the Area Carbon Recycle Factory of making methane with carbon dioxide (CO2) and hydrogen. We gather the CO2 collected from the atmosphere or the biogas and  use it as raw materials of the city gas, which we use as the fuel  for the kitchen of the guesthouse,  : Approx.40 minutes. You will be transported to the  plant by a dedicated bus ** departing from the front of the Gas Pavilion. *Reservations are required for children under 3 years old if they wish to use the seats.\n**The bus will depart on time, so if you are late you will not be able to participate. Thank you for your understanding and cooperation."
     },
     "virtual_url": "",
     "portal_url": "https://www.daigasgroup.com/expo2025/methanation/",
@@ -2228,11 +2228,11 @@
       "en": "Osakagas　Methanation　Demonstraition　Project（Wheelchair use）"
     },
     "event_summary": {
-      "ja": "カーボン・リサイクル・ファクトリー内大阪ガスメタネーション実証プラント見学ツアーは、万博会場内で発生した生ごみ由来の「バイオガス」中に含まれるCO2や、大気や排ガスから回収した二酸化炭素（CO2）と水素を原料に、都市ガスの主成分である「メタン」をつくる実証プラントのサイト見学ツアーです。本見学：約４０分。ガスパビリオン前から出発する専用バスにてメタネーション実証プラントへ移動いただきます。／車いす使用者専用の予約です/同予約で同伴者1名までが入場可能です。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": "這是一個參觀示範工廠的導覽活動，該工廠利用在世博會場內產生的廚餘垃圾生成的「沼氣」中含有的二氧化碳（CO2），以及從空氣和廢氣中回收的二氧化碳（CO2）和氫氣為原料，生產城市燃氣的主要成分「甲烷」。本次參觀約40分鐘。您將乘坐從燃氣館前出發的專用巴士前往甲烷化示範工廠。／此預訂僅限使用輪椅者／同一預訂可允許一名陪同人員入場。 *3歲以下兒童如想使用座位，也必須預約。",
-      "fr": "Il s'agit d'une visite guidée d'une usine pilote produisant du 'méthane', le principal composant du gaz de ville, à partir de CO2 dérivé du 'biogaz' généré sur le site de l'Expo, ainsi que du dioxyde de carbone (CO2) et de l'hydrogène récupérés de l'air et des gaz d'échappement. La visite dure environ 40 minutes. Vous serez transporté vers l'usine pilote de méthanation par un bus dédié au départ de l'avant du Pavillon du Gaz. / Cette réservation est exclusivement pour les utilisateurs de fauteuils roulants / Avec cette réservation, une personne accompagnante est admise. *Les enfants de moins de 3 ans doivent également réserver s'ils veulent utiliser un siège.",
-      "ko": "엑스포 현장에서 발생한 음식물 쓰레기 유래의 '바이오가스'에 포함된 CO2와 대기 및 배기가스로부터 회수한 이산화탄소(CO2)와 수소를 원료로 도시가스의 주성분인 '메탄'을 만드는 실증 플랜트의 사이트 견학 투어입니다. 본 견학은 약 40분 소요됩니다. 가스 파빌리온 앞에서 출발하는 전용 버스를 타고 메타네이션 실증 플랜트로 이동합니다. / 휠체어 사용자 전용 예약입니다 / 동일 예약으로 동반자 1명까지 입장 가능합니다. *3세 이하 어린이도 좌석을 이용하려면 예약이 필요합니다.",
-      "zh-cn": "这是一个参观示范工厂的游览活动，该工厂利用在世博会场内生成的厨余垃圾产生的“沼气”中含有的二氧化碳（CO2），以及从空气和废气中回收的二氧化碳（CO2）和氢气为原料，生产城市燃气的主要成分“甲烷”。本次参观约40分钟。您将乘坐从燃气展馆前出发的专用巴士前往甲烷化示范工厂。/ 此预订仅限使用轮椅者 / 同一预订可允许一名陪同人员入场。 *3岁以下儿童如需使用座位，也需要预订。",
+      "ja": "カーボン・リサイクル・ファクトリー内大阪ガスメタネーション実証プラント見学ツアーは、万博会場内で発生した生ごみ由来の「バイオガス」中に含まれるCO2や、大気や排ガスから回収した二酸化炭素（CO2）と水素を原料に、都市ガスの主成分である「メタン」をつくる実証プラントのサイト見学ツアーです。本見学：約４０分。ガスパビリオン前から出発する専用バス＊にてメタネーション実証プラントへ移動いただきます。／車いす使用者専用の予約です/同予約で同伴者1名までが入場可能です。　※３歳以下のお子様も座席を使いたい場合は予約必要です。 ＊バスは定刻出発しますので、遅れた場合は参加できません。ご理解とご了承をお願い申し上げます。",
+      "zh-tw": "這是一個參觀示範工廠的導覽活動，該工廠利用在世博會場內產生的廚餘垃圾生成的「沼氣」中含有的二氧化碳（CO2），以及從空氣和廢氣中回收的二氧化碳（CO2）和氫氣為原料，生產城市燃氣的主要成分「甲烷」。本次參觀約40分鐘。您將乘坐從燃氣館前出發的專用巴士**前往甲烷化示範工廠。／此預訂僅限使用輪椅者／同一預訂可允許一名陪同人員入場。 *3歲以下兒童如想使用座位，也必須預約。\n**巴士將準時出發，因此如果您遲到將無法參加。感謝您的理解與合作。",
+      "fr": "Il s'agit d'une visite guidée d'une usine pilote produisant du 'méthane', le principal composant du gaz de ville, à partir de CO2 dérivé du 'biogaz' généré sur le site de l'Expo, ainsi que du dioxyde de carbone (CO2) et de l'hydrogène récupérés de l'air et des gaz d'échappement. La visite dure environ 40 minutes. Vous serez transporté vers l'usine pilote de méthanation par un bus** dédié au départ de l'avant du Pavillon du Gaz. / Cette réservation est exclusivement pour les utilisateurs de fauteuils roulants / Avec cette réservation, une personne accompagnante est admise. *Les enfants de moins de 3 ans doivent également réserver s'ils veulent utiliser un siège.\n**Le bus partira à l'heure ; tout retard vous empêchera de participer. Merci de votre compréhension et de votre coopération.",
+      "ko": "엑스포 현장에서 발생한 음식물 쓰레기 유래의 '바이오가스'에 포함된 CO2와 대기 및 배기가스로부터 회수한 이산화탄소(CO2)와 수소를 원료로 도시가스의 주성분인 '메탄'을 만드는 실증 플랜트의 사이트 견학 투어입니다. 본 견학은 약 40분 소요됩니다. 가스 파빌리온 앞에서 출발하는 전용 버스를 타고 메타네이션 실증 플랜트로 이동합니다. / 휠체어 사용자 전용 예약입니다 / 동일 예약으로 동반자 1명까지 입장 가능합니다. *3세 이하 어린이도 좌석을 이용하려면 예약이 필요합니다.\n**버스는 정시에 출발하므로 늦으시면 참여하실 수 없습니다. 양해와 협조 부탁드립니다.",
+      "zh-cn": "这是一个参观示范工厂的游览活动，该工厂利用在世博会场内生成的厨余垃圾产生的“沼气”中含有的二氧化碳（CO2），以及从空气和废气中回收的二氧化碳（CO2）和氢气为原料，生产城市燃气的主要成分“甲烷”。本次参观约40分钟。您将乘坐从燃气展馆前出发的专用巴士**前往甲烷化示范工厂。/ 此预订仅限使用轮椅者 / 同一预订可允许一名陪同人员入场。 *3岁以下儿童如需使用座位，也需要预订。\n**巴士准时出发，如迟到将无法参加。感谢您的理解与配合",
       "en": "Osaka Gas metanation tour  is a plant tour in the Area Carbon Recycle Factory of making methane with carbon dioxide (CO2) and hydrogen. We gather the CO2 collected from the atmosphere or the biogas and  use it as raw materials of the city gas, which we use as the fuel  for the kitchen of the guesthouse,  : Approx.40 minutes. You will be transported to the plant by a dedicated bus departing from the front of the Gas Pavilion.This reservation is exclusively for wheelchair users. / One accompanying person is allowed per reservation. *Reservations are required for children under 3 years old if they wish to use the seats."
     },
     "virtual_url": "",
@@ -3153,10 +3153,10 @@
     },
     "virtual_url": "",
     "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2b023de64c.html",
-    "chairman": false,
-    "is_today": true,
     "lat": 34.6522008746331,
-    "lng": 135.38285583257675
+    "lng": 135.38285583257675,
+    "chairman": false,
+    "is_today": false
   },
   "T21U": {
     "id": 1888,
@@ -3179,10 +3179,10 @@
     },
     "virtual_url": "",
     "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2ae1f9ffda.html",
-    "chairman": false,
-    "is_today": true,
     "lat": 34.65222735185167,
-    "lng": 135.38307577371597
+    "lng": 135.38307577371597,
+    "chairman": false,
+    "is_today": false
   },
   "T21X": {
     "id": 1889,
@@ -3205,9 +3205,492 @@
     },
     "virtual_url": "",
     "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2ae0e4b725.html",
+    "lat": 34.65223948724068,
+    "lng": 135.38329571485522,
+    "chairman": false,
+    "is_today": false
+  },
+  "HUHC": {
+    "id": 1244,
+    "event_code": "HUHC",
+    "event_name": {
+      "en": "GAS PAVILION OBAKE WONDERLAND /Kids Work Experience",
+      "ja": "ガスパビリオン・おばけワンダーランド/キッズお仕事体験",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "<For ages 7 to 12. Includes use of XR goggles>■Duration:120 minutes■Overview:Join adorable OBAKE on a pavilion adventure in “OBAKE Wonderland” and take part in a job experience activity dressed just like the staff in matching uniforms.■Participation requirements:Ages 7 to 12. Must be accompanied by a parent or guardian. Only one parent/guardian may participate in the XR goggles experience.■Dates:Aug.2,3,9,10,16,17,23,24■Meeting time:Please arrive within your reserved time slot. ■Please be sure to read the “Notes on Reservations” carefully (link below) before making your reservation.",
+      "ja": "＜7歳以上～13歳未満・XRゴーグル利用含む＞■所要時間：約120分（パビリオン体験40分・お仕事体験30分含む）■概要：「おばけワンダーランド」で可愛いおばけたちと一緒に楽しむパビリオン体験に加え、スタッフと同じユニフォームを着てお手伝いができるキッズ向けお仕事体験。 ■参加条件：7歳以上～1３歳未満。参加については保護者の同伴が必要です。同伴保護者１名までXRゴーグル体験のみ参加可能。■開催日：8/2、3、9、10、16、17、23、24。■集合時間：ご予約された時間内にお越しください。■その他、下記のリンク先「予約にあたっての注意事項」を必ずご一読いただき、ご予約をお願いします。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-127606",
+    "portal_url": "https://www.gaspavilion.gas.or.jp/pavilion/notes/",
+    "chairman": false,
+    "is_today": false,
+    "cost_time": 120
+  },
+  "N097": {
+    "id": 5925,
+    "event_code": "N097",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES TOMOYASU HOTEI “LIVE in EXPO 2025” Audience Area",
+      "ja": "U-NEXT MUSIC FES TOMOYASU HOTEI “LIVE in EXPO 2025” 一般席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:16:00/Show Starts:17:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[Preschool children will not be admitted. An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Tomoyasu Hotei [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025 in Osaka, Kansai.Aug 16(Sat) will feature Tomoyasu Hotei, a leading Japanese guitarist whose one-of-a-kind playing style and silhouette attracts many people. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間16:00/開演時間17:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】布袋寅泰　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/16（土）＞は唯一無二のプレイスタイルとシルエットで、多くの人々を惹きつける日本を代表するギタリスト布袋寅泰が登場。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.video.unext.jp/lp/unext_music_fes",
+    "chairman": false,
+    "is_today": false
+  },
+  "N09A": {
+    "id": 5926,
+    "event_code": "N09A",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES TOMOYASU HOTEI “LIVE in EXPO 2025” Wheelchair",
+      "ja": "U-NEXT MUSIC FES TOMOYASU HOTEI “LIVE in EXPO 2025” 車いす席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:16:00/Show Starts:17:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[Preschool children will not be admitted. An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Tomoyasu Hotei [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025 in Osaka, Kansai.Aug 16(Sat) will feature Tomoyasu Hotei, a leading Japanese guitarist whose one-of-a-kind playing style and silhouette attracts many people. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間16:00/開演時間17:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】布袋寅泰　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/16（土）＞は唯一無二のプレイスタイルとシルエットで、多くの人々を惹きつける日本を代表するギタリスト布袋寅泰が登場。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.video.unext.jp/lp/unext_music_fes",
+    "chairman": true,
+    "is_today": false
+  },
+  "N0FJ": {
+    "id": 7373,
+    "event_code": "N0FJ",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO 2025 〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0FM": {
+    "id": 7374,
+    "event_code": "N0FM",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO 2025 〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Wheelchair",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 車いす席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": true,
+    "is_today": false
+  },
+  "N0FP": {
+    "id": 7375,
+    "event_code": "N0FP",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（B）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（B）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0FS": {
+    "id": 7376,
+    "event_code": "N0FS",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（C）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（C）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0FV": {
+    "id": 7377,
+    "event_code": "N0FV",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（D）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（D）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0FY": {
+    "id": 7378,
+    "event_code": "N0FY",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（F）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（F）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0G1": {
+    "id": 7379,
+    "event_code": "N0G1",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（G）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（G）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0G4": {
+    "id": 7380,
+    "event_code": "N0G4",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（H）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（H）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0G7": {
+    "id": 7381,
+    "event_code": "N0G7",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（I）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（I）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0GA": {
+    "id": 7382,
+    "event_code": "N0GA",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（J）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（J）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0GD": {
+    "id": 7383,
+    "event_code": "N0GD",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（L）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（L）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0GG": {
+    "id": 7384,
+    "event_code": "N0GG",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（N）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（N）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0GJ": {
+    "id": 7385,
+    "event_code": "N0GJ",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（O）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（O）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0GM": {
+    "id": 7386,
+    "event_code": "N0GM",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（Q）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（Q）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0GP": {
+    "id": 7387,
+    "event_code": "N0GP",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（S）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（S）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "N0GS": {
+    "id": 7388,
+    "event_code": "N0GS",
+    "event_name": {
+      "en": "U-NEXT MUSIC FES Augusta Camp Extra in EXPO〜YAMAZAKI MASAYOSHI 30th Anniversary〜 Audience Area（U）",
+      "ja": "U-NEXT MUSIC FES「Augusta Camp Extra in EXPO2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?」 一般席（U）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Doors Open:17:00/Show Starts:18:00]/[If attending in a wheelchair, please be sure to reserve a wheelchair-accessible seat.]/[An event admission ticket is required for all attendees of elementary school age and above.]/[Performers]Masayoshi Yamazaki and more... [Summary]U-NEXT Co., Ltd. has U-NEXT MUSIC FEST, a live music festival taking place over six days, at Expo 2025. Aug 17(Sun) will feature a special live performance announced ahead of“Augusta Camp 2025 ~YAMAZAKI MASAYOSHI 30th Anniversary~”. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開場時間17:00/開演時間18:00】/【車いすでの参加の際は車いす席で予約必要。車いす席ご利用のお客様の付き添いとして同行される方（１名まで）もイベント観覧入場券必要。】/【未就学児童入場不可。小学生以上イベント観覧入場券必要。】/　【出演者】山崎まさよし and more…　【概要】U-NEXTが6日間にわたって開催するリアルな音楽フェス「U-NEXT MUSIC FES」。DAY5＜8/17（日）＞は9月に開催される『Augusta Camp 2025 ?YAMAZAKI MASAYOSHI 30th Anniversary?』に先駆けて、スペシャル公演の開催が決定!!　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": false
+  },
+  "U063": {
+    "id": 4756,
+    "event_code": "U063",
+    "event_name": {
+      "en": "WA Space<Technologies Driving Women's Advancement for the Near Future>",
+      "ja": "WAスペース　女性が輝く近未来社会とテクノロジー",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: June 3th】【11:30-12:30 (OPEN11:00)】【13:30-14:30 (OPEN13:00)】【Summary】Women’s Pavilion.Kio University has pioneered innovative technologies to support individuals through reproductive health experiences such as childbirth and breastfeeding. Researchers and invited experts will discuss such advancements and initiatives aimed at empowering individuals of all identities. Interactive discussions will center on future innovations that foster a more gender-inclusive global society. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：6月3日】【11:30-12:30 (OPEN11:00)】【13:30-14:30 (OPEN13:00)】【概要】ウーマンズパビリオン。畿央大学では出産・授乳など女性特有の事象をサポートするテクノロジーを発明・開発しています。このシンポジウムでは大学教員および招待講演者が、女性の活躍をサポートする国内外のテクノロジーや取組みを世界中の方に向けて発信します。また、講演者と参加者が一緒に女性が活躍できる未来のテクノロジーや取組みを考え、それらを生かしたジェンダーフリーな国際社会のあり方についても考えます。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
     "chairman": false,
     "is_today": true,
-    "lat": 34.65223948724068,
-    "lng": 135.38329571485522
+    "lat": 34.648885639404845,
+    "lng": 135.38805663585666
   }
 }
