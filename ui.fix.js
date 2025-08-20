@@ -452,7 +452,6 @@ location.href = 'https://ticket.expo2025.or.jp/zh-tw/event_search/?id=MREBB6J6X2
         },
         reserveSlot: async function(json){
             // Pull Request is welcome :D
-            /*
             var can_reserve = false;
             var x = await fetch('https://ticket.expo2025.or.jp/api/d/my/tickets/');
             var json = await x.json();
@@ -471,6 +470,7 @@ location.href = 'https://ticket.expo2025.or.jp/zh-tw/event_search/?id=MREBB6J6X2
                 });
                 return;
             }
+            /*
             */
             var pass = await waitInline(json.event_code);
             if(pass.active) {

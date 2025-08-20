@@ -3,11 +3,17 @@
 // @namespace   Expo2025
 // @description Improve the user experience of EXPO2025 ticket official site
 // @include     https://ticket.expo2025.or.jp/*
-// @version     1.2
+// @version     1.3
 // ==/UserScript==
 
 (function() {
-    var fileref = document.createElement('script')
+    var fileref = document.createElement('script');
+    fileref.onerror = async function(){
+        await new Promise((r)=>setTimeout(r,2000))
+        var div = document.createElement('div');
+        div.innerHTML = '<h3 style="background: red; color: white; text-align: center; padding: 0.5em;">EXPO2025 地圖套件載入失敗，請確認已確實繞過 CSP 限制</h3>';
+        document.querySelector('header').appendChild(div);
+    };
     fileref.setAttribute('type', 'text/javascript');
     fileref.setAttribute('src', '//grassboy.github.io/EXPO2025/ui.fix.js?v='+(new Date()).getTime());
     document.getElementsByTagName('head').item(0).appendChild(fileref);
