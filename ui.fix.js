@@ -382,7 +382,7 @@ location.href = 'https://ticket.expo2025.or.jp/zh-tw/event_search/?id=MREBB6J6X2
                       '&ticket_ids[]='+expandTicketId(json.ticket_id);
             var request = await fetch(url);
             var rsp = await request.json();
-            if(rsp.entrance_date) {
+            if(true || rsp.entrance_date) {
                 localStorage.ticket_id = json.ticket_id;
                 alert('已設定使用票券為 '+json.ticket_id);
                 toChild({
