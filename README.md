@@ -17,13 +17,17 @@
 1. 無法掌握自身附近的場館有哪些
 1. 搜尋介面無法跨語言、必需大小寫相符才搜得到
 1. 不同語言的場館資訊有差異(ex: 在日文版下的場館資訊有 193 筆，中文版只有 181 筆)
+1. 進行當日預約的流程繁瑣
 1. 網站一段時間後就會被登出
 
 ## 主要功能
 
 - 互動式地圖瀏覽
+- 無障礙設施標示切換
 - 自適應式彈出視窗
 - 地圖標記點優化
+
+> 更多技術細節和閒聊請參閱 [MURMUR.md](./MURMUR.md)
 
 ## 技術特點
 
@@ -34,6 +38,17 @@
 ## 使用方式
 
 1. 直接前往 [https://grassboy.github.io/EXPO2025/index.html](https://grassboy.github.io/EXPO2025/index.html) 便可進行地圖瀏覽
+1. 前往 expo2025.user.js 安裝 Expo2025 UI Fix 的網站腳本
+1. 直接訪問 [https://ticket.expo2025.or.jp/](https://ticket.expo2025.or.jp/)
+1. 理論上前兩點看起來很簡單，實際上需要克服的技術痛點還有如下：
+    1. 瀏覽網站的瀏覽器必需支援安裝 UserScript
+        - Desktop Chrome / Firefox Mobile: Tempermonkey 套件
+    1. 萬博官網有設定 Content-Security-Policy 要有辦法繞過去
+        - Firefox Mobile: CSP for Me 套件
+            - Applied URLs ```https://ticket.expo2025.or.jp/*```
+            - Applied Policy ```script-src *;frame-src *;style-src *;img-src *; ```
+        - Desktop Chrome: CSP Unblock 套件
+            ![CSP Unblock](https://i.imgur.com/DcFEIBw.png)
 
 ## 開發環境
 

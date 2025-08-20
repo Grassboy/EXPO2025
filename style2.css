@@ -1,0 +1,197 @@
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+.loading-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    border: 2px solid #888;
+    border-top-color: #333;
+    vertical-align: middle;
+    animation: spin 1s linear infinite;
+}
+
+.additional-info {
+    color: #333;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-flow: row;
+    font-size: 18px;
+    justify-content: flex-start;
+    align-items: center;
+    .slot-select {
+    	font-size: 14px;
+    	flex: 1 1 auto;
+		padding: 4px;
+        margin: 0 3px;
+        background: white;
+        border: 1px solid #777;
+        border-radius: 5px;
+        text-align: center;
+    }
+    .reserve-button {
+    	font-size: 14px;
+    	padding: 3px;
+        border-radius: 5px;
+        width: 3em;
+        border: 1px solid #777;
+    }
+    &:empty {
+        display: none;
+    }
+}
+
+#date-control, #ticket-control {
+    margin-left: 0;
+    background: rgba(255,255,255,0.8);
+    padding: 3px 5px 3px 3px;
+}
+#update_ticket_id {
+    display: block;
+    width: 100%;
+}
+
+
+.popup-content ul.auto-pavilion-list {
+    display: block;
+}
+#popup_auto{
+    .auto-operation {
+        margin: 0.5em 0.5em;
+        button {
+            font-size: 14px;
+            padding: 3px;
+            border-radius: 5px;
+            border: 1px solid #777;
+        }
+    }
+    .auto-event-search {
+        width: calc(100% - 1em - 8px);
+        margin: 5px calc(0.5em + 4px);;
+        padding: 0.5em;
+        border: 1px solid gray;
+    }
+    ul {
+        margin-bottom: 1em;
+        padding: 0 0.5em;
+        &.auto-time-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, auto));
+            gap: 3px;
+            width: 100%;
+            max-width: 1000px;
+            li {
+                justify-self: center; /* 將最後一行靠左排列 */
+            }
+        }
+        &.auto-event-list {
+            display: flex;
+            flex-direction: column;
+            gap: 3px;
+            width: 100%;
+            li {
+                order: 3; /* 預設順序 */
+                width: calc(100% - 6px);
+                &.auto-event-matched {
+                    order: 1!important;
+                    box-shadow: 0 0 0 3px inset #FFFFCC;
+                }
+            }
+        }
+    }
+    li {
+        cursor: pointer;
+        border: 1px solid gray;
+        padding: 0.5em;
+        margin: 0.2em;
+        background: #f8f8f8;
+        user-select: none;
+        flex: 1 1 auto;
+        width: 100%;
+        transition: background-color 0.2s ease;
+        &[data-status="selected"] {
+            background: #3388ff;
+            color: white;
+            border-color: navy;
+        }
+        &[data-status="tobe-unselected"] {
+            background: #AAA;
+            color: white;
+            border-color: navy;
+        }
+        &[data-status="tobe-selected"] {
+            background: #3388ff33;
+            color: black;
+            border-color: navy;
+        }
+    }
+}
+@keyframes fadeIn {
+    0% {opacity: 0;}
+    33% {opacity: 1;}
+    90% {opacity: 1;}
+    100% {opacity: 0;}
+}
+@keyframes fadeOut {
+    0% {opacity: 1;}
+    60% {opacity: 1;}
+    100% {opacity: 0;}
+}
+#auto_response {
+    width: calc(100vw - 40px - 6em);
+    max-width: 450px;
+    right: calc(100% + 8px);
+    background: #fff6;
+    position: absolute;
+    top: 0;
+    padding: 5px;
+    backdrop-filter: blur(6px);
+    border-radius: 0.5em 0 0.5em 0.5em;
+    pointer-events: auto;
+    &:has(ul:empty) {
+        display: none;
+    }
+    &:after {
+        content: '';
+        width: 5px; height: 5px;
+        left: 100%;
+        position: absolute;
+        top: 0;
+        background-image: linear-gradient(135deg, #fff6 50%, transparent 50%);
+        backdrop-filter: blur(6px);
+    }
+    ul {
+        max-height: 150px;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch; /* 在 iOS 上提供平滑滾動 */
+        li {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            padding: 0.3em;
+            margin: 3px;
+            border-radius: 0.5em;
+            background: #FFC;
+            cursor: pointer;
+            animation: fadeOut 1s ease-in-out;
+            position: relative;
+            &:has(em) {
+                animation: none;
+            }
+            em {
+                animation: fadeIn 3s ease-in-out;
+                width: 5px;
+                height: calc(100% - 0.5em);
+                right: 5px;
+                position:absolute;
+                background: #FC58;
+                border-radius: 10px;
+            }
+        }    
+    }
+}

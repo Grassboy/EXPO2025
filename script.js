@@ -2,14 +2,6 @@
 let cache = {};
 let pavilion = {};
 let rank = {};
-// default config managed by localStorage
-var getConfig = function(key, default_value){
-    return localStorage.getItem(key) || (localStorage.setItem(key, default_value) || default_value);
-};
-var setConfig = function(key, value){
-    localStorage.setItem(key, value);
-};
-
 localStorage.cache_time = getConfig('cache_time', (new Date()).getTime());
 
 //綁定 onmessage 事件 
@@ -35,35 +27,6 @@ window.addEventListener('message', function(event) {
         console.error('onmessage 事件錯誤', e);
     }
 });
-
-var getMMDD = function() {
-    var date = new Date();
-    var month = date.getMonth() + 1;
-    var day = date.getDate();
-    //return MMDD format if less than 10
-    if(month < 10) {
-        month = '0' + month;
-    }
-    if(day < 10) {
-        day = '0' + day;
-    }
-    return month + day;
-};
-var fetchJSONifNotInLocalStorage = async function(url, cache_key) {
-    if(localStorage.getItem(cache_key)) {
-        var json = JSON.parse(localStorage.getItem(cache_key));
-        // 如果 json 的 _parse_time 是今天，則直接返回 json
-        if(json._parse_time && json._parse_time != "2025-05-14 08:46:04" && new Date(json._parse_time).toString().substr(0,10) == new Date().toString().substr(0,10)) {
-            return json;
-        }
-    }
-    return fetch(url)
-        .then(response => response.json())
-        .then(data => {
-            localStorage.setItem(cache_key, JSON.stringify(data));
-            return data;
-        });
-};
 
 //{ NEED_PERMISSION start
 var attachRankClass = function(rank_id) {
@@ -127,18 +90,6 @@ var attachRank = function() {
 
 //}NEED_PERMISSION end
 
-var lang = getConfig('lang', 'zh-tw');
-var i18n = function(text_json){
-    if(text_json[lang]) {
-        return text_json[lang];
-    } else {
-        if(lang == 'zh-tw' && text_json['zh-cn']) {
-            return text_json['zh-cn'];
-        } else {
-            return text_json['en'] || text_json['ja'];
-        }
-    }
-};
 
 // 從 localStorage 恢復地圖狀態
 const savedCenter = localStorage.getItem('mapCenter');
@@ -177,7 +128,7 @@ L.tileLayer(
     }).addTo(map);
 
 // 設定圖片路徑與圖片對應的地理範圍
-const imageUrl = 'https://www.expovisitors.expo2025.or.jp/_nuxt/illust-map-en.f8c189cf.jpg';
+const imageUrl = 'https://www.expovisitors.expo2025.or.jp/_nuxt/illust-map-en.ce1d1253.webp';
 const imageBounds = [
     [34.642367209, 135.372827911],  // 南緯、西經
     [34.658401515, 135.394178298]   // 北緯、東經
@@ -196,10 +147,41 @@ L.control.locate({
     position: 'bottomright',
     icon: 'fa-solid fa-location-crosshairs',
     strings: {
-        title: "Show me where I am"
+        title: "取得目前位置"
     }
 }).addTo(map);
 
+var AddPopupControl = function(icon, key, sticky){
+    var ControlInstance = L.Control.extend({
+        options: {
+            position: 'bottomright'
+        },
+        onAdd: function(map) {
+            var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
+            if(sticky) {
+                container.style.marginBottom = '0';
+            }
+            var link = L.DomUtil.create('a', key+'-control-button', container);
+            link.href = '#';
+            //link.innerHTML = '<i class="fa-solid fa-circle-question"></i>';
+            link.innerHTML = '<i class="' + icon + '"></i>';
+            L.DomEvent
+                .on(link, 'click', L.DomEvent.stopPropagation)
+                .on(link, 'click', L.DomEvent.preventDefault)
+                .on(link, 'click', function() {
+                    document.body.setAttribute('data-popup-target1', 'popup_'+key);
+                    setTimeout(() => {
+                        document.body.setAttribute('data-popup-target2', 'popup_'+key);
+                    }, 100);
+                });
+            return container;
+        }
+    });
+
+    var control_instance = new ControlInstance();
+    control_instance.addTo(map);
+    return control_instance;
+};
 var LayersControl = function(icon, key, markerGroup, sticky){
     return L.Control.extend({
         options: {
@@ -345,7 +327,7 @@ map.whenReady(async () => {
         if(previous_marker) {
             previous_marker.setIcon(previous_marker_icon);
             if(previous_marker_is_search_matches) {
-                previous_marker.getElement().classList.add('search-matches');
+                previous_marker.getElement() && previous_marker.getElement().classList.add('search-matches');
             }
         }
         //console.log('click', marker);
@@ -353,7 +335,6 @@ map.whenReady(async () => {
         previous_marker_icon = marker.getIcon();
         previous_marker_is_search_matches = marker.getElement().classList.contains('search-matches');
         const popup = document.getElementById('popup');
-        const popup2 = document.getElementById('popup_helper');
         const h3 = popup.querySelector('.popup-title');
         const code = popup.querySelector('.code');
         const cost_time = popup.querySelector('.cost-time');
@@ -364,15 +345,10 @@ map.whenReady(async () => {
         summary.textContent = summary_text;
         cost_time.textContent = item.cost_time ? '🕒' + item.cost_time + '分' : '';
         attachRankItem(code_text.split('-')[0], summary);
-        if(popup.style.display != 'flex') {
-            popup.style.display = 'flex';
-            popup2.classList.remove('show');
-            // 使用 setTimeout 確保 display: flex 生效後再添加 show 類別
-            setTimeout(() => {
-                popup.classList.add('show');
-                popup2.style.display = 'none';
-            }, 10);
-        }
+        document.body.setAttribute('data-popup-target1', 'popup');
+        setTimeout(() => {
+            document.body.setAttribute('data-popup-target2', 'popup');
+        }, 100);
     };
     document.querySelector('.popup-title').addEventListener('click', function() {
         //複製 popup-title 的內容
@@ -468,7 +444,7 @@ map.whenReady(async () => {
                             item.chairman ? 'wheelchair-marker' : 
                             (item.lat && item.lng ? 'default-marker' : 'gray-marker')
                            ) + time_class + rank_class,
-                html: '<div title="' + i18n(item.event_name) + '" class="marker-inner"></div>',
+                html: '<div title="' + (item.short_name || i18n(item.event_name)) + '" class="marker-inner"></div>',
                 iconSize: [30, 30],
                 iconAnchor: [15, 15],
                 title: i18n(item.event_name)
@@ -568,27 +544,22 @@ map.on('click', (newEvent) => {
         newEvent.originalEvent.preventDefault();
         newEvent.originalEvent.stopPropagation();
     } else {
-        [...document.querySelectorAll('.popup')].forEach(popup => {
-            popup.classList.remove('show');
-        });
         if(previous_marker) {
             previous_marker.setIcon(previous_marker_icon);
             if(previous_marker_is_search_matches) {
-                previous_marker.getElement().classList.add('search-matches');
+                previous_marker.getElement() && previous_marker.getElement().classList.add('search-matches');
             }
         }
-        // 等待動畫結束後再隱藏元素
+        document.body.setAttribute('data-popup-target1', '');
         setTimeout(() => {
-            [...document.querySelectorAll('.popup')].forEach(popup => {
-                popup.style.display = 'none';
-            });
-        }, 300);
+            document.body.setAttribute('data-popup-target2', '');
+        }, 100);
     }
 });
-[...document.querySelectorAll('.close-popup')].forEach(closePopup => {
-    closePopup.addEventListener('click', () => {
+document.body.addEventListener('click', (e) => {
+    if(e.target.parentNode.classList.contains('close-popup')) {
         map.fire('click');
-    });
+    }
 });
 map.on('zoomend', () => {
     var zoom = map.getZoom();
@@ -622,6 +593,15 @@ var magicSearch = async function() {
 var magicSearchCheck = function(item) {
     return item.id == 'W02-01' || item.event_code == 'HSH0';
 }
+var focusOnMarker = function(marker) {
+    marker.fire('click');
+    var bounds = marker.getLatLng().toBounds(100);
+    map.fitBounds(bounds, {
+        animate: false, 
+        maxZoom: 20,
+        paddingTopLeft: [0, -100]
+    });
+};
 var SearchControl = L.Control.extend({
     options: {
         position: 'topleft'
@@ -640,15 +620,6 @@ var SearchControl = L.Control.extend({
         var matchesMarkers, now_search_term, now_search_index, searchBounds;
         var search_next = searchControl.querySelector('.search-next');
         var search_prev = searchControl.querySelector('.search-prev');
-        var focusOnMarker = function(marker) {
-            marker.fire('click');
-            var bounds = marker.getLatLng().toBounds(100);
-            map.fitBounds(bounds, {
-                animate: false, 
-                maxZoom: 20,
-                paddingTopLeft: [0, -100]
-            });
-        };
         var clearSearch = function() {
             now_search_index = 0;
             now_search_term = null;
@@ -693,7 +664,7 @@ var SearchControl = L.Control.extend({
             e.preventDefault();
             e.stopPropagation();
             clearSearch();
-            searchBox.value = '';
+            searchBox.select();
         });
         L.DomEvent
             .on(searchBox, 'mousedown', L.DomEvent.stopPropagation)
@@ -761,7 +732,7 @@ var SearchControl = L.Control.extend({
                             if(!searchBounds) {
                                 searchBounds = L.latLngBounds();
                             }
-                            searchBounds.extend([item.lat, item.lng]);
+                            searchBounds.extend(marker.getLatLng());
                             matchesMarkers.push(marker);
                         }
                     });
@@ -794,32 +765,7 @@ var searchControl = new SearchControl();
 searchControl.addTo(map);
 
 // 幫助控制項
-var HelpControl = L.Control.extend({
-    options: {
-        position: 'bottomright'
-    },
-    onAdd: function(map) {
-        var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
-        var link = L.DomUtil.create('a', 'help-control-button', container);
-        link.href = '#';
-        link.innerHTML = '<i class="fa-solid fa-circle-question"></i>';
-        L.DomEvent
-            .on(link, 'click', L.DomEvent.stopPropagation)
-            .on(link, 'click', L.DomEvent.preventDefault)
-            .on(link, 'click', function() {
-                const popup = document.getElementById('popup_helper');
-                popup.style.display = 'flex';
-                setTimeout(() => {
-                    popup.classList.add('show');
-                }, 10);
-            });
-        return container;
-    }
-});
-
-// 創建並添加幫助控制項到地圖
-var helpControl = new HelpControl();
-helpControl.addTo(map);
+var helperControl = AddPopupControl('fa-solid fa-circle-question', 'helper', false);
 
 function alertMsg(txt) {
     // 移除已存在的 alert-msg

@@ -85,29 +85,34 @@ html, body {
 
 
 .popup {
-    display: none;
-    position: fixed;
+    position: none;
     left: 0;
     right: 0;
     bottom: 0;
-    background: white;
+    background: rgba(255,255,255,0.8);
     z-index: 1000;
     transform: translateY(100%);
     transition: transform 0.3s ease-out;
-}
-
-.popup.show {
-    transform: translateY(0);
-}
-.popup {
-    display: flex;
     flex-direction: column;
     align-items: stretch;
     justify-content: center;
+    backdrop-filter: blur(6px);
     .popup-content {
         overflow-y: auto;
         -webkit-overflow-scrolling: touch; /* 在 iOS 上提供平滑滾動 */
     }
+}
+
+[data-popup-target1="popup"] #popup, [data-popup-target2="popup"] #popup,
+[data-popup-target1="popup_helper"] #popup_helper, [data-popup-target2="popup_helper"] #popup_helper,
+[data-popup-target1="popup_auto"] #popup_auto, [data-popup-target2="popup_auto"] #popup_auto {
+    position: fixed;
+}
+
+[data-popup-target1="popup"][data-popup-target2="popup"] #popup,
+[data-popup-target1="popup_helper"][data-popup-target2="popup_helper"] #popup_helper,
+[data-popup-target1="popup_auto"][data-popup-target2="popup_auto"] #popup_auto {
+    transform: translateY(0);
 }
 @media (min-width: 800px) {
     .popup {
@@ -118,14 +123,16 @@ html, body {
         padding: 2em;
         box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
         max-height: 40vh;
-        &#popup_helper {
+        &#popup_helper, &#popup_auto {
             max-height: 80vh;
         }
         overflow-y: auto;
         -webkit-overflow-scrolling: touch; /* 在 iOS 上提供平滑滾動 */
     }
     
-    .popup.show {
+    [data-popup-target1="popup"][data-popup-target2="popup"] #popup,
+    [data-popup-target1="popup_helper"][data-popup-target2="popup_helper"] #popup_helper,
+    [data-popup-target1="popup_auto"][data-popup-target2="popup_auto"] #popup_auto {
         transform: translateX(-50%) translateY(0);
     }
 }
@@ -564,7 +571,8 @@ html, body {
             margin: 0;
             border-bottom: 1px solid #aaa;
             padding: 0.3em;
-            background: #f0f0f033;
+            background: #e0e0e077;
+            backdrop-filter: blur(16px);
         }
     }
     .helper-description {
