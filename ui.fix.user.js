@@ -9,7 +9,7 @@
 (function() {
     var fileref = document.createElement('script')
     fileref.setAttribute('type', 'text/javascript');
-    fileref.setAttribute('src', '//is.gy/expo2025/ui.fix.js?v='+(new Date()).getTime());
+    fileref.setAttribute('src', '//grassboy.github.io/EXPO2025/ui.fix.js?v='+(new Date()).getTime());
     document.getElementsByTagName('head').item(0).appendChild(fileref);
     //讓 ticket.expo2025.or.jp 支援上/下一頁切換
     var page_map = JSON.parse(localStorage.page_map || '{}');
