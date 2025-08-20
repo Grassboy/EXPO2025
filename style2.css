@@ -12,7 +12,14 @@
     vertical-align: middle;
     animation: spin 1s linear infinite;
 }
-
+.helper-description {
+    font-size: 0.8em;
+    font-weight: normal;
+    a {
+        color: #333;
+        text-decoration: none;
+    }
+}
 .additional-info {
     color: #333;
     margin: 5px 0;

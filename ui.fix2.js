@@ -317,7 +317,8 @@ auto_div.classList.add('popup');
 document.body.appendChild(auto_div);
 auto_div.innerHTML = `
         <h3>
-            <span class="helper-title-text">當日預約機器人(不穩定)</span>
+            <span class="helper-title-text">當日預約機器人(不穩定)</span><br>
+            <span class="helper-description">資料來源：<a href="https://expo.ebii.net/" target="_blank">https://expo.ebii.net/</a></span>
             <span class="close-popup"><i class="fa-solid fa-xmark"></i></span>
         </h3>
         <div class="popup-content">
@@ -379,6 +380,11 @@ auto_div.querySelectorAll('.auto-time-list li').forEach(li => {
 
 var wss = null;
 var initWSS = function(){
+    if(!isToday(document.querySelector('#date-control em').textContent)){
+        alertMsg('機器人只支援當日預約');
+        return;
+    }
+
     var closeWSS = function(){
         wss.onerror = wss.onclose = function(){/*noop*/};
         wss.close();

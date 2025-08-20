@@ -62,6 +62,7 @@
 ## 協力清單
  - SVG 圖示 [https://www.svgrepo.com/](https://www.svgrepo.com/)
  - 場館評價協力 [Sophy Lin.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2iOPhoVcIdiR4fha8-YV0zbFeKJHwXBD97_FqSuSUdWrLm82dUnsmtvZpxY4qQpe0UYTXMCbhFMaK/pubhtml?fbclid=IwY2xjawJ2nuJleHRuA2FlbQIxMABicmlkETFESUlkSWt0dWFZNzUzUUFLAR6AegBApEHvz8N76TT7bg-AdbbMuXpi9S0MTgardWOyHlDxJiFa_XJf20tVYg_aem_EHqJW0lUFvytpd1KdWWAQA)
+ - 當日預約機器人(不穩定)資料來源 [https://expo.ebii.net/](https://expo.ebii.net/)
 
 ## 貢獻指南
 
