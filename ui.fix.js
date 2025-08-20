@@ -190,7 +190,7 @@
         }
     }
     var map_iframe = {
-        show: '<iframe class="map-iframe" allow="geolocation" src="https://is.gy/expo2025/">',
+        show: '<iframe class="map-iframe" allow="geolocation" src="https://grassboy.github.io/EXPO2025/">',
         hide: '<iframe class="map-iframe" allow="geolocation" src="about:blank">'
     }
     if(ticket_id) {
