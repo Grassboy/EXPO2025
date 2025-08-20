@@ -382,16 +382,16 @@ location.href = 'https://ticket.expo2025.or.jp/zh-tw/event_search/?id=MREBB6J6X2
                       '&ticket_ids[]='+expandTicketId(json.ticket_id);
             var request = await fetch(url);
             var rsp = await request.json();
-            if(true || rsp.entrance_date) {
-                localStorage.ticket_id = json.ticket_id;
-                alert('已設定使用票券為 '+json.ticket_id);
-                toChild({
-                    'op': 'setLocalStorageTicketIdResult',
-                    'ticket_id': json.ticket_id
-                });
-            } else {
-                alert('設定使用票券失敗，有可能是指定的票券在 ' + localStorage.date + ' 無權參觀，請再確認！');
+            var msg = '';
+            if(!rsp.entrance_date) {
+                msg = '\r\n但是指定的票券在 ' + localStorage.date + ' 無法進行任何預約，請再確認喲！';
             }
+            localStorage.ticket_id = json.ticket_id;
+            alert('已設定使用票券為 '+json.ticket_id + msg);
+            toChild({
+                'op': 'setLocalStorageTicketIdResult',
+                'ticket_id': json.ticket_id
+            });
         },
         getActiveTicket: async function(json){
             var url = 'https://ticket.expo2025.or.jp/api/d/my/tickets/';
