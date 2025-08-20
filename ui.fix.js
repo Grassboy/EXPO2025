@@ -564,7 +564,7 @@ location.href = 'https://ticket.expo2025.or.jp/zh-tw/event_search/?id=MREBB6J6X2
                 console.log('不支援的事件', json.op);
             }
         } catch(e) {
-            console.error('onmessage 事件錯誤', e);
+            //console.error('onmessage 事件錯誤', e);
         }
     });
 
