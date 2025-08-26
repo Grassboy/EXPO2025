@@ -143,14 +143,21 @@ imageOverlay.getElement().style.maskImage = 'radial-gradient(closest-side, rgb(0
 
 
 // 添加定位控制
-L.control.locate({
+var locateControl = L.control.locate({
     position: 'bottomright',
     icon: 'fa-solid fa-location-crosshairs',
     strings: {
         title: "取得目前位置"
     },
-    keepCurrentZoomLevel: true
+    keepCurrentZoomLevel: true,
+    onLocationOutsideMapBounds: function(){
+        if(!locateControl.__shown) {
+            alertMsg('目前位置在園區外？');
+            locateControl.__shown = true;
+        }
+    }
 }).addTo(map);
+locateControl.start();
 
 var AddPopupControl = function(icon, key, sticky){
     var ControlInstance = L.Control.extend({
