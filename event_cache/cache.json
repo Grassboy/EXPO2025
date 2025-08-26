@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-08-18 20:32:08",
+  "_parse_time": "2025-08-23 22:06:16",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -161,7 +161,7 @@
     "lng": 135.38342998875157,
     "short_name": "泰國",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 10
   },
   "CO73": {
@@ -189,7 +189,7 @@
     "lng": 135.3834261955352,
     "short_name": "泰國♿",
     "chairman": true,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 10
   },
   "H3H0": {
@@ -1931,10 +1931,10 @@
       "zh-cn": null
     },
     "event_summary": {
-      "en": "【Duration45min】At the Wakayama zone within the KANSAI PAVILION, we offer delicious meals with stylish presentations, allowing you to explore the local cuisine of Wakayama on site.\n*Food and drink are not free of charge（6,000 yen including tax）.\n*There is a 45-minute time limit for each table reservation.\n*Please note that reservations will be cancelled 15 minutes after the start time.\n*Closed on the 3rd Friday and Saturday of every month for a special \"sake drinking  contest （no reservation required）\"",
-      "ja": "【所要時間45分】関西パビリオン内の和歌山ゾーンでは、万博に向けて作り上げた特別な和菓子等とドリンクのペアリングセットを提供。芸術的な演出を含めた「食のアート」体験を提供します。\r\n※飲食は有料（１セット税込6,000円）。現地支払い。\r\n※飲食は入館予約時間からの45分制。\r\n※予約開始時間の15分を経過した場合はキャンセル扱い。\r\n※毎月第3金曜・土曜は特別企画「お酒の飲み比べ（予約不要）」実施のため休業。",
+      "en": "【Duration45min】At the Wakayama zone within the KANSAI PAVILION, we offer delicious meals with stylish presentations, allowing you to explore the local cuisine of Wakayama on site.\n*Food and drink are not free of charge（6,000 yen including tax）.\n*There is a 45-minute time limit for each table reservation.\n*Please note that reservations will be cancelled 15 minutes after the start time.\n*Closed on the 3rd Friday and Saturday of every month for a special \"sake drinking  contest （no reservation required）\"\n*We can also provide low chair seating (wheelchair accessible).",
+      "ja": "【所要時間45分】関西パビリオン内の和歌山ゾーンでは、万博に向けて作り上げた特別な和菓子等とドリンクのペアリングセットを提供。芸術的な演出を含めた「食のアート」体験を提供します。\r\n※飲食は有料（１セット税込6,000円）。現地支払い。\r\n※飲食は入館予約時間からの45分制。予約開始時間の15分を経過した場合はキャンセル扱い。\r\n※毎月第3金曜・土曜は特別企画「お酒の飲み比べ（予約不要）」実施のため休業。\r\n※ローチェア席（車いす対応可）へのご案内も賜ります。\r\n※関西パビリオン入館者を対象に当日受付も行っております。",
       "zh-tw": null,
-      "fr": null,
+      "fr": "【Duration45min】At the Wakayama zone within the KANSAI PAVILION, we offer delicious meals with stylish presentations, allowing you to explore the local cuisine of Wakayama on site.\n*Food and drink are not free of charge（6,000 yen including tax）.\n*There is a 45-minute time limit for each table reservation.\n*Please note that reservations will be cancelled 15 minutes after the start time.\n*Closed on the 3rd Friday and Saturday of every month for a special \"sake drinking  contest （no reservation required）\"\n*We can also provide low chair seating (wheelchair accessible).\n*There is a 45-minute time limit for each table reservation.\n*Please note that reservations will be cancelled 15 minutes after the start time.\n*Closed on the 3rd Friday and Saturday of every month for a special \"sake drinking  contest （no reservation required）\"",
       "ko": null,
       "zh-cn": null
     },
@@ -1960,7 +1960,7 @@
     },
     "event_summary": {
       "en": "【Duration45min】【Wheelchair accessible *available to anyone】At the Wakayama zone within the KANSAI PAVILION, we offer delicious meals with stylish presentations, allowing you to explore the local cuisine of Wakayama on site.\n*Food and drink are not free of charge（6,000 yen including tax）.\n*There is a 45-minute time limit for each table reservation.\n*Please note that reservations will be cancelled 15 minutes after the start time.\n*Closed on the 3rd Friday and Saturday of every month for a special \"sake drinking  contest （no reservation required）\"",
-      "ja": "【所要時間45分：車いす利用者以外でも予約可能】関西パビリオン内の和歌山ゾーンでは、万博に向けて作り上げた特別な和菓子等とドリンクのペアリングセットを提供。芸術的な演出を含めた「食のアート」体験を提供します。\r\n※飲食は有料（１セット税込6,000円）。現地支払い。\r\n※飲食は入館予約時間からの45分制。\r\n※予約開始時間の15分を経過した場合はキャンセル扱い。\r\n※毎月第3金曜・土曜は特別企画「お酒の飲み比べ（予約不要）」実施のため休業。",
+      "ja": "【所要時間45分：車いす利用者以外でも予約可能】関西パビリオン内の和歌山ゾーンでは、万博に向けて作り上げた特別な和菓子等とドリンクのペアリングセットを提供。芸術的な演出を含めた「食のアート」体験を提供します。\r\n※飲食は有料（１セット税込6,000円）。現地支払い。\r\n※飲食は入館予約時間からの45分制。予約開始時間の15分を経過した場合はキャンセル扱い。\r\n※毎月第3金曜・土曜は特別企画「お酒の飲み比べ（予約不要）」実施のため休業。\r\n※関西パビリオン入館者を対象に当日受付も行っております。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -3306,7 +3306,7 @@
     "lng": 135.38206323981288,
     "short_name": "瓦斯館學童體驗",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 120
   },
   "N097": {
@@ -6802,7 +6802,7 @@
     "virtual_url": null,
     "portal_url": "https://www.puk.jp/watch/background-of-the-story/",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1YJ": {
     "id": 19494,
@@ -6826,7 +6826,7 @@
     "virtual_url": null,
     "portal_url": "https://www.puk.jp/watch/background-of-the-story/",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "S030": {
     "id": 10615,
@@ -6853,7 +6853,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U0AF": {
     "id": 10056,
@@ -6880,7 +6880,7 @@
     "lng": 135.38833651412097,
     "short_name": "WA Space",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "N08S": {
     "id": 6016,
@@ -6935,5 +6935,80 @@
     "short_name": "U-NEXT",
     "chairman": false,
     "is_today": false
+  },
+  "M20D": {
+    "id": 26221,
+    "event_code": "M20D",
+    "event_name": {
+      "en": "Japan Ground Self-Defense Force Middle Army Band　General seats",
+      "ja": "【突撃！アニソン祭り！！】陸上自衛隊中部方面音楽隊　一般席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "General seats\nJapanese anime has now become a part of Japanese culture that is loved by people of all ages around the world.\nIn this concert, we are proud to present a powerful live performance of many well-known anime songs by the Middle Army Band of the JGSDF.\nThe program features a wide variety of songs spanning different genres and eras, including theme songs that captivated us in our childhood and music that enhances popular anime.\nTo everyone who discovered Japanese culture through anime, and to all music lovers, we hope to share with you the full charm of wind ensemble music.",
+      "ja": "一般席\r\n日本のアニメは今や国境を越え、世代を超えて愛される文化となりました。本演奏会ではそうした世界中で親しまれている数々のアニメソングを陸上自衛隊中部方面音楽隊による迫力ある生演奏でお届けします。子供の頃に夢中になった主題歌から、大人気のヒットアニメを彩る楽曲まで、多岐にわたるジャンルと年代の楽曲でプログラムを構成いたしました。\r\nテレビや映画館で皆様の心を掴んだメロディを吹奏楽の豊かな音色で皆様の心に響かせます。アニメを通じて日本の文化に触れてきた方々、そして音楽を愛するすべての方々に、吹奏楽の魅力を最大限にお届けします。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": true
+  },
+  "M20G": {
+    "id": 26222,
+    "event_code": "M20G",
+    "event_name": {
+      "en": "Japan Ground Self-Defense Force Middle Army Band　Wheelchair Accessible Seats",
+      "ja": "【突撃！アニソン祭り！！】陸上自衛隊中部方面音楽隊　車いす席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Wheelchair Seats\nJapanese anime has now become a part of Japanese culture that is loved by people of all ages around the world.\nIn this concert, we are proud to present a powerful live performance of many well-known anime songs by the Middle Army Band of the JGSDF.\nThe program features a wide variety of songs spanning different genres and eras, including theme songs that captivated us in our childhood and music that enhances popular anime.\nTo everyone who discovered Japanese culture through anime, and to all music lovers, we hope to share with you the full charm of wind ensemble music.",
+      "ja": "車いす席\r\n日本のアニメは今や国境を越え、世代を超えて愛される文化となりました。本演奏会ではそうした世界中で親しまれている数々のアニメソングを陸上自衛隊中部方面音楽隊による迫力ある生演奏でお届けします。子供の頃に夢中になった主題歌から、大人気のヒットアニメを彩る楽曲まで、多岐にわたるジャンルと年代の楽曲でプログラムを構成いたしました。\r\nテレビや映画館で皆様の心を掴んだメロディを吹奏楽の豊かな音色で皆様の心に響かせます。アニメを通じて日本の文化に触れてきた方々、そして音楽を愛するすべての方々に、吹奏楽の魅力を最大限にお届けします。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": true
+  },
+  "U043": {
+    "id": 4735,
+    "event_code": "U043",
+    "event_name": {
+      "en": "WA Space<New Prosperity - Towards the Society Respecting 'Inochi'>",
+      "ja": "WAスペース 私たちの新しい成長のカタチ：いのちを活かす社会をつくる",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: August 23th】【16:30-19:30 (OPEN16:00)】【Summary】Women’s Pavilion.HYMEC has led discussions in our five focus areas, female leadership, female entrepreneurs, regional revitalization, female young leaders, ethical economy, since 2020.In this event, we will discuss “The roles of women to play towards the peace and future of the earth” and “The regenerative economy that women inherit for the next generations” with our esteem speakers including Ms. IYENGAR, Sheena, Ms. MATSUI, Kathy and Mr. DOME, Takuo, and message out the discussion outcomes. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：8月23日】【16:30-19:30 (OPEN16:00)】【概要】ウーマンズパビリオン。吉田晴乃記念実行委員会では2020年より、社会を変える女性役員を増やす/女性起業家/女性首長と地域活性/女性ヤングリーダー/エシカル消費という投資で世界を変えるという5つの柱で議論を重ねてきました。本イベントでは、パネリストにシーナ・アイエンガー氏、キャシー松井氏、堂目卓生氏らを迎え、「平和と地球の未来に向けて女性が果たす役割」「女性が紡ぐリジェネラティブな経済」について対話し、発信します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
+    "chairman": false,
+    "is_today": true
   }
 }

@@ -148,7 +148,8 @@ L.control.locate({
     icon: 'fa-solid fa-location-crosshairs',
     strings: {
         title: "取得目前位置"
-    }
+    },
+    keepCurrentZoomLevel: true
 }).addTo(map);
 
 var AddPopupControl = function(icon, key, sticky){
