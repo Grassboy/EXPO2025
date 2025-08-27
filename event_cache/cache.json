@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-08-23 22:06:16",
+  "_parse_time": "2025-08-27 12:50:12",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -353,8 +353,8 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499244",
     "portal_url": "https://the-land-of-nomo.panasonic/",
-    "lat": 34.64858117837703,
-    "lng": 135.3890230862832,
+    "lat": 34.64925208464184,
+    "lng": 135.38885618476309,
     "short_name": "松下館",
     "chairman": false,
     "is_today": true,
@@ -1467,8 +1467,8 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-664929",
     "portal_url": "https://www.fepc.or.jp/sp/expo2025/",
-    "lat": 34.64908981943838,
-    "lng": 135.38762338944417,
+    "lat": 34.64947588233273,
+    "lng": 135.38764625787738,
     "short_name": "電力館",
     "chairman": false,
     "is_today": true,
@@ -2100,7 +2100,7 @@
     "lng": 135.37426203489306,
     "short_name": "萬博桑拿-女",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "Q013": {
     "id": 1233,
@@ -2127,7 +2127,7 @@
     "lng": 135.37451877520377,
     "short_name": "萬博桑拿-混",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T11R": {
     "id": 3242,
@@ -2254,7 +2254,7 @@
     "lng": 135.3743800520897,
     "short_name": "萬博桑拿-男",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "SI06": {
     "id": 1264,
@@ -2281,7 +2281,7 @@
     "lng": 135.38230597972873,
     "short_name": "瓦斯館甲烷示範",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 40
   },
   "SI09": {
@@ -2309,7 +2309,7 @@
     "lng": 135.3822602556547,
     "short_name": "瓦斯館甲烷示範♿",
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 40
   },
   "T11O": {
@@ -3306,7 +3306,7 @@
     "lng": 135.38206323981288,
     "short_name": "瓦斯館學童體驗",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 120
   },
   "N097": {
@@ -5891,6 +5891,9 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499244",
     "portal_url": "https://the-land-of-nomo.panasonic/",
+    "lat": 34.6491428677129,
+    "lng": 135.3886665239448,
+    "short_name": "松下館(兒童)",
     "chairman": false,
     "is_today": true,
     "cost_time": 90
@@ -6335,7 +6338,10 @@
     "portal_url": "https://www.fepc.or.jp/sp/expo2025/",
     "chairman": false,
     "is_today": true,
-    "cost_time": 45
+    "cost_time": 45,
+    "lat": 34.64947588233273,
+    "lng": 135.38743972778323,
+    "short_name": "電力館(兒童)"
   },
   "M1L1": {
     "id": 4896,
@@ -6958,7 +6964,7 @@
     "virtual_url": null,
     "portal_url": null,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M20G": {
     "id": 26222,
@@ -6982,7 +6988,7 @@
     "virtual_url": null,
     "portal_url": null,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U043": {
     "id": 4735,
@@ -7009,6 +7015,492 @@
     "lng": 135.38833651412097,
     "short_name": "WA Space",
     "chairman": false,
+    "is_today": false
+  },
+  "C060": {
+    "id": 30236,
+    "event_code": "C060",
+    "event_name": {
+      "en": "Ireland: Guided Tour with Live Music/30min/Arrive 10min Early/No Late Entry",
+      "ja": "アイルランド:生演奏含むツアー30分※開始時間の10分前集合/途中入場不可",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Duration: 30 minutes] Join our Pavilion Officers on a tour through three themed areas. First, immerse yourself in the sights, sounds, and scents of Ireland. Next, discover Irish design and innovation, from traditional crafts to modern creativity. Finally, enjoy an immersive co-creation experience combining music, visuals, and audience participation.",
+      "ja": "【所要３０分】アイルランドパビリオンの展示をパビリオンオフィサーがツアー形式でガイドします。パビリオンでは3つのエリアを巡り、まるでアイルランドにいるかのような感覚を味わうことができます。最初はアイルランドの風景や音、香りを再現し五感でアイルランドを体験できます。次の空間では伝統工芸と現代デザインの両面から、アイルランドを代表する優れたデザインとイノベーションをご覧いただけます。最後のエリアでは、音楽、映像、動き、そして観客自身が一体となって創り上げる、没入型の共創体験が待っています。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-664929",
+    "portal_url": "https://www.expovisitors.expo2025.or.jp/pavilions/601dfe25-9a69-40e5-9b6f-8657320006f7",
+    "chairman": false,
+    "is_today": true,
+    "cost_time": 30,
+    "lat": 34.65006556943525,
+    "lng": 135.38623541593552,
+    "short_name": "愛爾蘭導覽+音樂30min"
+  },
+  "C063": {
+    "id": 30237,
+    "event_code": "C063",
+    "event_name": {
+      "en": "Ireland: Expo Players Concert/60min/Arrive at Assigned Time/No Late Entry",
+      "ja": "アイルランド:バンドライブ60分※予約時間が集合時間※途中入場不可",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Duration: 60 minutes] Enjoy a special Irish music concert by the Expo Players, the official band of the Ireland Pavilion at Expo 2025 Osaka, Kansai.",
+      "ja": "【所要６０分】大阪・関西万博アイルランドパビリオンのスペシャルなバンド「Expo Players」によるアイリッシュミュージックのコンサートをお楽しみください。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-664929",
+    "portal_url": "https://www.expovisitors.expo2025.or.jp/pavilions/601dfe25-9a69-40e5-9b6f-8657320006f7",
+    "chairman": false,
+    "is_today": true,
+    "cost_time": 60,
+    "lat": 34.65010583790572,
+    "lng": 135.38638059049848,
+    "short_name": "愛爾蘭音樂會60min"
+  },
+  "C066": {
+    "id": 30238,
+    "event_code": "C066",
+    "event_name": {
+      "en": "Ireland: Exhibition Free Exploration/No Live Music",
+      "ja": "アイルランド:展示自由観覧/生演奏なし",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Duration: 20 minutes] Explore three unique areas of the Pavilion and feel as if you are in Ireland. First, immerse your senses in Ireland’s landscapes, sounds, and scents. Next, discover outstanding Irish craftsmanship, design, and innovation. Finally, enjoy an immersive experience of music and visuals.",
+      "ja": "【所要20分】パビリオンでは3つのエリアを巡り、まるでアイルランドにいるかのような感覚を味わうことができます。最初はアイルランドの風景や音、香りを再現し五感でアイルランドを体験できます。次の空間では伝統工芸と現代デザインの両面から、アイルランドを代表する優れたデザインとイノベーションをご覧いただけます。そして最後のエリアでは、音楽と映像の没入型の体験が待っています。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-664929",
+    "portal_url": "https://www.expovisitors.expo2025.or.jp/pavilions/601dfe25-9a69-40e5-9b6f-8657320006f7",
+    "chairman": false,
+    "is_today": true,
+    "cost_time": 20,
+    "lat": 34.65027656497076,
+    "lng": 135.3863172233105,
+    "short_name": "愛爾蘭純展覽"
+  },
+  "M1UY": {
+    "id": 7353,
+    "event_code": "M1UY",
+    "event_name": {
+      "en": "XROBOCON-Summon! XTREME Sumo-　 Rear left Seats",
+      "ja": "XROBOCON-召喚！XTREME相撲-　スタンド後方左側席（下手側）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": " Traditional sumo, a cornerstone of cultural heritage of Japan, evolves with cutting-edge technology, delivering a dynamic battle between robots and avatars that captivates the audience.Furthermore, a real-time cheering system allows spectators' voices to directly impact the match,immersing the entire venue in an electrifying wave of excitement.Witness firsthand the boundless potential of young creators and engineers as they boldly take on new challenges! *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "伝統文化である相撲が未来の技術によって進化し、ロボットとアバターが繰り広げるダイナミックなバトルが観客を圧倒します。ロボティクス×AI×ゲームで作り上げる全く新しいエンターテインメント。果敢に挑戦する若きクリエイタ―、エンジニアの未来の可能性を、ぜひその目で体感してください！　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.xrobocon.tech/",
+    "chairman": false,
     "is_today": true
+  },
+  "M1V1": {
+    "id": 7352,
+    "event_code": "M1V1",
+    "event_name": {
+      "en": "XROBOCON-Summon! XTREME Sumo-　 Rear center Seats",
+      "ja": "XROBOCON-召喚！XTREME相撲-　スタンド後方中央席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": " Traditional sumo, a cornerstone of cultural heritage of Japan, evolves with cutting-edge technology, delivering a dynamic battle between robots and avatars that captivates the audience.Furthermore, a real-time cheering system allows spectators' voices to directly impact the match,immersing the entire venue in an electrifying wave of excitement.Witness firsthand the boundless potential of young creators and engineers as they boldly take on new challenges! *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "伝統文化である相撲が未来の技術によって進化し、ロボットとアバターが繰り広げるダイナミックなバトルが観客を圧倒します。ロボティクス×AI×ゲームで作り上げる全く新しいエンターテインメント。果敢に挑戦する若きクリエイタ―、エンジニアの未来の可能性を、ぜひその目で体感してください！　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.xrobocon.tech/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1V4": {
+    "id": 7351,
+    "event_code": "M1V4",
+    "event_name": {
+      "en": "XROBOCON-Summon! XTREME Sumo-　 Rear right Seats",
+      "ja": "XROBOCON-召喚！XTREME相撲-　スタンド後方右側席（上手側）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": " Traditional sumo, a cornerstone of cultural heritage of Japan, evolves with cutting-edge technology, delivering a dynamic battle between robots and avatars that captivates the audience.Furthermore, a real-time cheering system allows spectators' voices to directly impact the match,immersing the entire venue in an electrifying wave of excitement.Witness firsthand the boundless potential of young creators and engineers as they boldly take on new challenges! *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "伝統文化である相撲が未来の技術によって進化し、ロボットとアバターが繰り広げるダイナミックなバトルが観客を圧倒します。ロボティクス×AI×ゲームで作り上げる全く新しいエンターテインメント。果敢に挑戦する若きクリエイタ―、エンジニアの未来の可能性を、ぜひその目で体感してください！　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.xrobocon.tech/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1V7": {
+    "id": 7354,
+    "event_code": "M1V7",
+    "event_name": {
+      "en": "XROBOCON-Summon! XTREME Sumo-　 Wheelchair seat",
+      "ja": "XROBOCON-召喚！XTREME相撲-　車椅子席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Traditional sumo, a cornerstone of cultural heritage of Japan, evolves with cutting-edge technology, delivering a dynamic battle between robots and avatars that captivates the audience.Furthermore, a real-time cheering system allows spectators' voices to directly impact the match,immersing the entire venue in an electrifying wave of excitement.Witness firsthand the boundless potential of young creators and engineers as they boldly take on new challenges! *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "伝統文化である相撲が未来の技術によって進化し、ロボットとアバターが繰り広げるダイナミックなバトルが観客を圧倒します。ロボティクス×AI×ゲームで作り上げる全く新しいエンターテインメント。果敢に挑戦する若きクリエイタ―、エンジニアの未来の可能性を、ぜひその目で体感してください！　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.xrobocon.tech/",
+    "chairman": true,
+    "is_today": true
+  },
+  "S02L": {
+    "id": 10610,
+    "event_code": "S02L",
+    "event_name": {
+      "en": "[Junior SDGs Camp]Let's Learn about the Biodiversity in Noto",
+      "ja": "【ジュニアSDGsキャンプ】～CONNECTING YOU TO  能登～ 生物多様性（強く生き抜く生き物たち）について能登の小学生と学ぼう！",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: August 27th】【①13:00-14:00　②14:30-15:30　③16:00-17:00】【Target age group】Elementary school student 【Summary】In this program, the venue and Noto will be connected in real time for live interaction. Elementary school students will learn about Noto’s current situation after the earthquake and heavy rains and deepen their understanding of the importance of its natural environment and biodiversity. Local Noto pupils will also join on site and, together with the expo participants, explore what they can do to protect their region’s natural environment. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：8月27日】【①13:00-14:00　②14:30-15:30　③16:00-17:00】【対象学年】小学生向け【備考】メディアによる取材の可能性有【概要】このプログラムでは、能登の自然や生きものたちのくらしを、映像やお話を通して楽しく学びます。2024年の地震や豪雨災害で能登ではどんなことが起きたのか、自然との関わりと一緒に考えます。当日は、能登の小学生も参加し、自分たちが行っている生きものに関する活動を紹介してくれます。自分たちのまわりの自然についても、みんなで考えるきっかけにしていきましょう。楽しみながら学べる、ちょっと特別な時間です！　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.651883147350695,
+    "lng": 135.37559777498245,
+    "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": true
+  },
+  "U049": {
+    "id": 4737,
+    "event_code": "U049",
+    "event_name": {
+      "en": "WA Space<Girls and Young Women Science Career Seminar>",
+      "ja": "WAスペース 少女・若い女性科学キャリアセミナー",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: August 27th】【12:00-14:00 (OPEN11:30)】【Summary】Women’s Pavilion.Join us to inspire the next generation of female scientists worldwide by addressing gender disparities in STEM and sharing success stories. This seminar offers practical guidance and international networking opportunities. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：8月27日】【12:00-14:00 (OPEN11:30)】【概要】ウーマンズパビリオン。STEM分野における男女格差に取り組み、成功事例を共有することで、世界中の次世代の女性科学者を鼓舞しませんか？このセミナーでは、実践的なガイダンスと国際的なネットワーキングの機会を提供します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
+    "chairman": false,
+    "is_today": true
+  },
+  "U04C": {
+    "id": 4738,
+    "event_code": "U04C",
+    "event_name": {
+      "en": "WA Space<The Care Economy and its Impacts on Women Employability>",
+      "ja": "WAスペース ケアエコノミーとそれが女性の雇用に与える影響",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: August 27th】【17:00-19:00 (OPEN16:30)】【Summary】Women’s Pavilion.Discover how the care economy affects women's employment globally, with discussions on equitable practices and policies. Explore innovative solutions from around the world. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：8月27日】【17:00-19:00 (OPEN16:30)】【概要】ウーマンズパビリオン。ケア・エコノミーが世界的に女性の雇用にどのような影響を及ぼしているのか、公平な慣行や政策について議論します。世界の革新的な解決策を探ります。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.64881131544013,
+    "lng": 135.3883687564601,
+    "short_name": "WA Space",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1ZM": {
+    "id": 25691,
+    "event_code": "M1ZM",
+    "event_name": {
+      "en": "Chopin Gala　General seats",
+      "ja": "ショパン・ガラ　一般席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "General seats Concert of the Warsaw Philharmonic Orchestra with piano soloists performing compositions by Fryderyk Chopin: Aimi Kobayashi (Piano Concerto in F minor, Op. 21) and Krzysztof Jabłoński (Piano Concerto in E minor, Op. 11), conducted by Anna Sułkowska-Migoń.•Doors Open: 17:30•Concert Starts: 18:00•Concert Ends: 19:30•Note: The concert is not suitable for children under the age of 3.",
+      "ja": "一般席Warsaw Philharmonic Orchestraによるコンサートピアノ・ソリストがフレデリック・ショパンの作品を演奏：Aimi Kobayashi（小林愛実）– ピアノ協奏曲 ヘ短調 作品21Krzysztof Jablonski（クリシュトフ・ヤブウォンスキ）– ピアノ協奏曲 ホ短調 作品11指揮：Anna Sulkowska-Migon（アンナ・スウコフスカ＝ミゴン）•開場: 17:30•開演: 18:00•終演: 19:30注意事項: 3歳未満のお子さまのご入場はご遠慮ください。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "chairman": false,
+    "is_today": false
+  },
+  "M1ZP": {
+    "id": 25690,
+    "event_code": "M1ZP",
+    "event_name": {
+      "en": "Chopin Gala　Wheelchair Accessible Seats",
+      "ja": "ショパン・ガラ　車いす席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Wheelchair Accessible Seats Concert of the Warsaw Philharmonic Orchestra with piano soloists performing compositions by Fryderyk Chopin: Aimi Kobayashi (Piano Concerto in F minor, Op. 21) and Krzysztof Jabłoński (Piano Concerto in E minor, Op. 11), conducted by Anna Sułkowska-Migoń.•Doors Open: 17:30•Concert Starts: 18:00•Concert Ends: 19:30•Note: The concert is not suitable for children under the age of 3.",
+      "ja": "車いす席Warsaw Philharmonic Orchestraによるコンサートピアノ・ソリストがフレデリック・ショパンの作品を演奏：Aimi Kobayashi（小林愛実）– ピアノ協奏曲 ヘ短調 作品21Krzysztof Jablonski（クリシュトフ・ヤブウォンスキ）– ピアノ協奏曲 ホ短調 作品11指揮：Anna Sulkowska-Migon（アンナ・スウコフスカ＝ミゴン）•開場: 17:30•開演: 18:00•終演: 19:30注意事項: 3歳未満のお子さまのご入場はご遠慮ください。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "chairman": false,
+    "is_today": false
+  },
+  "S02X": {
+    "id": 10614,
+    "event_code": "S02X",
+    "event_name": {
+      "en": "[Junior SDGs Camp]Circular Solutions for Plastic Waste: Protect our Land, Water and Air ",
+      "ja": "【ジュニアSDGsキャンプ】～CONNECTING YOU TO フィリピン～ プラスチックごみを減らして、みんなで作ろう、循環する社会！",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: August 31th】【①12:00-13:00　②14:00-15:00　③16:00-17:00】【Target age group】Elementary, Middle, and high school students 【Summary】In this session, participants will be introduced to multiple “R” practices contribute to a sound material-cycle society, with a focus on the case study of RCE Cebu in the Philippines. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：8月31日】【①12:00-13:00　②14:00-15:00　③16:00-17:00】【備考】メディアによる取材の可能性有【対象学年】小中高生向け【概要】このセッションでは、フィリピンのRCEセブが小学校や行政、企業など地域のさまざまな人たちと協力して進めている、廃プラスチック活用の実例を紹介します。循環型社会に向けた多様な「R」の実践を学びながら、プラスチック汚染の課題を知り、体験型アクティビティを通じて、自分たちの生活や地域でできる行動を考えます。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.651883147350695,
+    "lng": 135.37559777498245,
+    "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": false
+  },
+  "U04O": {
+    "id": 4742,
+    "event_code": "U04O",
+    "event_name": {
+      "en": "WA Space<Opening up the future with strength and individuality-KWU>",
+      "ja": "WAスペース らしさをつよさに未来をひらく　京女ジェンダーワークショップ",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: August 31th】【11:30-14:30 (OPEN11:00)】【Summary】Women’s Pavilion.Kyoto Women's University students who are interested in gender equality will present their research results. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：8月31日】【11:30-14:30 (OPEN11:00)】【概要】ウーマンズパビリオン。京都女子大学でジェンダー平等に関心を持つ学生たちが、新学期からの研修成果を披露する。また、ディスカッションを通じて理解を深め、気付きや新たな問題意識を培っていく。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
+    "chairman": false,
+    "is_today": false
+  },
+  "M1U7": {
+    "id": 7445,
+    "event_code": "M1U7",
+    "event_name": {
+      "en": "The Orchestra of null² – supported by Rohm Music Foundation/Arena Seats",
+      "ja": "null²する音楽会　supported by ローム ミュージック ファンデーション/アリーナ",
+      "zh-tw": "null² 交響音樂會 – supported by Rohm Music Foundation /內場座位",
+      "fr": "Orchestre de null² – supported by Rohm Music Foundation/Places en arène",
+      "ko": "null² 의 제곱 오케스트라 – supported by Rohm Music Foundation/아레나 좌석",
+      "zh-cn": "null² 交响音乐会 – supported by Rohm Music Foundation /内场座位"
+    },
+    "event_summary": {
+      "en": "【Reception 14:30 / Start 15:00 /  Ends around 17:00】【Wheelchair seats must be reserved. No preschool children allowed】Directed by Yoichi OCHIAI, conducted by Junichi HIROKAMI (Friend of JPO). Featuring Masaki UMANO (Noh), Manzo NOMURA and others (Kyogen), and the Japan Philharmonic Orchestra.　Program includes works by Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA (new commission “Water Mirror”), and Ottorino RESPIGHI.　With live performance and visual effects. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【受付14時30分/開演15時/終演17時頃】【車いすでの参加の際は車いす席の予約が必要・未就学児入場不可】【出演：落合陽一、指揮：広上淳一（フレンド・オブ・JPO）、能楽シテ方：馬野正基、狂言方：野村万蔵 野村万之丞 野村拳之介 野村眞之介、囃子方：笛/赤井要佑 小鼓/上田敦史 大鼓/山本寿弥 太鼓/上田慎也　地謡：山中雅志 上野朝彦 笠田祐樹 藤井丈雄　MC：江原陽子　管弦楽：日本フィルハーモニー交響楽団】【概要：予定曲目_團伊玖磨：祝典行進曲 武満徹：ホゼ・トレス-訓練と休息の音楽 林光：国盗り物語 菅野祐悟：軍師官兵衛 坂本龍一：ラストエンペラー 藤倉大：委嘱新作「Water Mirror」 レスピーギ：ローマの松 他 ※映像演出付】",
+      "zh-tw": "【14:30入場 / 15:00開演 / 約17:00結束】【輪椅席需預約，恕不接待學齡前兒童】導演：Yoichi OCHIAI，指揮：Junichi HIROKAMI（JPO之友）。　出演：Masaki UMANO（能）、Manzo NOMURA 等（狂言）、日本愛樂交響樂團。演出曲目包括：Ikuma DAN、Toru TAKEMITSU、Hikaru HAYASHI、Yugo KANNO、Ryuichi SAKAMOTO、Dai FUJIKURA（新作《Water Mirror》）、Ottorino RESPIGHI 等。 *3歲以下兒童如想使用座位，也必須預約。",
+      "fr": "【Accueil 14h30 / Début 15h00 / Fin vers 17h00】【Réservation requise pour fauteuil roulant. Enfants en bas âge non admis】Mise en scène : Yoichi OCHIAI, direction : Junichi HIROKAMI (Ami du JPO). Avec Masaki UMANO (Nô), Manzô NOMURA et d'autres (Kyôgen), et l’Orchestre Philharmonique du Japon.　Œuvres de Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA (« Water Mirror »), et Ottorino RESPIGHI.　Spectacle avec musique live et effets visuels. *Les enfants de moins de 3 ans doivent également réserver s'ils veulent utiliser un siège.",
+      "ko": "【14:30 접수 / 15:00 시작 / 17:00쯤 종료】【휠체어 좌석 예약 필수. 미취학 아동 입장 불가】연출: Yoichi OCHIAI, 지휘: Junichi HIROKAMI (JPO 프렌드). 출연: Masaki UMANO (노), Manzo NOMURA 외 (쿄겐), 일본 필하모닉 오케스트라.　출연 예정 곡: Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA(신작 “Water Mirror”), Ottorino RESPIGHI 등.　실황 연주와 영상 연출이 함께합니다. *3세 이하 어린이도 좌석을 이용하려면 예약이 필요합니다.",
+      "zh-cn": "【14:30入场 / 15:00开演 / 约17:00结束】【轮椅席需预约，谢绝学龄前儿童】导演：Yoichi OCHIAI，指挥：Junichi HIROKAMI（JPO 之友）。出演：Masaki UMANO（能）、Manzo NOMURA 等（狂言）、日本爱乐交响乐团。　演出曲目包括：Ikuma DAN、Toru TAKEMITSU、Hikaru HAYASHI、Yugo KANNO、Ryuichi SAKAMOTO、Dai FUJIKURA（新作《Water Mirror》）、Ottorino RESPIGHI 等。　本场演出包含现场演奏与影像演出。 *3岁以下儿童如需使用座位，也需要预订。"
+    },
+    "virtual_url": "",
+    "portal_url": "https://japanphil.or.jp/concert/20250830",
+    "chairman": false,
+    "is_today": false
+  },
+  "M1UA": {
+    "id": 7345,
+    "event_code": "M1UA",
+    "event_name": {
+      "en": "The Orchestra of null² – supported by Rohm Music Foundation/Front Stand Seats",
+      "ja": "null²する音楽会　supported by ローム ミュージック ファンデーション/スタンド前",
+      "zh-tw": "null² 交響音樂會 – supported by Rohm Music Foundation /看台前排座位",
+      "fr": "Orchestre de null² – supported by Rohm Music Foundation/Places en gradins avant",
+      "ko": "null² 의 제곱 오케스트라 – supported by Rohm Music Foundation/스탠드 앞쪽 좌석",
+      "zh-cn": "null² 交响音乐会 – supported by Rohm Music Foundation /看台前排座位"
+    },
+    "event_summary": {
+      "en": "【Reception 14:30 / Start 15:00 /  Ends around 17:00】【Wheelchair seats must be reserved. No preschool children allowed】Directed by Yoichi OCHIAI, conducted by Junichi HIROKAMI (Friend of JPO). Featuring Masaki UMANO (Noh), Manzo NOMURA and others (Kyogen), and the Japan Philharmonic Orchestra.　Program includes works by Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA (new commission “Water Mirror”), and Ottorino RESPIGHI.　With live performance and visual effects. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【受付14時30分/開演15時/終演17時頃】【車いすでの参加の際は車いす席の予約が必要・未就学児入場不可】【出演：落合陽一、指揮：広上淳一（フレンド・オブ・JPO）、能楽シテ方：馬野正基、狂言方：野村万蔵 野村万之丞 野村拳之介 野村眞之介、囃子方：笛/赤井要佑 小鼓/上田敦史 大鼓/山本寿弥 太鼓/上田慎也　地謡：山中雅志 上野朝彦 笠田祐樹 藤井丈雄　MC：江原陽子　管弦楽：日本フィルハーモニー交響楽団】【概要：予定曲目_團伊玖磨：祝典行進曲 武満徹：ホゼ・トレス-訓練と休息の音楽 林光：国盗り物語 菅野祐悟：軍師官兵衛 坂本龍一：ラストエンペラー 藤倉大：委嘱新作「Water Mirror」 レスピーギ：ローマの松 他 ※映像演出付】",
+      "zh-tw": "【14:30入場 / 15:00開演 / 約17:00結束】【輪椅席需預約，恕不接待學齡前兒童】導演：Yoichi OCHIAI，指揮：Junichi HIROKAMI（JPO之友）。　出演：Masaki UMANO（能）、Manzo NOMURA 等（狂言）、日本愛樂交響樂團。演出曲目包括：Ikuma DAN、Toru TAKEMITSU、Hikaru HAYASHI、Yugo KANNO、Ryuichi SAKAMOTO、Dai FUJIKURA（新作《Water Mirror》）、Ottorino RESPIGHI 等。 *3歲以下兒童如想使用座位，也必須預約。",
+      "fr": "【Accueil 14h30 / Début 15h00 / Fin vers 17h00】【Réservation requise pour fauteuil roulant. Enfants en bas âge non admis】Mise en scène : Yoichi OCHIAI, direction : Junichi HIROKAMI (Ami du JPO). Avec Masaki UMANO (Nô), Manzô NOMURA et d'autres (Kyôgen), et l’Orchestre Philharmonique du Japon.　Œuvres de Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA (« Water Mirror »), et Ottorino RESPIGHI.　Spectacle avec musique live et effets visuels. *Les enfants de moins de 3 ans doivent également réserver s'ils veulent utiliser un siège.",
+      "ko": "【14:30 접수 / 15:00 시작 / 17:00쯤 종료】【휠체어 좌석 예약 필수. 미취학 아동 입장 불가】연출: Yoichi OCHIAI, 지휘: Junichi HIROKAMI (JPO 프렌드). 출연: Masaki UMANO (노), Manzo NOMURA 외 (쿄겐), 일본 필하모닉 오케스트라.　출연 예정 곡: Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA(신작 “Water Mirror”), Ottorino RESPIGHI 등.　실황 연주와 영상 연출이 함께합니다. *3세 이하 어린이도 좌석을 이용하려면 예약이 필요합니다.",
+      "zh-cn": "【14:30入场 / 15:00开演 / 约17:00结束】【轮椅席需预约，谢绝学龄前儿童】导演：Yoichi OCHIAI，指挥：Junichi HIROKAMI（JPO 之友）。出演：Masaki UMANO（能）、Manzo NOMURA 等（狂言）、日本爱乐交响乐团。　演出曲目包括：Ikuma DAN、Toru TAKEMITSU、Hikaru HAYASHI、Yugo KANNO、Ryuichi SAKAMOTO、Dai FUJIKURA（新作《Water Mirror》）、Ottorino RESPIGHI 等。　本场演出包含现场演奏与影像演出。 *3岁以下儿童如需使用座位，也需要预订。"
+    },
+    "virtual_url": "",
+    "portal_url": "https://japanphil.or.jp/concert/20250830",
+    "chairman": false,
+    "is_today": false
+  },
+  "M1UD": {
+    "id": 7446,
+    "event_code": "M1UD",
+    "event_name": {
+      "en": "The Orchestra of null² – supported by Rohm Music Foundation/Rear Stand Seats",
+      "ja": "null²する音楽会　supported by ローム ミュージック ファンデーション/スタンド後",
+      "zh-tw": "null² 交響音樂會 – supported by Rohm Music Foundation /看台後排座位",
+      "fr": "Orchestre de null² – supported by Rohm Music Foundation/Places en gradins arrière",
+      "ko": "null² 의 제곱 오케스트라 – supported by Rohm Music Foundation/스탠드 뒤쪽 좌석",
+      "zh-cn": "null² 交响音乐会 – supported by Rohm Music Foundation /看台后排座位"
+    },
+    "event_summary": {
+      "en": "【Reception 14:30 / Start 15:00 /  Ends around 17:00】【Wheelchair seats must be reserved. No preschool children allowed】Directed by Yoichi OCHIAI, conducted by Junichi HIROKAMI (Friend of JPO). Featuring Masaki UMANO (Noh), Manzo NOMURA and others (Kyogen), and the Japan Philharmonic Orchestra.　Program includes works by Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA (new commission “Water Mirror”), and Ottorino RESPIGHI.　With live performance and visual effects. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【受付14時30分/開演15時/終演17時頃】【車いすでの参加の際は車いす席の予約が必要・未就学児入場不可】【出演：落合陽一、指揮：広上淳一（フレンド・オブ・JPO）、能楽シテ方：馬野正基、狂言方：野村万蔵 野村万之丞 野村拳之介 野村眞之介、囃子方：笛/赤井要佑 小鼓/上田敦史 大鼓/山本寿弥 太鼓/上田慎也　地謡：山中雅志 上野朝彦 笠田祐樹 藤井丈雄　MC：江原陽子　管弦楽：日本フィルハーモニー交響楽団】【概要：予定曲目_團伊玖磨：祝典行進曲 武満徹：ホゼ・トレス-訓練と休息の音楽 林光：国盗り物語 菅野祐悟：軍師官兵衛 坂本龍一：ラストエンペラー 藤倉大：委嘱新作「Water Mirror」 レスピーギ：ローマの松 他 ※映像演出付】",
+      "zh-tw": "【14:30入場 / 15:00開演 / 約17:00結束】【輪椅席需預約，恕不接待學齡前兒童】導演：Yoichi OCHIAI，指揮：Junichi HIROKAMI（JPO之友）。　出演：Masaki UMANO（能）、Manzo NOMURA 等（狂言）、日本愛樂交響樂團。演出曲目包括：Ikuma DAN、Toru TAKEMITSU、Hikaru HAYASHI、Yugo KANNO、Ryuichi SAKAMOTO、Dai FUJIKURA（新作《Water Mirror》）、Ottorino RESPIGHI 等。 *3歲以下兒童如想使用座位，也必須預約。",
+      "fr": "【Accueil 14h30 / Début 15h00 / Fin vers 17h00】【Réservation requise pour fauteuil roulant. Enfants en bas âge non admis】Mise en scène : Yoichi OCHIAI, direction : Junichi HIROKAMI (Ami du JPO). Avec Masaki UMANO (Nô), Manzô NOMURA et d'autres (Kyôgen), et l’Orchestre Philharmonique du Japon.　Œuvres de Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA (« Water Mirror »), et Ottorino RESPIGHI.　Spectacle avec musique live et effets visuels. *Les enfants de moins de 3 ans doivent également réserver s'ils veulent utiliser un siège.",
+      "ko": "【14:30 접수 / 15:00 시작 / 17:00쯤 종료】【휠체어 좌석 예약 필수. 미취학 아동 입장 불가】연출: Yoichi OCHIAI, 지휘: Junichi HIROKAMI (JPO 프렌드). 출연: Masaki UMANO (노), Manzo NOMURA 외 (쿄겐), 일본 필하모닉 오케스트라.　출연 예정 곡: Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA(신작 “Water Mirror”), Ottorino RESPIGHI 등.　실황 연주와 영상 연출이 함께합니다. *3세 이하 어린이도 좌석을 이용하려면 예약이 필요합니다.",
+      "zh-cn": "【14:30入场 / 15:00开演 / 约17:00结束】【轮椅席需预约，谢绝学龄前儿童】导演：Yoichi OCHIAI，指挥：Junichi HIROKAMI（JPO 之友）。出演：Masaki UMANO（能）、Manzo NOMURA 等（狂言）、日本爱乐交响乐团。　演出曲目包括：Ikuma DAN、Toru TAKEMITSU、Hikaru HAYASHI、Yugo KANNO、Ryuichi SAKAMOTO、Dai FUJIKURA（新作《Water Mirror》）、Ottorino RESPIGHI 等。　本场演出包含现场演奏与影像演出。 *3岁以下儿童如需使用座位，也需要预订。"
+    },
+    "virtual_url": "",
+    "portal_url": "https://japanphil.or.jp/concert/20250830",
+    "chairman": false,
+    "is_today": false
+  },
+  "M1UG": {
+    "id": 7346,
+    "event_code": "M1UG",
+    "event_name": {
+      "en": "The Orchestra of null² – supported by Rohm Music Foundation/Wheelchair Accessible Area",
+      "ja": "null²する音楽会　supported by ローム ミュージック ファンデーション/車いす",
+      "zh-tw": "null² 交響音樂會 – supported by Rohm Music Foundation /無障礙座位／輪椅專區",
+      "fr": "Orchestre de null² – supported by Rohm Music Foundation/Espace fauteuil roulant",
+      "ko": "null² 의 제곱 오케스트라 – supported by Rohm Music Foundation/휠체어석（휠체어 전용 구역）",
+      "zh-cn": "null² 交响音乐会 – supported by Rohm Music Foundation /无障碍座位／轮椅专区"
+    },
+    "event_summary": {
+      "en": "【Reception 14:30 / Start 15:00 /  Ends around 17:00】【Wheelchair seats must be reserved. No preschool children allowed】Directed by Yoichi OCHIAI, conducted by Junichi HIROKAMI (Friend of JPO). Featuring Masaki UMANO (Noh), Manzo NOMURA and others (Kyogen), and the Japan Philharmonic Orchestra.　Program includes works by Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA (new commission “Water Mirror”), and Ottorino RESPIGHI.　With live performance and visual effects. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【受付14時30分/開演15時/終演17時頃】【車いすでの参加の際は車いす席の予約が必要・未就学児入場不可】【出演：落合陽一、指揮：広上淳一（フレンド・オブ・JPO）、能楽シテ方：馬野正基、狂言方：野村万蔵 野村万之丞 野村拳之介 野村眞之介、囃子方：笛/赤井要佑 小鼓/上田敦史 大鼓/山本寿弥 太鼓/上田慎也　地謡：山中雅志 上野朝彦 笠田祐樹 藤井丈雄　MC：江原陽子　管弦楽：日本フィルハーモニー交響楽団】【概要：予定曲目_團伊玖磨：祝典行進曲 武満徹：ホゼ・トレス-訓練と休息の音楽 林光：国盗り物語 菅野祐悟：軍師官兵衛 坂本龍一：ラストエンペラー 藤倉大：委嘱新作「Water Mirror」 レスピーギ：ローマの松 他 ※映像演出付】",
+      "zh-tw": "【14:30入場 / 15:00開演 / 約17:00結束】【輪椅席需預約，恕不接待學齡前兒童】導演：Yoichi OCHIAI，指揮：Junichi HIROKAMI（JPO之友）。　出演：Masaki UMANO（能）、Manzo NOMURA 等（狂言）、日本愛樂交響樂團。演出曲目包括：Ikuma DAN、Toru TAKEMITSU、Hikaru HAYASHI、Yugo KANNO、Ryuichi SAKAMOTO、Dai FUJIKURA（新作《Water Mirror》）、Ottorino RESPIGHI 等。 *3歲以下兒童如想使用座位，也必須預約。",
+      "fr": "【Accueil 14h30 / Début 15h00 / Fin vers 17h00】【Réservation requise pour fauteuil roulant. Enfants en bas âge non admis】Mise en scène : Yoichi OCHIAI, direction : Junichi HIROKAMI (Ami du JPO). Avec Masaki UMANO (Nô), Manzô NOMURA et d'autres (Kyôgen), et l’Orchestre Philharmonique du Japon.　Œuvres de Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA (« Water Mirror »), et Ottorino RESPIGHI.　Spectacle avec musique live et effets visuels. *Les enfants de moins de 3 ans doivent également réserver s'ils veulent utiliser un siège.",
+      "ko": "【14:30 접수 / 15:00 시작 / 17:00쯤 종료】【휠체어 좌석 예약 필수. 미취학 아동 입장 불가】연출: Yoichi OCHIAI, 지휘: Junichi HIROKAMI (JPO 프렌드). 출연: Masaki UMANO (노), Manzo NOMURA 외 (쿄겐), 일본 필하모닉 오케스트라.　출연 예정 곡: Ikuma DAN, Toru TAKEMITSU, Hikaru HAYASHI, Yugo KANNO, Ryuichi SAKAMOTO, Dai FUJIKURA(신작 “Water Mirror”), Ottorino RESPIGHI 등.　실황 연주와 영상 연출이 함께합니다. *3세 이하 어린이도 좌석을 이용하려면 예약이 필요합니다.",
+      "zh-cn": "【14:30入场 / 15:00开演 / 约17:00结束】【轮椅席需预约，谢绝学龄前儿童】导演：Yoichi OCHIAI，指挥：Junichi HIROKAMI（JPO 之友）。出演：Masaki UMANO（能）、Manzo NOMURA 等（狂言）、日本爱乐交响乐团。　演出曲目包括：Ikuma DAN、Toru TAKEMITSU、Hikaru HAYASHI、Yugo KANNO、Ryuichi SAKAMOTO、Dai FUJIKURA（新作《Water Mirror》）、Ottorino RESPIGHI 等。　本场演出包含现场演奏与影像演出。 *3岁以下儿童如需使用座位，也需要预订。"
+    },
+    "virtual_url": "",
+    "portal_url": "https://japanphil.or.jp/concert/20250830",
+    "chairman": false,
+    "is_today": false
+  },
+  "S02U": {
+    "id": 10613,
+    "event_code": "S02U",
+    "event_name": {
+      "en": "[Junior SDGs Camp]Guardians of Our Own: Protecting Indigenous Lifeways and Biodiversity ",
+      "ja": "【ジュニアSDGsキャンプ】～CONNECTING YOU TO マレーシア～ 未来へつなごう、自然と文化ー先住民族の暮らしと生物多様性",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: August 30th】【①12:00-13:00　②14:00-15:00　③16:00-17:00】【Target age group】High school students 【Summary】This session will showcase a “day in the life” of Indigenous youth in Gombak, navigating both traditional and modern settings within a biodiverse environment. It also aims to promote recognition of Indigenous knowledge and lifeways which help address the global issue of biodiversity conservation.  *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：8月30日】【①12:00-13:00　②14:00-15:00　③16:00-17:00】【備考】メディアによる取材の可能性有【対象学年】中高生向け【概要】このセッションでは、伝統と現代社会を行き来するマレーシアの先住民族の「ある一日」を通して、彼らのリアルな暮らしや、自然と共に生きる知恵を学びます。また、マレーシアのRCEゴンバック広域が実施する、先住民族の文化を活かした生物多様性保全のプロジェクトの紹介やゲームを通じて、人と自然が調和した社会を作るために、私たち一人一人ができるアクションを考えます。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.651883147350695,
+    "lng": 135.37559777498245,
+    "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": false
   }
 }

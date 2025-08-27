@@ -96,6 +96,9 @@ var support_events = {
             case "CMN_ERR_VALIDATE_0163":
                 fail_msg = '好像還沒進場？';
                 break;
+            case "CMN_ERR_VALIDATE_0151":
+                fail_msg = '三日前預約還沒開始';
+                break;
             case "schedule_out_of_stock":
                 fail_msg = '該時段已額滿';
                 break;

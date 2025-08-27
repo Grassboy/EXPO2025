@@ -206,7 +206,7 @@ location.href = 'https://ticket.expo2025.or.jp/zh-tw/event_search/?id=MREBB6J6X2
         replaceLink('SW_GP_DL_001_0106', '今日公告', {
         }, 'https://www.expo2025.or.jp/news/daily/');
         var trigger_map = async function(li){
-            if(window.matchMedia('(display-mode: fullscreen)').matches || window.navigator.standalone === true) {
+            if(window.matchMedia("(orientation: portrait)").matches || window.matchMedia('(display-mode: fullscreen)').matches || window.navigator.standalone === true) {
                 document.querySelector('html').requestFullscreen();
             }
             var div = (await $('#expo2025_map'));
