@@ -134,7 +134,7 @@ var support_events = {
 
 //dynamic load style
 var style = document.createElement('link');
-style.href = 'style2.css?v=3';
+style.href = 'style2.css?v=4';
 style.rel = 'stylesheet';
 document.head.appendChild(style);
 toParent({
@@ -284,7 +284,7 @@ document.body.addEventListener('click', function(e){
     }
 });
 // 自動控制項
-var autoControl = AddPopupControl('fa-solid fa-robot', 'auto', false);
+//var autoControl = AddPopupControl('fa-solid fa-robot', 'auto', false);
 var auto_response_div = document.createElement('div');  
 auto_response_div.id = 'auto_response';
 auto_response_div.innerHTML = '<ul></ul>';
@@ -313,7 +313,7 @@ var autoItemClick = function(e){
     }
 };
 auto_response_div.querySelector('ul').addEventListener('click', autoItemClick);
-autoControl._container.appendChild(auto_response_div);
+//autoControl._container.appendChild(auto_response_div);
 var auto_div = document.createElement('div');
 auto_div.id = 'popup_auto';
 auto_div.classList.add('popup');
@@ -322,6 +322,7 @@ auto_div.innerHTML = `
         <h3>
             <span class="helper-title-text">當日預約機器人(不穩定)</span><br>
             <span class="helper-description">資料來源：<a href="https://expo.ebii.net/" target="_blank">https://expo.ebii.net/</a></span>
+            <span class="helper-warning">自動化預約有可能會被官方<a href="https://www.expo2025.or.jp.t.att.hp.transer.com/news/news-20250828-02" target="_blank">封鎖</a>，請自行斟酌使用</span>
             <span class="close-popup"><i class="fa-solid fa-xmark"></i></span>
         </h3>
         <div class="popup-content">

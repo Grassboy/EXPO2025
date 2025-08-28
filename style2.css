@@ -12,6 +12,11 @@
     vertical-align: middle;
     animation: spin 1s linear infinite;
 }
+.helper-warning {
+    color: #f00;
+    font-size: 0.8em;
+    font-weight: normal;
+}
 .helper-description {
     font-size: 0.8em;
     font-weight: normal;
