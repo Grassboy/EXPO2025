@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-08-27 12:50:12",
+  "_parse_time": "2025-08-29 17:03:47",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -1944,7 +1944,7 @@
     "lng": 135.38671301751634,
     "short_name": "關西館(含食物)",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "H7H6": {
@@ -1972,7 +1972,7 @@
     "lng": 135.38687612582007,
     "short_name": "關西館(含食物)♿",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "M151": {
@@ -2100,7 +2100,7 @@
     "lng": 135.37426203489306,
     "short_name": "萬博桑拿-女",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "Q013": {
     "id": 1233,
@@ -2127,7 +2127,7 @@
     "lng": 135.37451877520377,
     "short_name": "萬博桑拿-混",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "T11R": {
     "id": 3242,
@@ -2254,7 +2254,7 @@
     "lng": 135.3743800520897,
     "short_name": "萬博桑拿-男",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "SI06": {
     "id": 1264,
@@ -2281,7 +2281,7 @@
     "lng": 135.38230597972873,
     "short_name": "瓦斯館甲烷示範",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 40
   },
   "SI09": {
@@ -2309,7 +2309,7 @@
     "lng": 135.3822602556547,
     "short_name": "瓦斯館甲烷示範♿",
     "chairman": true,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 40
   },
   "T11O": {
@@ -3942,7 +3942,7 @@
     "lng": 135.3870025277138,
     "short_name": "大阪健康+重生(無avata)",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 40
   },
   "IC09": {
@@ -3970,7 +3970,7 @@
     "lng": 135.38323463810872,
     "short_name": "null² installation",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 10
   },
   "IO09": {
@@ -4621,7 +4621,7 @@
     "lat": 34.65297317546765,
     "lng": 135.3747530063144,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "S040": {
     "id": 10626,
@@ -5097,7 +5097,7 @@
     "lat": 34.649623421123955,
     "lng": 135.38462390360277,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "S023": {
     "id": 6854,
@@ -6336,12 +6336,12 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-664929",
     "portal_url": "https://www.fepc.or.jp/sp/expo2025/",
-    "chairman": false,
-    "is_today": true,
-    "cost_time": 45,
     "lat": 34.64947588233273,
     "lng": 135.38743972778323,
-    "short_name": "電力館(兒童)"
+    "short_name": "電力館(兒童)",
+    "chairman": false,
+    "is_today": false,
+    "cost_time": 45
   },
   "M1L1": {
     "id": 4896,
@@ -7038,12 +7038,12 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-664929",
     "portal_url": "https://www.expovisitors.expo2025.or.jp/pavilions/601dfe25-9a69-40e5-9b6f-8657320006f7",
-    "chairman": false,
-    "is_today": true,
-    "cost_time": 30,
     "lat": 34.65006556943525,
     "lng": 135.38623541593552,
-    "short_name": "愛爾蘭導覽+音樂30min"
+    "short_name": "愛爾蘭導覽+音樂30min",
+    "chairman": false,
+    "is_today": false,
+    "cost_time": 30
   },
   "C063": {
     "id": 30237,
@@ -7066,12 +7066,12 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-664929",
     "portal_url": "https://www.expovisitors.expo2025.or.jp/pavilions/601dfe25-9a69-40e5-9b6f-8657320006f7",
-    "chairman": false,
-    "is_today": true,
-    "cost_time": 60,
     "lat": 34.65010583790572,
     "lng": 135.38638059049848,
-    "short_name": "愛爾蘭音樂會60min"
+    "short_name": "愛爾蘭音樂會60min",
+    "chairman": false,
+    "is_today": false,
+    "cost_time": 60
   },
   "C066": {
     "id": 30238,
@@ -7094,12 +7094,12 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-664929",
     "portal_url": "https://www.expovisitors.expo2025.or.jp/pavilions/601dfe25-9a69-40e5-9b6f-8657320006f7",
-    "chairman": false,
-    "is_today": true,
-    "cost_time": 20,
     "lat": 34.65027656497076,
     "lng": 135.3863172233105,
-    "short_name": "愛爾蘭純展覽"
+    "short_name": "愛爾蘭純展覽",
+    "chairman": false,
+    "is_today": false,
+    "cost_time": 20
   },
   "M1UY": {
     "id": 7353,
@@ -7123,7 +7123,7 @@
     "virtual_url": "",
     "portal_url": "https://www.xrobocon.tech/",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1V1": {
     "id": 7352,
@@ -7147,7 +7147,7 @@
     "virtual_url": "",
     "portal_url": "https://www.xrobocon.tech/",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1V4": {
     "id": 7351,
@@ -7171,7 +7171,7 @@
     "virtual_url": "",
     "portal_url": "https://www.xrobocon.tech/",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1V7": {
     "id": 7354,
@@ -7195,7 +7195,7 @@
     "virtual_url": "",
     "portal_url": "https://www.xrobocon.tech/",
     "chairman": true,
-    "is_today": true
+    "is_today": false
   },
   "S02L": {
     "id": 10610,
@@ -7222,7 +7222,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U049": {
     "id": 4737,
@@ -7249,7 +7249,7 @@
     "lng": 135.38833651412097,
     "short_name": "WA Space",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U04C": {
     "id": 4738,
@@ -7276,7 +7276,7 @@
     "lng": 135.3883687564601,
     "short_name": "WA Space",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1ZM": {
     "id": 25691,
@@ -7402,7 +7402,7 @@
     "virtual_url": "",
     "portal_url": "https://japanphil.or.jp/concert/20250830",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "M1UA": {
     "id": 7345,
@@ -7426,7 +7426,7 @@
     "virtual_url": "",
     "portal_url": "https://japanphil.or.jp/concert/20250830",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "M1UD": {
     "id": 7446,
@@ -7450,7 +7450,7 @@
     "virtual_url": "",
     "portal_url": "https://japanphil.or.jp/concert/20250830",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "M1UG": {
     "id": 7346,
@@ -7474,7 +7474,7 @@
     "virtual_url": "",
     "portal_url": "https://japanphil.or.jp/concert/20250830",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "S02U": {
     "id": 10613,
@@ -7501,6 +7501,6 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   }
 }
