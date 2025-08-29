@@ -175,6 +175,11 @@ html, body {
     font-size: 14px;
     color: #666;
     margin-left: 10px;
+    cursor: pointer;
+    &:active,
+    &:hover {
+        color: #000;
+    }
 }
 
 .popup .cost-time {
