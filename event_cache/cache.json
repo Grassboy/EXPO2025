@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-08-29 17:03:47",
+  "_parse_time": "2025-08-30 09:19:27",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -1944,7 +1944,7 @@
     "lng": 135.38671301751634,
     "short_name": "關西館(含食物)",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 45
   },
   "H7H6": {
@@ -1972,7 +1972,7 @@
     "lng": 135.38687612582007,
     "short_name": "關西館(含食物)♿",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 45
   },
   "M151": {
@@ -3942,7 +3942,7 @@
     "lng": 135.3870025277138,
     "short_name": "大阪健康+重生(無avata)",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 40
   },
   "IC09": {
@@ -3970,7 +3970,7 @@
     "lng": 135.38323463810872,
     "short_name": "null² installation",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 10
   },
   "IO09": {
@@ -5097,7 +5097,7 @@
     "lat": 34.649623421123955,
     "lng": 135.38462390360277,
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "S023": {
     "id": 6854,
@@ -6340,7 +6340,7 @@
     "lng": 135.38743972778323,
     "short_name": "電力館(兒童)",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 45
   },
   "M1L1": {
@@ -7042,7 +7042,7 @@
     "lng": 135.38623541593552,
     "short_name": "愛爾蘭導覽+音樂30min",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 30
   },
   "C063": {
@@ -7070,7 +7070,7 @@
     "lng": 135.38638059049848,
     "short_name": "愛爾蘭音樂會60min",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 60
   },
   "C066": {
@@ -7098,7 +7098,7 @@
     "lng": 135.3863172233105,
     "short_name": "愛爾蘭純展覽",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 20
   },
   "M1UY": {
@@ -7402,7 +7402,7 @@
     "virtual_url": "",
     "portal_url": "https://japanphil.or.jp/concert/20250830",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1UA": {
     "id": 7345,
@@ -7450,7 +7450,7 @@
     "virtual_url": "",
     "portal_url": "https://japanphil.or.jp/concert/20250830",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1UG": {
     "id": 7346,
@@ -7500,6 +7500,78 @@
     "lat": 34.651883147350695,
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": true
+  },
+  "D636": {
+    "id": 31839,
+    "event_code": "D636",
+    "event_name": {
+      "en": "POLAND PAVILION: Frederic Chopin Week – Special Concert “No children allowed” “No late arrivals”",
+      "ja": "ポーランドパビリオン：フリデリク・ショパン・ウィーク － 特別コンサート 「6歳以上」「途中入室不可」",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Organized during Frederic Chopin Week at the Poland Pavilion.This admission is valid for the Chopin Concert only (does not include entry to the exhibition).for adults and children over 6years old.No late entry.",
+      "ja": "ポーランド館のフレデリック・ショパン週間に開催されます。この入場券はショパン・コンサート専用であり、展示エリアへの入場は含まれません。6歳以上が対象となります。途中入室不可。遅刻不可です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499794",
+    "portal_url": "https://expo.gov.pl/?lang=en",
+    "chairman": false,
+    "is_today": true
+  },
+  "D639": {
+    "id": 31840,
+    "event_code": "D639",
+    "event_name": {
+      "en": "POLAND PAVILION: Frederic Chopin Week – Movie screening “No children allowed”  “No late arrivals”",
+      "ja": "ポーランドパビリオン：フリデリク・ショパン・ウィーク － 映画上映　「6歳以上」「途中入室不可」",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Screening of the film Pianoforte followed by a short meeting with the filmmakers and cast.for adults and children over 6years old.No late entry.This admission is valid for the screening only (does not include entry to the exhibition).for adults and children over 6years old.No late entry.",
+      "ja": "映画『ピアノフォルテ』の上映と、上映後には監督や出演者との短い交流会を行います。この入場券は上映専用であり、展示エリアへの入場は含まれません。6歳以上が対象となります。途中入室不可。遅刻不可です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499794",
+    "portal_url": "https://expo.gov.pl/?lang=en",
+    "chairman": false,
+    "is_today": true
+  },
+  "D63F": {
+    "id": 31841,
+    "event_code": "D63F",
+    "event_name": {
+      "en": "POLAND PAVILION: Exhibition of the original manuscripts of Fryderyk Chopin ",
+      "ja": "ポーランドパビリオン：フリデリク・ショパン博物館（ワルシャワ）蔵ショパンの直筆原本の展示",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Organized during Frederic Chopin Week at the Poland Pavilion: Exhibition of the original manuscripts of Fryderyk Chopin from the collections of the Chopin Museum in Warsaw.This admission is valid for this special exhibition only and does not include entry to the permanent exhibition of the Poland Pavilion.",
+      "ja": "ポーランド館 フリデリク・ショパン週間特別企画フリデリク・ショパン博物館（ワルシャワ）蔵ショパンの直筆原本の展示※本チケットはこの特別展示のみに有効であり、ポーランド館の常設展示への入場は含まれておりません。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499794",
+    "portal_url": "https://expo.gov.pl/ja",
     "chairman": false,
     "is_today": true
   }
