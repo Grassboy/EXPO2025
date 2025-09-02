@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TimeSlotViewer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10, user-scalable=yes">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <style>
+        body { margin: 0; }
+        #canvas-container {
+            width: 100%;
+            margin-top: 60px;
+            overflow: auto;
+            -webkit-overflow-scrolling: touch;
+            position: relative;
+        }
+        canvas { display: block; max-width: 1650px;}
+        /*device width 超過 1650px 時 canvas max-width 為 100%*/
+        @media (min-width: 1650px) {
+            canvas { max-width: 3300px; }
+        }
+        #info {
+            position: fixed;
+            color: #fff;
+            background: rgba(0,0,0,0.7);
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 18px;
+            z-index: 10;
+            pointer-events: none;
+            &:before {
+                content: attr(data-date);
+                display: block;
+            }
+        }
+        #axis-controls {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            background: rgba(255,255,255,0.9);
+            padding: 10px 20px;
+            border-radius: 8px;
+            z-index: 20;
+            font-size: 16px;
+        }
+        #axis-controls label {
+            margin-right: 8px;
+        }
+        #axis-controls input {
+            width: 60px;
+            margin-right: 12px;
+        }
+        #play-pause-btn {
+            margin-left: 12px;
+            padding: 5px 10px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        #play-pause-btn:hover {
+            background: #0056b3;
+        }
+        #play-pause-btn.paused {
+            background: #dc3545;
+        }
+        #play-pause-btn.paused:hover {
+            background: #c82333;
+        }
+        #prev-btn, #next-btn {
+            margin-left: 8px;
+            padding: 5px 10px;
+            background: #6c757d;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        #prev-btn:hover, #next-btn:hover {
+            background: #545b62;
+        }
+    </style>
+</head>
+<body>
+    <div id="axis-controls">
+        <select id="event_code">
+            <!-- <option value="HAH0">EVENT 名稱</option> -->
+        </select>
+        <button id="prev-btn">Prev</button>
+        <button id="play-pause-btn">Pause</button>
+        <button id="next-btn">Next</button>
+    </div>
+    <div id="canvas-container">
+        <canvas id="canvas"></canvas>
+    </div>
+    <div id="info" style="display:none;"></div>
+    <br />
+    <br />
+    <br />
+    <script>
+
+        var diffMin0900 = function(hhmm){
+            var hh = hhmm.substring(0,2)*1;
+            var mm = hhmm.substring(2,4)*1;
+            var diff = (hh*60 + mm) - 9*60;
+            return diff;
+        };
+        function drawCubes(data) {
+            var c_size = 50;
+        }
+        var animation_id = null;
+        var now_event_code = null;
+        var is_playing = true; // 控制動畫播放狀態
+        var day_index = 0; // 當前日期索引，提升到全域變數
+        function drawGrids(data) {
+            if(animation_id) {
+                cancelAnimationFrame(animation_id);
+            }
+            var x_max = 60*11*10; // 11小時 每小時 10 單位
+            var y_max = data.slots_key.length*50; // slots 次數 每次 50 單位
+            var z_max = data.date_key.length*50; // 日期數量，每次 50 單位
+            var c_size = 50;
+            var canvas = document.getElementById('canvas');
+            canvas.width = x_max;
+            canvas.height = y_max;
+            canvas.data = data;
+            var ctx = canvas.getContext('2d');
+            // 確保 slots_key 從小到大排序
+            data.slots_key.sort(
+                (a, b) => a.localeCompare(b)
+            );
+            var tick = (new Date()).getTime(), period = 500;
+            now_event_code = data.event_code;
+            animation_id = requestAnimationFrame(async function frameTick(){
+                //document.title = (new Date()).getTime();
+                var now = (new Date()).getTime();
+                if(now - tick > period && is_playing) {
+                    tick = now;
+                    day_index = (day_index + 1) % data.date_key.length;
+                }
+                ctx.clearRect(0, 0, x_max, y_max);
+                ctx.fillStyle = '#cccccc';
+                ctx.fillRect(0, 0, x_max, y_max);
+
+                ctx.fillStyle = '#dddddd';
+                for(let i=600; i < x_max;i += 1200) {
+                    ctx.fillRect(i, 0, 600, y_max);
+                }
+
+                ctx.fillStyle = '#fff';
+                // 繪製格線
+                for (let i = 0; i <= x_max; i += c_size/5) {
+                    ctx.fillRect(i, 0, 1, y_max);
+                }
+                for (let i = 0; i <= y_max; i += c_size) {
+                    ctx.fillRect(0, i, x_max, 1);
+                }
+                var draw = function(date, opacity){
+                    ctx.save();
+                    ctx.globalAlpha = opacity;
+                    for (var item of data.data) {
+                        if(item.date != date) {
+                            continue;
+                        }
+                        if(item.time < '0900' || item.time > '2000') {
+                            continue;
+                        }
+                        for(var slot of data.slots_key) {
+                            if(slot < item.time && moment(item.date).diff(moment().format('YYYYMMDD')) <= 0) {
+                                continue;
+                            } else {
+                                if(item.slots[slot] == 1) {
+                                    // 畫格子
+                                    ctx.fillStyle = '#009900';
+                                    ctx.fillRect(
+                                        diffMin0900(item.time)*c_size/5+1,
+                                        (data.slots_key.indexOf(slot))*c_size+1,
+                                        c_size/5-2,
+                                        c_size-2
+                                    );
+                                } else {
+                                    // 畫空格子
+                                    ctx.fillStyle = '#444';
+                                    ctx.fillRect(
+                                        diffMin0900(item.time)*c_size/5+1,
+                                        (data.slots_key.indexOf(slot))*c_size+1,
+                                        c_size/5-2,
+                                        c_size-2
+                                    );
+                                }
+                            }
+                        }
+                    }
+                    ctx.restore();
+                };
+                var now_date = data.date_key[day_index];
+                var info = document.getElementById('info');
+                info.setAttribute('data-date', now_date);
+                var next_date = data.date_key[(day_index+1)%data.date_key.length];
+                if(is_playing) {
+                    draw(now_date, 1 - (now-tick)/period);
+                    draw(next_date, (now-tick)/period);
+                } else {
+                    draw(now_date, 1);
+                }
+                if(now_event_code == data.event_code) {
+                    await new Promise((r)=>setTimeout(r,20));
+                    requestAnimationFrame(frameTick);
+                }
+            });
+        }
+        // sample_data
+        const sample_data = {
+            event_code: "C0R0",
+            event_name: "UAE Pavilion",
+            date_key: ["2025-06-25","2025-06-26","2025-06-27"],
+            slots_key: ["0900","0920","0940"],
+            slots_info: {
+                "0900":{"start_time":"0900","end_time":"0920"},
+                "0920":{"start_time":"0920","end_time":"0940"},
+                "0940":{"start_time":"0940","end_time":"1000"}
+            },
+            data: [
+                {
+                    date: "2025-06-25",
+                    time: "0901",
+                    slots: {"0900":1,"0920":1,"0940":0}
+                },
+                {
+                    date: "2025-06-25",
+                    time: "0902",
+                    slots: {"0900":0,"0920":1,"0940":0}
+                },
+                {
+                    date: "2025-06-25",
+                    time: "0903",
+                    slots: {"0900":0,"0920":0,"0940":1}
+                },
+            ]
+        };
+        //drawGrids(sample_data);
+
+        (async function(){
+            var selectChange = async function(){
+                localStorage.setItem('prev_select', this.value);
+                const rsp = await fetch('./available_data/'+this.value+'.json?t='+new Date().getTime());
+                const data = await rsp.json();
+                day_index = data.date_key.length - 1;
+                drawGrids(data);
+            };
+            document.getElementById('event_code').onchange = selectChange;
+            const rsp = await fetch('./available_data/_index.json');
+            const data = await rsp.json();
+            for(var event_code in data) {
+                var event_name = data[event_code];
+                const option = document.createElement('option');
+                option.value = event_code;
+                option.textContent = '(' + event_code + ') ' + event_name;
+                document.getElementById('event_code').appendChild(option);
+            }
+            if(localStorage.getItem('prev_select')) {
+                document.getElementById('event_code').value = localStorage.getItem('prev_select');
+            }
+            selectChange.call(document.getElementById('event_code'));
+            function displayInfo(e){
+                //計算點擊位置對應到的 slots_key 和 time
+                var rect = canvas.getBoundingClientRect();
+                var data = canvas.data;
+                var x = e.clientX;
+                var y = e.clientY - rect.top;
+                var clientWidth = canvas.clientWidth;
+                var clientHeight = canvas.clientHeight;
+                var container = document.getElementById('canvas-container');
+                var container_scrollLeft = container.scrollLeft;
+                var container_scrollTop = container.scrollTop;
+                //console.log(clientWidth, clientHeight, container_scrollLeft, container_scrollTop);
+                x = (x + container_scrollLeft) / clientWidth * canvas.width;
+                y = (y + container_scrollTop) / clientHeight * canvas.height;
+                //console.log(x, y);
+                var c_size = 50;
+                var slots_key = Math.floor( y / c_size);
+                var time = Math.floor( x / (c_size/5));
+                //console.log(time);
+                var display_text = data.slots_info[data.slots_key[slots_key]].text + ' ' + moment('2025-06-25 09:00:00').add(time, 'minutes').format('HH:mm');
+                // 顯示在 info 區域
+                var info = document.getElementById('info');
+                info.innerHTML = display_text;
+                info.style.display = 'block';
+                info.style.left = (e.clientX + 10) + 'px';
+                info.style.top = (e.clientY + 10) + 'px';
+                if(parseInt(info.style.left) > container.clientWidth - 200) {
+                    info.style.left = container.clientWidth - 200 + 'px';
+                }
+            }
+            canvas.addEventListener('click', displayInfo);
+            canvas.addEventListener('mousemove', displayInfo);
+            
+            // 添加play/pause按鈕事件監聽器
+            document.getElementById('play-pause-btn').addEventListener('click', function() {
+                is_playing = !is_playing;
+                var btn = document.getElementById('play-pause-btn');
+                if (is_playing) {
+                    btn.textContent = 'Pause';
+                    btn.classList.remove('paused');
+                } else {
+                    btn.textContent = 'Play';
+                    btn.classList.add('paused');
+                }
+            });
+            
+            // 添加prev按鈕事件監聽器
+            document.getElementById('prev-btn').addEventListener('click', function() {
+                var data = canvas.data;
+                if (!data || !data.date_key || data.date_key.length === 0) return;
+                
+                // 切換到上一個日期
+                day_index = (day_index - 1 + data.date_key.length) % data.date_key.length;
+                tick = (new Date()).getTime(); // 更新tick時間
+            });
+            
+            // 添加next按鈕事件監聽器
+            document.getElementById('next-btn').addEventListener('click', function() {
+                var data = canvas.data;
+                if (!data || !data.date_key || data.date_key.length === 0) return;
+                
+                // 切換到下一個日期
+                day_index = (day_index + 1) % data.date_key.length;
+                tick = (new Date()).getTime(); // 更新tick時間
+            });
+            
+            // 添加滑鼠滾輪事件監聽器
+            canvas.addEventListener('wheel', function(e) {
+                var data = canvas.data;
+                if (!data || !data.date_key || data.date_key.length === 0) return;
+                
+                // 只有在按住Shift鍵時才處理日期切換
+                if (e.shiftKey) {
+                    e.preventDefault(); // 防止頁面滾動
+                    
+                    // 根據滾輪方向切換日期
+                    if (e.deltaY > 0) {
+                        // 向下滾動，切換到下一個日期
+                        day_index = (day_index + 1) % data.date_key.length;
+                    } else {
+                        // 向上滾動，切換到上一個日期
+                        day_index = (day_index - 1 + data.date_key.length) % data.date_key.length;
+                    }
+                    
+                    // 更新tick時間，確保動畫立即更新
+                    tick = (new Date()).getTime();
+                }
+                // 如果沒有按住Shift鍵，則保持正常的頁面滾動行為
+            });
+        })();
+    </script>
+</body>
+</html>
