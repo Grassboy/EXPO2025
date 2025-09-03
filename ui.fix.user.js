@@ -9,7 +9,7 @@
 (function() {
     var fileref = document.createElement('script');
     fileref.onerror = async function(){
-        await new Promise((r)=>setTimeout(r,2000))
+        await new Promise((r)=>setTimeout(r,2000));
         var div = document.createElement('div');
         div.innerHTML = '<h3 style="background: red; color: white; text-align: center; padding: 0.5em;">EXPO2025 地圖套件載入失敗，請確認已確實繞過 CSP 限制</h3>';
         document.querySelector('header').appendChild(div);

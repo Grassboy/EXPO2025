@@ -306,6 +306,22 @@ location.href = 'https://ticket.expo2025.or.jp/zh-tw/event_search/?id=MREBB6J6X2
             });
 
         })();
+    } else {
+        (async function(){
+            var rsp = await fetch('/api/d/my/tickets/');
+            var json = await rsp.json();
+            if(json.list && json.list.length > 0) {
+                localStorage.ticket_id = json.list[0].ticket_id;
+                alert('預設 ticket_id 設定成'+localStorage.ticket_id);
+                rsp = await fetch('https://ticket.expo2025.or.jp/api/d/my/tickets/'+localStorage.ticket_id+'/?refresh_bid_state=1');
+                json = await rsp.json();
+                date = json.schedules[0].entrance_date;
+                localStorage.date = date;
+                alert('根據這張票，已重新設定造訪日期為 '+date);
+                location.reload();
+            }
+        })();
+
     }
     var MAX_QUEUE_IN_LINE = 3;
     var QUEUE = {};

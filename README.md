@@ -16,7 +16,7 @@
 1. 無法自由自在切上/下一頁
 1. 無法掌握自身附近的場館有哪些
 1. 搜尋介面無法跨語言、必需大小寫相符才搜得到
-1. 不同語言的場館資訊有差異(ex: 在日文版下的場館資訊有 193 筆，中文版只有 181 筆)
+1. 不同語言的場館資訊有差異(ex: 在日文版下的場館資訊有 193 筆，中文版只有 181 筆) (後來應該有修正了)
 1. 進行當日預約的流程繁瑣
 1. 網站一段時間後就會被登出
 
@@ -37,12 +37,14 @@
 
 ## 使用方式
 
-1. 直接前往 [https://grassboy.github.io/EXPO2025/index.html](https://grassboy.github.io/EXPO2025/index.html) 便可進行地圖瀏覽
-1. 前往 expo2025.user.js 安裝 Expo2025 UI Fix 的網站腳本
+1. 先安裝好 Tempermonkey 以啟用瀏覽器的 UserScript 支援
+1. 前往 [https://grassboy.github.io/EXPO2025/ui.fix.user.js](https://grassboy.github.io/EXPO2025/ui.fix.user.js) 安裝 Expo2025 UI Fix 的網站腳本
 1. 直接訪問 [https://ticket.expo2025.or.jp/](https://ticket.expo2025.or.jp/)
 1. 理論上前兩點看起來很簡單，實際上需要克服的技術痛點還有如下：
     1. 瀏覽網站的瀏覽器必需支援安裝 UserScript
         - Desktop Chrome / Firefox Mobile: Tempermonkey 套件
+        - Desktop Chrome 要額外再開啟「允許使用者指令碼」功能，如圖：
+            ![Allow UserScript](https://i.imgur.com/XARiSKf.png)
     1. 萬博官網有設定 Content-Security-Policy 要有辦法繞過去
         - Firefox Mobile: CSP for Me 套件
             - Applied URLs ```https://ticket.expo2025.or.jp/*```
@@ -62,7 +64,7 @@
 ## 協力清單
  - SVG 圖示 [https://www.svgrepo.com/](https://www.svgrepo.com/)
  - 場館評價協力 [Sophy Lin.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2iOPhoVcIdiR4fha8-YV0zbFeKJHwXBD97_FqSuSUdWrLm82dUnsmtvZpxY4qQpe0UYTXMCbhFMaK/pubhtml?fbclid=IwY2xjawJ2nuJleHRuA2FlbQIxMABicmlkETFESUlkSWt0dWFZNzUzUUFLAR6AegBApEHvz8N76TT7bg-AdbbMuXpi9S0MTgardWOyHlDxJiFa_XJf20tVYg_aem_EHqJW0lUFvytpd1KdWWAQA)
- - 當日預約機器人(不穩定)資料來源 [https://expo.ebii.net/](https://expo.ebii.net/)
+ - 當日預約機器人(已移除)資料來源 [https://expo.ebii.net/](https://expo.ebii.net/)
 
 ## 貢獻指南
 
