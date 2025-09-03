@@ -30,9 +30,9 @@
 
 ## 使用示意圖
 - 安裝完畢後，會看到選單功能被替換成(小弟認為的)常用功能
-   ![破關畫面](https://i.imgur.com/t0eo0kL.png)
+   ![破關畫面](https://i.imgur.com/21hTAal.png)
 - 點選[園區地圖] 可以看到地圖介面
-   ![地圖](https://i.imgur.com/08QXCiy.png)
+   ![地圖](https://i.imgur.com/CVMo9r7.png)
 - 點選地圖上的紅/綠點可直接進行預約
    ![預約點](https://i.imgur.com/9glWkHE.png)
 - 可設定造訪日期與目前要參與抽選的票券 ID (可以用來進行三日前抽選)
