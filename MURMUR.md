@@ -4,7 +4,8 @@
 - 查詢當日可預約清單的 api 參數可以自己改，網站預設 ```limit=10``` 然後分好幾頁，但其實打一個 ```limit=1000``` 一次就能把當天開放抽選的活動資訊全部抓下來(但可想而知很操 Server & 前台等待回應時間很久，然後 07/16 之後發現 Server 端有時會噴 Timeout Error)，以下是 F12 sample code (需在有登入的狀況下到 F12 執行)
 
 ```javascript
-var a = await fetch("https://ticket.expo2025.or.jp/api/d/events?ticket_ids%5B%5D=8NB4EWUWKY&event_name=&entrance_date=20250429&count=1&limit=1000&event_type=0&next_token=&channel=5", {
+var ticket_id = "TICKETID"; // 這裡要換成屬於你自己的 ticket id
+var a = await fetch("https://ticket.expo2025.or.jp/api/d/events?ticket_ids%5B%5D="+ticket_id+"&event_name=&entrance_date=20250429&count=1&limit=1000&event_type=0&next_token=&channel=5", {
     "credentials": "include",
     "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0",
@@ -18,7 +19,7 @@ var a = await fetch("https://ticket.expo2025.or.jp/api/d/events?ticket_ids%5B%5D
         "Pragma": "no-cache",
         "Cache-Control": "no-cache"
     },
-    "referrer": "https://ticket.expo2025.or.jp/event_search/?id=8NB4EWUWKY&keyword=%E3%81%AE&screen_id=108&entrance_date=20250422&lottery=5&event_type=0&reserve_id=",
+    "referrer": "https://ticket.expo2025.or.jp/event_search/?id="+ticket_id+"&keyword=%E3%81%AE&screen_id=108&entrance_date=20250422&lottery=5&event_type=0&reserve_id=",
     "method": "GET",
     "mode": "cors"
 });
@@ -37,10 +38,12 @@ var a = await fetch("https://ticket.expo2025.or.jp/api/d/events?ticket_ids%5B%5D
        ![API list](https://i.imgur.com/zmpuck3.png)   
        如果使用簡化的預約流程，上面這些動作都可跳過，其實可以減少官網不必要的 API 呼叫，降低對官網的負擔   
        當然，這個前題是建立在手動操作上面，如果你用自動化的方法每秒打個十幾次API呼叫，那就是在搞官網啦…   
-       官網是有權利將這個行為進行封號的處理，[(官網有公告過)](www.expo2025.or.jp.t.att.hp.transer.com/news/news-20250828-02/) 愛租以喔！   
+       官網是有權利將這個行為進行封號的處理，[(官網有公告過)](https://www.expo2025.or.jp.t.att.hp.transer.com/news/news-20250828-02/) 愛租以喔！   
 
 - 排隊方面，已知可以到特定頁面略過排隊，例如抽選結果頁，事後想想，在現有架構之下，的確不能讓官網所有頁面都被導去排隊，否則在入口驗使用者 QRCode 時，要先等到排完隊才能開 QRCode，這是多可怕的景象XDD
 
 - 再來就是滿宅的 bug 回報，原來對於通票使用者，即便你某一天沒有進場的打算，你也是可以參加當天的三日前預約，   
   然後你可把自己票券的 QRCode 分享給當天會到現場的人，到你預約到的場館，刷你的 QRCode 是可以正常進入場館的。   
   但要搜集到這麼多張通票 QRCode 的可能性很低啦~畢竟我也是為了測試自己的外掛才徵求到別人的QRCode，解鎖這個 bug XDD
+
+- 然後不負責任體感回報，日文版的 API 感覺釋票的時間有比中文版的 API 快個幾秒…所以若對日文不是太害怕，建議切到日文版網站操作喲~

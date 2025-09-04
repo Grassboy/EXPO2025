@@ -90,6 +90,14 @@
 
 歡迎到 [https://github.com/Grassboy/EXPO2025/issues/new](https://github.com/Grassboy/EXPO2025/issues/new) 提交 issue
 
+## 道德勸說 & 免責聲明
+
+- 本地圖所使用到的場館資訊，資料來源皆為官網收集而來，若地圖上的資訊與官網有所出入，請以官網資訊為主
+- 此地圖為非官方地圖，若有問題請勿拿著此地圖打擾官方人員XD
+
+- 若對此地圖有任何建議，您可以[發 GitHub Issue](https://github.com/Grassboy/EXPO2025/issues/new)， 或至 Facebook 進行交流
+- 本地圖提供的預約功能請節制使用，若過量使用，可能會被官方封鎖 [(官網有公告過)](www.expo2025.or.jp.t.att.hp.transer.com/news/news-20250828-02/)，小弟對此不負任何責任喲~
+
 ## 授權
 
 本專案採用 GPL 授權條款。 
