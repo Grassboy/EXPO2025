@@ -44,7 +44,7 @@
 - 搜尋文字改搜 ... 可以查找當下還可預約的場館
    ![搜尋...](https://i.imgur.com/TCn5AfZ.png)
 - 因為外掛可以讓上一頁/下一頁功能正常化，所以也可以把官網任何一個頁面以捷徑的方式釘選到手機桌面
-   ![主畫面](https://i.imgur.com/ibr21AK.png)
+   ![主畫面](https://i.imgur.com/xpcsiNE.png)
    > 謎之音：官網要排隊排很久嗎？直接點連結，有機會跳過排隊畫面喲(不知道官網什麼時候會修掉這個 bug XD)
 
 > 更多技術細節和閒聊請參閱 [MURMUR.md](./MURMUR.md)
@@ -96,7 +96,7 @@
 - 此地圖為非官方地圖，若有問題請勿拿著此地圖打擾官方人員XD
 
 - 若對此地圖有任何建議，您可以[發 GitHub Issue](https://github.com/Grassboy/EXPO2025/issues/new)， 或至 Facebook 進行交流
-- 本地圖提供的預約功能請節制使用，若過量使用，可能會被官方封鎖 [(官網有公告過)](www.expo2025.or.jp.t.att.hp.transer.com/news/news-20250828-02/)，小弟對此不負任何責任喲~
+- 本地圖提供的預約功能請節制使用，若過量使用，可能會被官方封鎖 [(官網有公告過)](https://www.expo2025.or.jp.t.att.hp.transer.com/news/news-20250828-02/)，小弟對此不負任何責任喲~
 
 ## 授權
 
