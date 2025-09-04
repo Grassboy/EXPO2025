@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-08-30 09:19:27",
+  "_parse_time": "2025-09-04 11:46:31",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -3998,7 +3998,7 @@
     "lng": 135.38308382034305,
     "short_name": "Sign of life 記錄片",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 15
   },
   "IO0C": {
@@ -4026,7 +4026,7 @@
     "lng": 135.38305833935738,
     "short_name": "Sign of life記錄片♿",
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 15
   },
   "M1SS": {
@@ -4648,7 +4648,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U106": {
     "id": 10650,
@@ -5874,16 +5874,16 @@
     "id": 20663,
     "event_code": "HGH3",
     "event_name": {
-      "en": " (For children) Panasonic Pavilion 'The land of NOMO' + Workshop",
-      "ja": "【お子様向け】パナソニック館 「ノモの国」　体験＋ワークショップ ※詳しくはイベントページ参照",
+      "en": "【Children 15 and under only】Panasonic Pavilion \"The Land of NOMO\"",
+      "ja": "【15歳以下のお子様限定！】パナソニック館「ノモの国」　同伴者も本枠での予約必須",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
     "event_summary": {
-      "en": "Duration: Approx. 90 minutesNote: Reservation time on the site is your check-in time.This is a separate program from The Land of NOMO. It includes a workshop and a pavilion experience.Target: Elementary & junior high students (preschoolers welcome).Child-only or one adult per child reservations allowed.Adults alone cannot participate.",
-      "ja": "【所要時間：90分】【サイトに記載の予約時間が「受付時間」です】【「ノモの国」枠とは別プログラムです。展示体験＋ノモの国に関するワークショップを実施します】【概要】お子様向けの”ワークショップ”を実施。日替わりのプログラムに参加いただいたあと、展示体験に移動します。【対象：小学生・中学生】未就学児の参加も可能です。●お子様のみのご予約、またはお子様1名につき、大人1名の予約が可能です。●大人の方のみでのご参加はご遠慮ください。",
+      "en": "【Duration 60min.】【Reception Time: 5 min. before your reservation】This is a special slot for children aged 15 and under with one guardian. Each child may be accompanied by one guardian under the ‘For Chilfren Only’slot. If more companions wish to join, please make an additional reservation. Our pavilion is an interactive space that uses light, video, vibration, and sound. Some exhibits use facial emotion recognition technology. Please review the Important Notice on our website. For individuals with disabilities, it may be difficult to experience the exhibits alone.",
+      "ja": "【所要時間：60分】【受付時間:予約時間の5分前まで】\r\n2025年4月1日時点で15歳以下のお子様と、その保護者1名が一緒に入館できる特別な枠です。\r\nお子様1名につき、同伴者1名まで「お子様枠」で予約が可能です。それ以上の人数の同伴者が一緒に入館する場合は、別途ご予約をお願いします。当館は、演出に光・映像・振動・音等を用いた体験型パビリオンです。表情読み取り技術を用いる演出がございます。お申込み前にURL（公式サイト）内の「注意事項」をご確認ください。障がいのある方は、おひとりでは体験いただくことが難しい場合もございます。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -5896,7 +5896,7 @@
     "short_name": "松下館(兒童)",
     "chairman": false,
     "is_today": true,
-    "cost_time": 90
+    "cost_time": 60
   },
   "M1J7": {
     "id": 4874,
@@ -6340,7 +6340,7 @@
     "lng": 135.38743972778323,
     "short_name": "電力館(兒童)",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "M1L1": {
@@ -7021,15 +7021,15 @@
     "id": 30236,
     "event_code": "C060",
     "event_name": {
-      "en": "Ireland: Guided Tour with Live Music/30min/Arrive 10min Early/No Late Entry",
-      "ja": "アイルランド:生演奏含むツアー30分※開始時間の10分前集合/途中入場不可",
+      "en": "Ireland: Guided Tour with Live Music/30min/Arrive 10min Early/No Late Entry/All ages require booking",
+      "ja": "アイルランド:生演奏含むツアー30分※開始時間の10分前集合/途中入場不可/年齢に関わらず全員予約が必要",
       "zh-tw": null,
-      "fr": null,
+      "fr": "Ireland: Guided Tour with Live Music/30min/Arrive 10min Early/No Late Entry",
       "ko": null,
       "zh-cn": null
     },
     "event_summary": {
-      "en": "[Duration: 30 minutes] Join our Pavilion Officers on a tour through three themed areas. First, immerse yourself in the sights, sounds, and scents of Ireland. Next, discover Irish design and innovation, from traditional crafts to modern creativity. Finally, enjoy an immersive co-creation experience combining music, visuals, and audience participation.",
+      "en": "[Duration: 30 minutes] Join our Pavilion Officers on a tour through three themed areas. First, immerse yourself in the sights, sounds, and scents of Ireland. Next, discover Irish design and innovation, from traditional crafts to modern creativity. Finally, enjoy an immersive co-creation experience combining music, visuals, and audience participation.*Reservations are required for children under 3 years old if they wish to use the seats.",
       "ja": "【所要３０分】アイルランドパビリオンの展示をパビリオンオフィサーがツアー形式でガイドします。パビリオンでは3つのエリアを巡り、まるでアイルランドにいるかのような感覚を味わうことができます。最初はアイルランドの風景や音、香りを再現し五感でアイルランドを体験できます。次の空間では伝統工芸と現代デザインの両面から、アイルランドを代表する優れたデザインとイノベーションをご覧いただけます。最後のエリアでは、音楽、映像、動き、そして観客自身が一体となって創り上げる、没入型の共創体験が待っています。",
       "zh-tw": null,
       "fr": null,
@@ -7049,15 +7049,15 @@
     "id": 30237,
     "event_code": "C063",
     "event_name": {
-      "en": "Ireland: Expo Players Concert/60min/Arrive at Assigned Time/No Late Entry",
-      "ja": "アイルランド:バンドライブ60分※予約時間が集合時間※途中入場不可",
+      "en": "Ireland: Expo Players Concert/60min/Arrive at Assigned Time/No Late Entry/All ages require booking",
+      "ja": "アイルランド:バンドライブ60分※予約時間が集合時間※途中入場不可/年齢に関わらず全員予約が必要",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
     "event_summary": {
-      "en": "[Duration: 60 minutes] Enjoy a special Irish music concert by the Expo Players, the official band of the Ireland Pavilion at Expo 2025 Osaka, Kansai.",
+      "en": "[Duration: 60 minutes] Enjoy a special Irish music concert by the Expo Players, the official band of the Ireland Pavilion at Expo 2025 Osaka, Kansai.*Reservations are required for children under 3 years old if they wish to use the seats.",
       "ja": "【所要６０分】大阪・関西万博アイルランドパビリオンのスペシャルなバンド「Expo Players」によるアイリッシュミュージックのコンサートをお楽しみください。",
       "zh-tw": null,
       "fr": null,
@@ -7098,7 +7098,7 @@
     "lng": 135.3863172233105,
     "short_name": "愛爾蘭純展覽",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 20
   },
   "M1UY": {
@@ -7426,7 +7426,7 @@
     "virtual_url": "",
     "portal_url": "https://japanphil.or.jp/concert/20250830",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1UD": {
     "id": 7446,
@@ -7474,7 +7474,7 @@
     "virtual_url": "",
     "portal_url": "https://japanphil.or.jp/concert/20250830",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "S02U": {
     "id": 10613,
@@ -7501,7 +7501,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "D636": {
     "id": 31839,
@@ -7525,7 +7525,7 @@
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499794",
     "portal_url": "https://expo.gov.pl/?lang=en",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "D639": {
     "id": 31840,
@@ -7549,7 +7549,7 @@
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499794",
     "portal_url": "https://expo.gov.pl/?lang=en",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "D63F": {
     "id": 31841,
@@ -7572,6 +7572,230 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499794",
     "portal_url": "https://expo.gov.pl/ja",
+    "chairman": false,
+    "is_today": false
+  },
+  "D63I": {
+    "id": 43936,
+    "event_code": "D63I",
+    "event_name": {
+      "en": "POLAND PAVILION: Stars of “Jazz From Poland in Japan 2025” - Special Jazz Concerts 'Not late arrivals'",
+      "ja": "ポーランドパビリオン：「Jazz From Poland in Japan 2025」スターたちによるスペシャル・ジャズ・コンサート「途中入室不可」",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Organized during Polish Culture Week at the Poland Pavilion: Stars of “Jazz From Poland in Japan 2025” - Special Jazz ConcertsThis admission is valid for this special concert only and does not include entry to the permanent exhibition of the Poland Pavilion.",
+      "ja": "ポーランドパビリオンの「ポーランド文化週間」に開催：\r\n「Jazz From Poland in Japan 2025」のスターたちによるスペシャル・ジャズ・コンサート\r\n本入場券は本特別コンサートのみに有効であり、ポーランドパビリオン常設展示への入場は含まれておりません。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499794",
+    "portal_url": "https://expo.gov.pl/ja",
+    "chairman": false,
+    "is_today": true
+  },
+  "IO0F": {
+    "id": 29725,
+    "event_code": "IO0F",
+    "event_name": {
+      "en": "Signature Pavilion KAWASE Naomi 'Dialogue Theater - sign of life -'　Documentary Footage",
+      "ja": "シグネチャーパビリオン　河瀨直美「Dialogue Theater - いのちのあかし -」ドキュメンタリー映像",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Duration:45min.]To create Dialogue Theater - sign of life, the production team visited Totsukawa Village in Nara Prefecture and Fukuchiyama City in Kyoto Prefecture on many occasions. There, they took over the old school buildings and interacted with the local community. KAWASE Naomi directed films that were produced to record the history of the school buildings before relocation, as well as the memories of the former students who spent their days there amid rich natural surroundings. *Reservations are required for children under 3 years old.",
+      "ja": "【所要時間：約４５分】※所要時間は実際の上映時間となり集合時間は含みません。\r\n「Dialogue Theater - いのちのあかし - 」の構築にあたり、プロデュースチームは廃校を譲っていただいた奈良県十津川村・京都府福知山市を何度も訪問し、地元の方との交流を重ねました。そこで目にした、移築前の校舎に残る歴史や、豊かな自然のなかで日々を過ごした卒業生たちの記憶を記録するために、河瀨直美プロデューサーによる監督のもと、映像を制作しました。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://expo2025-inochinoakashi.com/",
+    "chairman": false,
+    "is_today": true,
+    "cost_time": 45
+  },
+  "IO0I": {
+    "id": 29726,
+    "event_code": "IO0I",
+    "event_name": {
+      "en": "Signature Pavilion KAWASE Naomi 'Dialogue Theater - sign of life -' Documentary Wheelchair use",
+      "ja": "シグネチャーパビリオン　河瀨直美「Dialogue Theater - いのちのあかし -」ドキュメンタリー映像車いす席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Duration:45min.][Application requirements:Wheelchair users and one accompanying person only]*The required time does not include the assembly time. To create Dialogue Theater, the production team visited Totsukawa Village in Nara Pref. and Fukuchiyama City in Kyoto Pref. on many occasions. There, they took over the old school buildings and interacted with the local community. KAWASE Naomi directed films that were produced to record the history of the school buildings before relocation, as well as the memories of the former students who spent their days there amid rich natural surroundings. *Reservations are required for children under 3 years old.",
+      "ja": "【所要時間：約４５分】【入館条件：車いすの方と同伴者1名限定】※所要時間は上映時間となり集合時間は含みません。\r\n「Dialogue Theater - いのちのあかし - 」の構築にあたり、プロデュースチームは廃校を譲っていただいた奈良県十津川村・京都府福知山市を何度も訪問し、地元の方との交流を重ねました。そこで目にした、移築前の校舎に残る歴史や、豊かな自然のなかで日々を過ごした卒業生たちの記憶を記録するために、河瀨直美プロデューサーによる監督のもと、映像を制作しました。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://expo2025-inochinoakashi.com/",
+    "chairman": true,
+    "is_today": true,
+    "cost_time": 45
+  },
+  "M1YM": {
+    "id": 25695,
+    "event_code": "M1YM",
+    "event_name": {
+      "en": "null²-an Tea Ceremony from the New World/Arena Seats",
+      "ja": "null²庵 新世界茶会/アリーナ",
+      "zh-tw": "null²庵 新世界茶會 /內場座位",
+      "fr": "Cérémonie du thé de null²-an : depuis le Nouveau Monde/Places en arène",
+      "ko": "null²안 신세계 다회 /아레나 좌석",
+      "zh-cn": "null²庵 新世界茶会 /内场座位"
+    },
+    "event_summary": {
+      "en": "[Reception14:30/Start15:00/End~18:00][Wheelchair users require seat reservation / No preschool children allowed][Performers (a–z, titles omitted): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra]A sensory tea ceremony where Yoichi OCHIAI’s \"Digital Nature\" meets Chado. Featuring traditional temae, From the New World, generative CG, layered sound, lighting, utensils. With MirroredBody, the Grand Master’s movements and tea talk blend tradition and tech—offering a fluid, null² experience of East and West, body and data.",
+      "ja": "【受付14時30分/開演15時/終演18時頃】【車いすの参加は車いす席の予約が必要/未就学児入場不可】【出演：井上八千代、岩﨑宙平(指揮)、裏千家今日庵、落合陽一、細辻伊兵衛、ピルゼン・フィルハーモニー管弦楽団(五十音順/敬称略)】【落合陽一が提唱する「計算機自然（デジタルネイチャー）」を茶の湯の精神に重ね合わせ、伝統的な点前と管弦楽団による『新世界より』、生成CG、多層音響、照明、茶道具が一体となる総合芸術的茶会。ミラードボディとして再構成された大宗匠の点前や茶話会、null（ﾇﾙ）的な感覚世界への没入から、伝統とテクノロジー、東洋と西洋、身体と情報がnull²（ﾇﾙﾇﾙ）と融解する体験をお楽しみ頂けます。】",
+      "zh-tw": "[接待14:30/开场15:00/结束~18:00][轮椅用户需预约座位 / 不接受学龄前儿童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的“数字自然”与茶道结合的感官茶会。传统点前、新世界、生成式CG、层叠音效、灯光、茶具。通过MirroredBody，大宗匠的动作与茶谈融合传统与科技，呈现null²中东西、身体与数据的流动体验。",
+      "fr": "[Accueil14:30/Début15:00/Fin~18:00][Places réservées requises pour fauteuils roulants / Pas d’enfants d’âge préscolaire][Artistes (a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Une cérémonie du thé sensorielle mêlant le \"Digital Nature\" de Yoichi OCHIAI au Chado. Thème traditionnel, \"From the New World\", CG génératif, son, lumière, ustensiles. Avec MirroredBody, le mouvement du Grand Maître fusionne tradition et technologie pour une expérience null² fluide entre Orient et Occident, corps et données.",
+      "ko": "[접수14:30/시작15:00/종료~18:00][휠체어석 예약 필수 / 미취학 아동 입장 불가][출연자(a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Yoichi OCHIAI의 \"디지털 자연\"과 다도가 만나는 감각적 다도 행사. 전통 다도, 신세계, 생성 CG, 레이어드 사운드, 조명, 다기. MirroredBody와 함께 대선생의 동작과 다담이 전통과 기술을 융합해 동서양, 신체와 데이터가 흐르는 null² 체험 제공.",
+      "zh-cn": "[接待14:30/开场15:00/结束~18:00][轮椅用户需预约座位 / 不接受学龄前儿童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的“数字自然”与茶道结合的感官茶会。传统点前、新世界、生成式CG、层叠音效、灯光、茶具。通过MirroredBody，大宗匠的动作与茶谈融合传统与科技，呈现null²中东西、身体与数据的流动体验。"
+    },
+    "virtual_url": "",
+    "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1YP": {
+    "id": 25693,
+    "event_code": "M1YP",
+    "event_name": {
+      "en": "null²-an Tea Ceremony from the New World/Front Stand Seats",
+      "ja": "null²庵 新世界茶会/スタンド前",
+      "zh-tw": "null²庵 新世界茶會 /看台前排座位",
+      "fr": "Cérémonie du thé de null²-an : depuis le Nouveau Monde/Places en gradins avant",
+      "ko": "null²안 신세계 다회 /스탠드 앞쪽 좌석",
+      "zh-cn": "null²庵 新世界茶会 /看台前排座位"
+    },
+    "event_summary": {
+      "en": "[Reception14:30/Start15:00/End~18:00][Wheelchair users require seat reservation / No preschool children allowed][Performers (a–z, titles omitted): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra]A sensory tea ceremony where Yoichi OCHIAI’s \"Digital Nature\" meets Chado. Featuring traditional temae, From the New World, generative CG, layered sound, lighting, utensils. With MirroredBody, the Grand Master’s movements and tea talk blend tradition and tech—offering a fluid, null² experience of East and West, body and data.",
+      "ja": "【受付14時30分/開演15時/終演18時頃】【車いすの参加は車いす席の予約が必要/未就学児入場不可】【出演：井上八千代、岩﨑宙平(指揮)、裏千家今日庵、落合陽一、細辻伊兵衛、ピルゼン・フィルハーモニー管弦楽団(五十音順/敬称略)】【落合陽一が提唱する「計算機自然（デジタルネイチャー）」を茶の湯の精神に重ね合わせ、伝統的な点前と管弦楽団による『新世界より』、生成CG、多層音響、照明、茶道具が一体となる総合芸術的茶会。ミラードボディとして再構成された大宗匠の点前や茶話会、null（ﾇﾙ）的な感覚世界への没入から、伝統とテクノロジー、東洋と西洋、身体と情報がnull²（ﾇﾙﾇﾙ）と融解する体験をお楽しみ頂けます。】",
+      "zh-tw": "[接待14:30/開場15:00/結束~18:00][輪椅使用者需預約座位 / 不接受學齡前兒童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的「數位自然」與茶道融合的感官茶會。傳統點前、新世界、生成式CG、層疊音效、燈光與茶具。透過MirroredBody，大宗匠的動作與茶談結合傳統與科技，展現null²中東西方、身體與數據的流動體驗。",
+      "fr": "[Accueil14:30/Début15:00/Fin~18:00][Places réservées requises pour fauteuils roulants / Pas d’enfants d’âge préscolaire][Artistes (a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Une cérémonie du thé sensorielle mêlant le \"Digital Nature\" de Yoichi OCHIAI au Chado. Thème traditionnel, \"From the New World\", CG génératif, son, lumière, ustensiles. Avec MirroredBody, le mouvement du Grand Maître fusionne tradition et technologie pour une expérience null² fluide entre Orient et Occident, corps et données.",
+      "ko": "[접수14:30/시작15:00/종료~18:00][휠체어석 예약 필수 / 미취학 아동 입장 불가][출연자(a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Yoichi OCHIAI의 \"디지털 자연\"과 다도가 만나는 감각적 다도 행사. 전통 다도, 신세계, 생성 CG, 레이어드 사운드, 조명, 다기. MirroredBody와 함께 대선생의 동작과 다담이 전통과 기술을 융합해 동서양, 신체와 데이터가 흐르는 null² 체험 제공.",
+      "zh-cn": "[接待14:30/开场15:00/结束~18:00][轮椅用户需预约座位 / 不接受学龄前儿童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的“数字自然”与茶道结合的感官茶会。传统点前、新世界、生成式CG、层叠音效、灯光、茶具。通过MirroredBody，大宗匠的动作与茶谈融合传统与科技，呈现null²中东西、身体与数据的流动体验。"
+    },
+    "virtual_url": "",
+    "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1YS": {
+    "id": 25692,
+    "event_code": "M1YS",
+    "event_name": {
+      "en": "null²-an Tea Ceremony from the New World/Rear Stand Seats",
+      "ja": "null²庵 新世界茶会/スタンド後",
+      "zh-tw": "null²庵 新世界茶會 /看台後排座位",
+      "fr": "Cérémonie du thé de null²-an : depuis le Nouveau Monde/Places en gradins arrière",
+      "ko": "null²안 신세계 다회 /스탠드 뒤쪽 좌석",
+      "zh-cn": "null²庵 新世界茶会 /看台后排座位"
+    },
+    "event_summary": {
+      "en": "[Reception14:30/Start15:00/End~18:00][Wheelchair users require seat reservation / No preschool children allowed][Performers (a–z, titles omitted): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra]A sensory tea ceremony where Yoichi OCHIAI’s \"Digital Nature\" meets Chado. Featuring traditional temae, From the New World, generative CG, layered sound, lighting, utensils. With MirroredBody, the Grand Master’s movements and tea talk blend tradition and tech—offering a fluid, null² experience of East and West, body and data.",
+      "ja": "【受付14時30分/開演15時/終演18時頃】【車いすの参加は車いす席の予約が必要/未就学児入場不可】【出演：井上八千代、岩﨑宙平(指揮)、裏千家今日庵、落合陽一、細辻伊兵衛、ピルゼン・フィルハーモニー管弦楽団(五十音順/敬称略)】【落合陽一が提唱する「計算機自然（デジタルネイチャー）」を茶の湯の精神に重ね合わせ、伝統的な点前と管弦楽団による『新世界より』、生成CG、多層音響、照明、茶道具が一体となる総合芸術的茶会。ミラードボディとして再構成された大宗匠の点前や茶話会、null（ﾇﾙ）的な感覚世界への没入から、伝統とテクノロジー、東洋と西洋、身体と情報がnull²（ﾇﾙﾇﾙ）と融解する体験をお楽しみ頂けます。】",
+      "zh-tw": "[接待14:30/開場15:00/結束~18:00][輪椅使用者需預約座位 / 不接受學齡前兒童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的「數位自然」與茶道融合的感官茶會。傳統點前、新世界、生成式CG、層疊音效、燈光與茶具。透過MirroredBody，大宗匠的動作與茶談結合傳統與科技，展現null²中東西方、身體與數據的流動體驗。",
+      "fr": "[Accueil14:30/Début15:00/Fin~18:00][Places réservées requises pour fauteuils roulants / Pas d’enfants d’âge préscolaire][Artistes (a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Une cérémonie du thé sensorielle mêlant le \"Digital Nature\" de Yoichi OCHIAI au Chado. Thème traditionnel, \"From the New World\", CG génératif, son, lumière, ustensiles. Avec MirroredBody, le mouvement du Grand Maître fusionne tradition et technologie pour une expérience null² fluide entre Orient et Occident, corps et données.",
+      "ko": "[접수14:30/시작15:00/종료~18:00][휠체어석 예약 필수 / 미취학 아동 입장 불가][출연자(a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Yoichi OCHIAI의 \"디지털 자연\"과 다도가 만나는 감각적 다도 행사. 전통 다도, 신세계, 생성 CG, 레이어드 사운드, 조명, 다기. MirroredBody와 함께 대선생의 동작과 다담이 전통과 기술을 융합해 동서양, 신체와 데이터가 흐르는 null² 체험 제공.",
+      "zh-cn": "[接待14:30/开场15:00/结束~18:00][轮椅用户需预约座位 / 不接受学龄前儿童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的“数字自然”与茶道结合的感官茶会。传统点前、新世界、生成式CG、层叠音效、灯光、茶具。通过MirroredBody，大宗匠的动作与茶谈融合传统与科技，呈现null²中东西、身体与数据的流动体验。"
+    },
+    "virtual_url": "",
+    "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1YV": {
+    "id": 25694,
+    "event_code": "M1YV",
+    "event_name": {
+      "en": "null²-an Tea Ceremony from the New World/Wheelchair Accessible Area",
+      "ja": "null²庵 新世界茶会/車いす",
+      "zh-tw": "null²庵 新世界茶會 /無障礙座位／輪椅專區",
+      "fr": "Cérémonie du thé de null²-an : depuis le Nouveau Monde/Espace fauteuil roulant",
+      "ko": "null²안 신세계 다회 /휠체어석（휠체어 전용 구역）",
+      "zh-cn": "null²庵 新世界茶会 /无障碍座位／轮椅专区"
+    },
+    "event_summary": {
+      "en": "[Reception14:30/Start15:00/End~18:00][Wheelchair users require seat reservation / No preschool children allowed][Performers (a–z, titles omitted): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra]A sensory tea ceremony where Yoichi OCHIAI’s \"Digital Nature\" meets Chado. Featuring traditional temae, From the New World, generative CG, layered sound, lighting, utensils. With MirroredBody, the Grand Master’s movements and tea talk blend tradition and tech—offering a fluid, null² experience of East and West, body and data.",
+      "ja": "【受付14時30分/開演15時/終演18時頃】【車いすの参加は車いす席の予約が必要/未就学児入場不可】【出演：井上八千代、岩﨑宙平(指揮)、裏千家今日庵、落合陽一、細辻伊兵衛、ピルゼン・フィルハーモニー管弦楽団(五十音順/敬称略)】【落合陽一が提唱する「計算機自然（デジタルネイチャー）」を茶の湯の精神に重ね合わせ、伝統的な点前と管弦楽団による『新世界より』、生成CG、多層音響、照明、茶道具が一体となる総合芸術的茶会。ミラードボディとして再構成された大宗匠の点前や茶話会、null（ﾇﾙ）的な感覚世界への没入から、伝統とテクノロジー、東洋と西洋、身体と情報がnull²（ﾇﾙﾇﾙ）と融解する体験をお楽しみ頂けます。】",
+      "zh-tw": "[接待14:30/開場15:00/結束~18:00][輪椅使用者需預約座位 / 不接受學齡前兒童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的「數位自然」與茶道融合的感官茶會。傳統點前、新世界、生成式CG、層疊音效、燈光與茶具。透過MirroredBody，大宗匠的動作與茶談結合傳統與科技，展現null²中東西方、身體與數據的流動體驗。",
+      "fr": "[Accueil14:30/Début15:00/Fin~18:00][Places réservées requises pour fauteuils roulants / Pas d’enfants d’âge préscolaire][Artistes (a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Une cérémonie du thé sensorielle mêlant le \"Digital Nature\" de Yoichi OCHIAI au Chado. Thème traditionnel, \"From the New World\", CG génératif, son, lumière, ustensiles. Avec MirroredBody, le mouvement du Grand Maître fusionne tradition et technologie pour une expérience null² fluide entre Orient et Occident, corps et données.",
+      "ko": "[접수14:30/시작15:00/종료~18:00][휠체어석 예약 필수 / 미취학 아동 입장 불가][출연자(a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Yoichi OCHIAI의 \"디지털 자연\"과 다도가 만나는 감각적 다도 행사. 전통 다도, 신세계, 생성 CG, 레이어드 사운드, 조명, 다기. MirroredBody와 함께 대선생의 동작과 다담이 전통과 기술을 융합해 동서양, 신체와 데이터가 흐르는 null² 체험 제공.",
+      "zh-cn": "[接待14:30/开场15:00/结束~18:00][轮椅用户需预约座位 / 不接受学龄前儿童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的“数字自然”与茶道结合的感官茶会。传统点前、新世界、生成式CG、层叠音效、灯光、茶具。通过MirroredBody，大宗匠的动作与茶谈融合传统与科技，呈现null²中东西、身体与数据的流动体验。"
+    },
+    "virtual_url": "",
+    "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
+    "chairman": false,
+    "is_today": true
+  },
+  "S04L": {
+    "id": 15577,
+    "event_code": "S04L",
+    "event_name": {
+      "en": "[Junior SDGs Camp] EXPO Site Tour (*Please check the departure point with Visitors App)",
+      "ja": "【ジュニアSDGsキャンプ】会場内ツアー(必ず出発場所をVisitorsでご確認ください)",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Summary] This tour takes you around the cutting-edge spots within the Expo site, with a focus on the themes of SDGs and architecture. *The tour theme and departure point will change depending on the date of the event. [Tour theme and departure point] Sep. 3rd-6th: Circular architecture tour(depart from Festival Station), 7th-15th: Wooden architecture tour(depart from Festival Station), 17th-23rd: Bioenergy tour(depart from Festival Station), 24th-28th: Designer toilet tour(depart from Junior SDGs Camp)",
+      "ja": "【対象年齢】中高生以上向け【概要】SDGs、建築をテーマに、万博会場内の先進的なスポットを巡るツアーです。※開催日によってテーマ・出発地点が変わります。【ツアーテーマ・出発地点】9/3-6:循環型建築ツアー(フェスティバルステーション出発), 9/7-15:世界が注目!木造建築ツアー(フェスティバルステーション前出発), 9/17-23:ごみがエネルギーに?バイオエネルギーツアー(フェスティバルステーション前出発), 9/24-28:若手建築家が手掛けるデザイナーズトイレツアー(ジュニアSDGsキャンプ前出発)",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.651883147350695,
+    "lng": 135.37559777498245,
+    "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": true
+  },
+  "U07X": {
+    "id": 7347,
+    "event_code": "U07X",
+    "event_name": {
+      "en": "WA Space<Chile. Breaking Barriers, Building Futures>",
+      "ja": "WAスペース チリ：壁を打ち破り、未来を築く",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: September 4th】【12:30-14:30 (OPEN12:00)】【Summary】Women’s Pavilion.A panel discussion featuring chilean women leaders in the public, political, artistic, and academic spheres, who will address, from their perspectives, the advances and challenges in areas such as women's economic autonomy, the elimination of gender-based violence, and the promotion of equal opportunities. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：9月4日】【12:30-14:30 (OPEN12:00)】【概要】ウーマンズパビリオン。チリの公共、政治、芸術、学術分野で活躍する女性リーダーたちが一堂に会し、それぞれの視点から、女性の経済的自立、ジェンダーに基づく暴力の根絶、機会均等の推進における進展と今なお残る課題について語り合います。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
     "chairman": false,
     "is_today": true
   }
