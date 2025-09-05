@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-04 11:46:31",
+  "_parse_time": "2025-09-05 00:57:12",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -261,7 +261,7 @@
     },
     "event_summary": {
       "en": "[Duration: 65 min] [“Check-in time” is the reservation time on the website.] Ex.) 10:00-10:20 check-in→ 10:25 start. *Reservation will be cancelled once past the appointed time. *Slots are also available for those without reservations. *Doors open: 9:00. First check-in between 9:00-9:25. Visitors may enter at 9:25. [Overview] The “UNKNOWN FOREST” invites you to an interactive experience of sound and light inspired by the “forests” that Sumitomo has treasured for over 400 years. The special “lantern” will guide you to “stories of life” that help us think to the future. ",
-      "ja": "【体験時間：65分】【サイトに記載の予約時間が「受付時間」です。】例）10:00～10:20の間に受付⇒10:25頃より体験開始●予約時間を過ぎるとキャンセルとなります。●予約がない場合でも、並んでいただければ入館いただける枠もございます。●開館時間9:00。初回の受付時間は9:00～9:20で入館は9:25頃からです。●３歳以下のお子様は、予約不要で大人の方と一緒に入館できます。",
+      "ja": "【体験時間：65分】【サイトに記載の予約時間が「受付時間」です。】例）10:00～10:20の間に受付⇒10:25頃より体験開始●予約時間を過ぎるとキャンセルとなります。●抽選式デジタル整理券でお申し込みいただく予約無し列入場枠もございます。 ●開館時間9:00。初回の受付時間は9:00～9:20で入館は9:25頃からです。●３歳以下のお子様は、予約不要で大人の方と一緒に入館できます。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -2281,7 +2281,7 @@
     "lng": 135.38230597972873,
     "short_name": "瓦斯館甲烷示範",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 40
   },
   "SI09": {
@@ -2309,7 +2309,7 @@
     "lng": 135.3822602556547,
     "short_name": "瓦斯館甲烷示範♿",
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 40
   },
   "T11O": {
@@ -7077,15 +7077,15 @@
     "id": 30238,
     "event_code": "C066",
     "event_name": {
-      "en": "Ireland: Exhibition Free Exploration/No Live Music",
-      "ja": "アイルランド:展示自由観覧/生演奏なし",
+      "en": "Ireland: Exhibition Free Exploration/No Live Music/All ages require booking",
+      "ja": "アイルランド:展示自由観覧/生演奏なし/年齢に関わらず全員予約が必要",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
     "event_summary": {
-      "en": "[Duration: 20 minutes] Explore three unique areas of the Pavilion and feel as if you are in Ireland. First, immerse your senses in Ireland’s landscapes, sounds, and scents. Next, discover outstanding Irish craftsmanship, design, and innovation. Finally, enjoy an immersive experience of music and visuals.",
+      "en": "[Duration: 20 minutes] Explore three unique areas of the Pavilion and feel as if you are in Ireland. First, immerse your senses in Ireland’s landscapes, sounds, and scents. Next, discover outstanding Irish craftsmanship, design, and innovation. Finally, enjoy an immersive experience of music and visuals.*Reservations are required for children under 3 years old if they wish to use the seats.",
       "ja": "【所要20分】パビリオンでは3つのエリアを巡り、まるでアイルランドにいるかのような感覚を味わうことができます。最初はアイルランドの風景や音、香りを再現し五感でアイルランドを体験できます。次の空間では伝統工芸と現代デザインの両面から、アイルランドを代表する優れたデザインとイノベーションをご覧いただけます。そして最後のエリアでは、音楽と映像の没入型の体験が待っています。",
       "zh-tw": null,
       "fr": null,
@@ -7098,7 +7098,7 @@
     "lng": 135.3863172233105,
     "short_name": "愛爾蘭純展覽",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 20
   },
   "M1UY": {
@@ -7671,7 +7671,7 @@
     "virtual_url": "",
     "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1YP": {
     "id": 25693,
@@ -7695,7 +7695,7 @@
     "virtual_url": "",
     "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1YS": {
     "id": 25692,
@@ -7719,7 +7719,7 @@
     "virtual_url": "",
     "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1YV": {
     "id": 25694,
@@ -7743,7 +7743,7 @@
     "virtual_url": "",
     "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "S04L": {
     "id": 15577,
@@ -7795,6 +7795,108 @@
     "portal_url": "",
     "lat": 34.648940035891734,
     "lng": 135.38833651412097,
+    "short_name": "WA Space",
+    "chairman": false,
+    "is_today": false
+  },
+  "M1Y4": {
+    "id": 15580,
+    "event_code": "M1Y4",
+    "event_name": {
+      "en": "OSAKA JAPAN SDGs Forum Upper Level L-N Block",
+      "ja": "OSAKA JAPAN SDGs Forum スタンド席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【 Date : September 5 】 【 Venue : EXPO Hall (Shine Hat)】 【 Time : 13:00 - 17:30 (OPEN 12:00) 】 【 Overview 】 An opportunity to share advanced SDGs actions, and deepen discussions on SDGs + beyond after 2030. We welcome participation from local governments, companies, non-profit organizations, students, and others who are interested in Sustainable Development Goals. ※ If you are in a wheelchair, please make a reservation for a wheelchair seat.",
+      "ja": "【開催日：9月5日】【会場：EXPOホール（シャインハット）】【時間：13:00-17:30 (OPEN12:00)】【概要】国内外の先進的なSDGsアクションを共有するとともに、2030年以降のSDGs＋beyondについて議論を深める機会。SDGsにご関心のある、自治体・企業・NPO・学生等の皆さまのご参加をお待ちしています。※車いすの方は、車いす席でご予約ください。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.expo-osaka2025.com/osakaweek/regular/event/0905_fukushi.html",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1Y7": {
+    "id": 15581,
+    "event_code": "M1Y7",
+    "event_name": {
+      "en": "OSAKA JAPAN SDGs Forum Wheelchair Seats 2nd floor ",
+      "ja": "OSAKA JAPAN SDGs Forum 車いす席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【 Date : September 5 】 【 Venue : EXPO Hall (Shine Hat)】 【 Time : 13:00 - 17:30 (OPEN 12:00) 】 【 Overview 】 An opportunity to share advanced SDGs actions, and deepen discussions on SDGs + beyond after 2030. We welcome participation from local governments, companies, non-profit organizations, students, and others who are interested in Sustainable Development Goals. ※ If you are in a wheelchair, please make a reservation for a wheelchair seat.",
+      "ja": "【開催日：9月5日】【会場：EXPOホール（シャインハット）】【時間：13:00-17:30 (OPEN12:00)】【概要】国内外の先進的なSDGsアクションを共有するとともに、2030年以降のSDGs＋beyondについて議論を深める機会。SDGsにご関心のある、自治体・企業・NPO・学生等の皆さまのご参加をお待ちしています。※車いすの方は、車いす席でご予約ください。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.expo-osaka2025.com/osakaweek/regular/event/0905_fukushi.html",
+    "chairman": true,
+    "is_today": true
+  },
+  "U05I": {
+    "id": 6814,
+    "event_code": "U05I",
+    "event_name": {
+      "en": "WA Space<Music and Dance Across Generations>",
+      "ja": "WAスペース 世代を超える音楽・舞踊",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: September 5th】【17:00-19:30 (OPEN16:30)】【Summary】Women’s Pavilion.An inspiring meeting with two extraordinary women who built exceptional careers in Poland. Yuka Ebihara, a Japanese ballerina and first soloist of the Polish National Ballet, shares her artistic journey. Urszula Dudziak, Poland’s most recognized jazz artist, known for Papaya and 50+ albums, inspires with her story of perseverance and passion, proving dreams have no limits.\t *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：9月5日】【17:00-19:30 (OPEN16:30)】【概要】ウーマンズパビリオン。ポーランドで輝かしい功績を築いた2人の女性との感激的な出会いです。ポーランド国立バレエ団のファーストソリストを務めた日本人バレリーナ、海老原由佳さんは自分のアーティストとしての歩みを語ります。バイラル曲「パパイヤ」をはじめ50枚以上のアルバムで知られるポーランドの最も有名なジャズ・ミュージシャン、ウルシュラ・ドゥジアクさんは、忍耐と情熱の物語でインスピレーションを与え、夢に限界はないことを証明します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
+    "chairman": false,
+    "is_today": true
+  },
+  "U0B6": {
+    "id": 15567,
+    "event_code": "U0B6",
+    "event_name": {
+      "en": "WA Space<Career transformation starting with recurrent education>",
+      "ja": "WAスペース リカレント教育から始まるキャリア変革 ～人生を動かす学び～",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: September 5th】【12:30-14:15 (OPEN12:00)】【Summary】Women’s Pavilion.'Career transformation starting with recurrent education ~Learning that changes your life~' is an event to consider how you can change your life and career through re-learning after becoming a working adult (recurrent education). In the first part, Professor Ouchi and Lecturer Funakoshi from Kwansei Gakuin University's Women's Leadership Development Program will talk in a dialogue format about the program's achievements and the importance of recurrent education.  *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：9月5日】【12:30-14:15 (OPEN12:00)】【概要】ウーマンズパビリオン。「リカレント教育から始まるキャリア変革 ～人生を動かす学び～」は、社会人になってからの学び直し（リカレント教育）を通じて、人生やキャリアをどう変えることができるのかを考えるイベントです。第一部では、関西学院大学女性リーダー育成プログラムの大内教授と船越講師が、プログラムの実績やリカレント教育の重要性について対話形式でお話しします。第二部では、実際にプログラムを受講し、人生が大きく変わった方々が登壇。実体験を通じて、学び直しがもたらす変化や挑戦のコツを共有します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.64881131544013,
+    "lng": 135.3883687564601,
     "short_name": "WA Space",
     "chairman": false,
     "is_today": true
