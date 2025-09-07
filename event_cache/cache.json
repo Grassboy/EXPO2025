@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-05 15:24:34",
+  "_parse_time": "2025-09-08 07:41:40",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -7770,7 +7770,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U07X": {
     "id": 7347,
@@ -7821,7 +7821,7 @@
     "virtual_url": "",
     "portal_url": "https://www.expo-osaka2025.com/osakaweek/regular/event/0905_fukushi.html",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1Y7": {
     "id": 15581,
@@ -7845,7 +7845,7 @@
     "virtual_url": "",
     "portal_url": "https://www.expo-osaka2025.com/osakaweek/regular/event/0905_fukushi.html",
     "chairman": true,
-    "is_today": true
+    "is_today": false
   },
   "U05I": {
     "id": 6814,
@@ -7872,7 +7872,7 @@
     "lng": 135.38833651412097,
     "short_name": "WA Space",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U0B6": {
     "id": 15567,
@@ -7898,6 +7898,57 @@
     "lat": 34.64881131544013,
     "lng": 135.3883687564601,
     "short_name": "WA Space",
+    "chairman": false,
+    "is_today": false
+  },
+  "QN01": {
+    "id": 6813,
+    "event_code": "QN01",
+    "event_name": {
+      "en": "大衆演劇「龍王祭」by 呉服座Presents",
+      "ja": null,
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "人気と実力を誇る劇団美山と桐龍座恋川劇団を迎え、スペシャル演出でお送りする大衆演劇のEXPO２０２５特別ステージ！！旅芝居の名門「呉服座」が世界に向けて日本のエンターテイメントの力を発信します。【開催日：9月8日（月）】【開場】開演１時間前【座席】予約制ブロック席（ブロック内自由席）、当日自由席【その他】ブロック席をご予約の方も当日自由席の方も、状況により当日施設前で整理券を配布予定です。ご予約済みの予約ブロック席の位置はＶｉｓｉｔｏｒｓアプリをご確認ください。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "ja": null,
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": true
+  },
+  "S046": {
+    "id": 15582,
+    "event_code": "S046",
+    "event_name": {
+      "en": "[Junior SDGs Camp] Live Broadcast! JICA Class",
+      "ja": "【ジュニアSDGsキャンプ】途上国と生中継！JICA国際協力出前講座",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Dates: September 1st, 8th, 16th, 22nd, 29th][Time: 11:00-12:00, 13:00-14:00, 15:00-16:00][Summary] Real JICA Overseas Cooperation Volunteers will teach you hot secens or issues from their asigned developing country through the online session. Let' meet together and think together! *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：9月1日、8日、16日、22日、29日】【時間：11:00-12:00、13:00-14:00、15:00-16:00】途上国で活動中のJICA海外協力隊が講師となり、SDGsや環境問題に関連した現地途上国の現状や課題について、リアルに伝えます。オンラインで交流し、自分たちにはどんなことができるか一緒に考えましょう！※主な対象者は小学校高学年から高校生までですが、小学校低学年のお子様も入場可能です。 　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.651883147350695,
+    "lng": 135.37559777498245,
+    "short_name": "SDGs Camp",
     "chairman": false,
     "is_today": true
   }
