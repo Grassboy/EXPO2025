@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-08 23:21:01",
+  "_parse_time": "2025-09-09 00:51:46",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -1972,7 +1972,7 @@
     "lng": 135.38687612582007,
     "short_name": "關西館(含食物)♿",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "M151": {
@@ -3942,7 +3942,7 @@
     "lng": 135.3870025277138,
     "short_name": "大阪健康+重生(無avata)",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 40
   },
   "IC09": {
@@ -5895,7 +5895,7 @@
     "lng": 135.3886665239448,
     "short_name": "松下館(兒童)",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 60
   },
   "M1J7": {
@@ -7597,7 +7597,7 @@
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499794",
     "portal_url": "https://expo.gov.pl/ja",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "IO0F": {
     "id": 29725,
@@ -7923,7 +7923,7 @@
     "virtual_url": null,
     "portal_url": null,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "S046": {
     "id": 15582,
@@ -7949,6 +7949,153 @@
     "lat": 34.651883147350695,
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": false
+  },
+  "M1OY": {
+    "id": 6801,
+    "event_code": "M1OY",
+    "event_name": {
+      "en": "Japanese Horror Kwaidan EXPO2025 Floor Level",
+      "ja": "初耳怪談EXPO2025 アリーナ席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Japanese top horror(kwaidan)storytellers perform their special story of strange things(kwaidan).At that time,not only storytelling but also various performances of light,sound and so on.By doing so,this event will create an even more immersive experience.【Date:9/9 Tue.】【OPEN 17:00】【START 18:00】【END 20:00】【Seats：Floor Level】 *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "日本トップクラスの怪談師たちがとっておきの怪談を披露。話芸だけではなく、映像・光・音など様々なギミックを取り入れることで、さらなるイマーシブ体験を演出します。【開催日：9月9日（火）】【開場】17時【開演】18時【終演】20時【アリーナ席】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1P1": {
+    "id": 6802,
+    "event_code": "M1P1",
+    "event_name": {
+      "en": "Japanese Horror Kwaidan EXPO2025 Front of Upper Level",
+      "ja": "初耳怪談EXPO2025 スタンド前方席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Japanese top horror(kwaidan)storytellers perform their special story of strange things(kwaidan).At that time,not only storytelling but also various performances of light,sound and so on.By doing so,this event will create an even more immersive experience.【Date:9/9 Tue.】【OPEN 17:00】【START 18:00】【END 20:00】【Seats：Front of Upper Level】 *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "日本トップクラスの怪談師たちがとっておきの怪談を披露。話芸だけではなく、映像・光・音など様々なギミックを取り入れることで、さらなるイマーシブ体験を演出します。【開催日：9月9日（火）】【開場】17時【開演】18時【終演】20時【スタンド前方席】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1P4": {
+    "id": 6803,
+    "event_code": "M1P4",
+    "event_name": {
+      "en": "Japanese Horror Kwaidan EXPO2025 Back of Upper Level",
+      "ja": "初耳怪談EXPO2025 スタンド後方席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Japanese top horror(kwaidan)storytellers perform their special story of strange things(kwaidan).At that time,not only storytelling but also various performances of light,sound and so on.By doing so,this event will create an even more immersive experience.【Date:9/9 Tue.】【OPEN 17:00】【START 18:00】【END 20:00】【Seats：Back of Upper Level】 *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "日本トップクラスの怪談師たちがとっておきの怪談を披露。話芸だけではなく、映像・光・音など様々なギミックを取り入れることで、さらなるイマーシブ体験を演出します。【開催日：9月9日（火）】【開場】17時【開演】18時【終演】20時【スタンド後方席】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1P7": {
+    "id": 6804,
+    "event_code": "M1P7",
+    "event_name": {
+      "en": "Japanese Horror Kwaidan EXPO2025 Wheelchair Seats 1st floor",
+      "ja": "初耳怪談EXPO2025 1F 車椅子席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Japanese top horror(kwaidan)storytellers perform their special story of strange things(kwaidan).At that time,not only storytelling but also various performances of light,sound and so on.By doing so,this event will create an even more immersive experience.【Date:9/9 Tue.】【OPEN 17:00】【START 18:00】【END 20:00】【Seats：1F Wheelchair】 *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "日本トップクラスの怪談師たちがとっておきの怪談を披露。話芸だけではなく、映像・光・音など様々なギミックを取り入れることで、さらなるイマーシブ体験を演出します。【開催日：9月9日（火）】【開場】17時【開演】18時【終演】20時【1F 車椅子席】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
+    "chairman": true,
+    "is_today": true
+  },
+  "M1PA": {
+    "id": 6805,
+    "event_code": "M1PA",
+    "event_name": {
+      "en": "Japanese Horror Kwaidan EXPO2025 Wheelchair Seats 2nd floor",
+      "ja": "初耳怪談EXPO2025 2F 車椅子席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Japanese top horror(kwaidan)storytellers perform their special story of strange things(kwaidan).At that time,not only storytelling but also various performances of light,sound and so on.By doing so,this event will create an even more immersive experience.【Date:9/9 Tue.】【OPEN 17:00】【START 18:00】【END 20:00】【Seats：2F Wheelchair】 *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "日本トップクラスの怪談師たちがとっておきの怪談を披露。話芸だけではなく、映像・光・音など様々なギミックを取り入れることで、さらなるイマーシブ体験を演出します。【開催日：9月9日（火）】【開場】17時【開演】18時【終演】20時【2F 車椅子席】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
+    "chairman": true,
+    "is_today": true
+  },
+  "U0AL": {
+    "id": 15570,
+    "event_code": "U0AL",
+    "event_name": {
+      "en": "WA Space<Building diverse organisations>",
+      "ja": "WAスペース 多様性のある組織の構築を目指して",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: September　9th】【14:00-15:30 (OPEN13:30)】【16:00-17:30 (OPEN15:30)】【Summary】Women’s Pavilion.Despite the growing recognition of the importance of gender and diversity in leadership, many organizations continue to face challenges in achieving meaningful representation at the decision-making table. By delving into various themes, the session will provide insights, strategies, and practical approaches to foster inclusive leadership and drive transformation within organizational structures. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：9月9日】【14:00-15:30 (OPEN13:30)】【16:00-17:30 (OPEN15:30)】【概要】ウーマンズパビリオン。リーダーシップにおけるジェンダーと多様性の重要性がますます認識されているにもかかわらず、多くの組織は意思決定の場で十分な代表性を達成する上で依然として課題に直面しています。本セッションでは、さまざまなテーマに踏み込み、インクルーシブなリーダーシップを育成し、組織構造の変革を推進するための洞察、戦略、および実践的なアプローチを提供します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
     "chairman": false,
     "is_today": true
   }
