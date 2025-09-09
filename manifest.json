@@ -2,7 +2,7 @@
     "name": "大阪萬博地圖",
     "short_name": "萬博地圖",
     "description": "大阪萬博會場地圖導覽",
-    "start_url": "/EXPO2025/index.html",
+    "start_url": "/EXPO2025/redir.html",
     "display": "fullscreen",
     "background_color": "#0068b7",
     "theme_color": "#0068b7",
