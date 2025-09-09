@@ -498,6 +498,12 @@ location.href = 'https://ticket.expo2025.or.jp/zh-tw/event_search/?id=MREBB6J6X2
                     'slot_id': json.slot_id
                 });
                 console.log('開始預約', json.event_code, json.slot_id);
+                var referrer = "https://ticket.expo2025.or.jp/zh-tw/event_time/?id="+localStorage.ticket_id+"&event_id="+json.event_code+"&screen_id=108&lottery="+(isToday(localStorage.date)? '5' : '4')+"&keyword=&event_type=0&reserve_id=&entrance_date="+localStorage.date;
+                try {
+                    await fetch(referrer);
+                } catch(e) {
+                    //noop
+                }
                 var request = await fetch("https://ticket.expo2025.or.jp/api/d/user_event_reservations", {
                     "credentials": "include",
                     "headers": {
@@ -510,7 +516,7 @@ location.href = 'https://ticket.expo2025.or.jp/zh-tw/event_search/?id=MREBB6J6X2
                         "Sec-Fetch-Site": "same-origin",
                         "Priority": "u=0"
                     },
-                    "referrer": "https://ticket.expo2025.or.jp/zh-tw/event_time/?id="+localStorage.ticket_id+"&event_id="+json.event_code+"&screen_id=108&lottery="+(isToday(localStorage.date)? '5' : '4')+"&keyword=&event_type=0&reserve_id=&entrance_date="+localStorage.date,
+                    "referrer": referrer,
                     "body": JSON.stringify({
                         "ticket_ids": localStorage.ticket_id.split(','),
                         "entrance_date": localStorage.date,
