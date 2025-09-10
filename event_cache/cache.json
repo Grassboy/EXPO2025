@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-09 00:51:46",
+  "_parse_time": "2025-09-10 10:43:12",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -1972,7 +1972,7 @@
     "lng": 135.38687612582007,
     "short_name": "關西館(含食物)♿",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 45
   },
   "M151": {
@@ -2100,7 +2100,7 @@
     "lng": 135.37426203489306,
     "short_name": "萬博桑拿-女",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "Q013": {
     "id": 1233,
@@ -2127,7 +2127,7 @@
     "lng": 135.37451877520377,
     "short_name": "萬博桑拿-混",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T11R": {
     "id": 3242,
@@ -2254,7 +2254,7 @@
     "lng": 135.3743800520897,
     "short_name": "萬博桑拿-男",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "SI06": {
     "id": 1264,
@@ -3942,7 +3942,7 @@
     "lng": 135.3870025277138,
     "short_name": "大阪健康+重生(無avata)",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 40
   },
   "IC09": {
@@ -5895,7 +5895,7 @@
     "lng": 135.3886665239448,
     "short_name": "松下館(兒童)",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 60
   },
   "M1J7": {
@@ -7597,7 +7597,7 @@
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499794",
     "portal_url": "https://expo.gov.pl/ja",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "IO0F": {
     "id": 29725,
@@ -7974,7 +7974,7 @@
     "virtual_url": "",
     "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1P1": {
     "id": 6802,
@@ -7998,7 +7998,7 @@
     "virtual_url": "",
     "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1P4": {
     "id": 6803,
@@ -8022,7 +8022,7 @@
     "virtual_url": "",
     "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1P7": {
     "id": 6804,
@@ -8046,7 +8046,7 @@
     "virtual_url": "",
     "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
     "chairman": true,
-    "is_today": true
+    "is_today": false
   },
   "M1PA": {
     "id": 6805,
@@ -8070,7 +8070,7 @@
     "virtual_url": "",
     "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
     "chairman": true,
-    "is_today": true
+    "is_today": false
   },
   "U0AL": {
     "id": 15570,
@@ -8086,6 +8086,33 @@
     "event_summary": {
       "en": "【Date: September　9th】【14:00-15:30 (OPEN13:30)】【16:00-17:30 (OPEN15:30)】【Summary】Women’s Pavilion.Despite the growing recognition of the importance of gender and diversity in leadership, many organizations continue to face challenges in achieving meaningful representation at the decision-making table. By delving into various themes, the session will provide insights, strategies, and practical approaches to foster inclusive leadership and drive transformation within organizational structures. *Reservations are required for children under 3 years old if they wish to use the seats.",
       "ja": "【開催日：9月9日】【14:00-15:30 (OPEN13:30)】【16:00-17:30 (OPEN15:30)】【概要】ウーマンズパビリオン。リーダーシップにおけるジェンダーと多様性の重要性がますます認識されているにもかかわらず、多くの組織は意思決定の場で十分な代表性を達成する上で依然として課題に直面しています。本セッションでは、さまざまなテーマに踏み込み、インクルーシブなリーダーシップを育成し、組織構造の変革を推進するための洞察、戦略、および実践的なアプローチを提供します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
+    "chairman": false,
+    "is_today": false
+  },
+  "U0AO": {
+    "id": 15569,
+    "event_code": "U0AO",
+    "event_name": {
+      "en": "WA Space<Women as managers in a crisis>",
+      "ja": "WAスペース 災害や紛争における女性リーダーの役割",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: September　10th【12:00-13:30 (OPEN11:30)】【14:00-15:30 (OPEN13:30)】【Summary】Women’s Pavilion.In an increasingly complex and interconnected world, crises have become an unfortunate reality, testing the resilience of individuals and organizations. From natural disasters and public health emergencies to geopolitical tensions and cyber threats, the spectrum of crises is vast and varied. This session emphasize the need for inclusive strategies to enhance crisis resilience for everyone.  *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：9月10日】【12:00-13:30 (OPEN11:30)】【14:00-15:30 (OPEN13:30)】【概要】ウーマンズパビリオン。ますます複雑化し、相互の結びつきが強まった現代社会において、人道危機は避けられない現実となり、個人や組織のレジリエンスが試される状況です。自然災害や公衆衛生の緊急事態から、地政学的な緊張やサイバー脅威に至るまで、危機の範囲は広く多岐にわたります。本セッションでは、すべての人の危機対応能力を高める包括的な戦略の必要性を強調します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
