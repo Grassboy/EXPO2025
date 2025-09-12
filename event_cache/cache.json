@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-11 08:13:13",
+  "_parse_time": "2025-09-12 10:52:53",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -8150,6 +8150,57 @@
     "lat": 34.651883147350695,
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": false
+  },
+  "CQ70": {
+    "id": 45405,
+    "event_code": "CQ70",
+    "event_name": {
+      "en": "Czech Cultural Program",
+      "ja": "チェコ文化プログラム",
+      "zh-tw": "捷克文化項目",
+      "fr": "Programme culturel tchèque",
+      "ko": "체코 문화 프로그램",
+      "zh-cn": "捷克文化节目"
+    },
+    "event_summary": {
+      "en": "Czech Pavilion's cultural program for Expo 2025 features a broad range of performances, including classical music, dance, and contemporary art, with a focus on showcasing Czech talent and connecting it with Japanese culture.",
+      "ja": "チェコ館の文化プログラムは、クラシック音楽、舞踊、現代アートなど幅広い公演を展開し、チェコの才能を紹介するとともに、日本文化とのつながりを重視しております。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-664929",
+    "portal_url": "https://www.expovisitors.expo2025.or.jp/pavilions/e770f3dd-01cd-4c55-992c-db696bcf9486",
+    "chairman": false,
+    "is_today": true
+  },
+  "U050": {
+    "id": 6816,
+    "event_code": "U050",
+    "event_name": {
+      "en": "WA Space<Gender-Design summit>",
+      "ja": "WAスペース Gender-Design summit",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date:September 12th】【13:30-19:30 (OPEN13:00)】【Summary】Women’s Pavilion.We are hosting the 'Gender Design Summit - Creating the Future through Gender-Sensitive Design' featuring globally respected women. Aiming to realize a society where all women can thrive, we will broadly communicate women's advancement in Japan and worldwide. The summit will address gender equality, one of the crucial SDGs issues, by sharing wisdom from around the world, learning from advanced initiatives, and creating and promoting new products, businesses, and urban development through Gender Design. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：9月12日】【13:30-19:30 (OPEN13:00)】【概要】ウーマンズパビリオン。世界から尊敬される女性が参加する 'Gender Design Summit ～ ジェンダーに敏感なデザインから未来を創る'を開催。全ての女性が活躍できる社会を目指し、日本と世界の女性活躍を広く国内外に発信。SDGs の重要課題の一つであるジェンダー平等について、世界中から智慧を出し合い、先進的な取組を学び合い、Gender Designによる新ビジネス、都市づくり等の新たな取組を創出、発信する。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
     "chairman": false,
     "is_today": true
   }
