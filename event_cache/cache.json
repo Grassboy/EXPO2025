@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-12 10:52:53",
+  "_parse_time": "2025-09-15 07:22:48",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -1889,7 +1889,7 @@
     "lat": 34.64862637249134,
     "lng": 135.3874357044697,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 80
   },
   "H1HF": {
@@ -1916,7 +1916,7 @@
     "lat": 34.64842888778767,
     "lng": 135.3873632848263,
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 80
   },
   "H7H3": {
@@ -2281,7 +2281,7 @@
     "lng": 135.38230597972873,
     "short_name": "瓦斯館甲烷示範",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 40
   },
   "SI09": {
@@ -2309,7 +2309,7 @@
     "lng": 135.3822602556547,
     "short_name": "瓦斯館甲烷示範♿",
     "chairman": true,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 40
   },
   "T11O": {
@@ -6340,7 +6340,7 @@
     "lng": 135.38743972778323,
     "short_name": "電力館(兒童)",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 45
   },
   "M1L1": {
@@ -8194,6 +8194,180 @@
       "zh-tw": null,
       "fr": null,
       "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
+    "chairman": false,
+    "is_today": false
+  },
+  "N0K1": {
+    "id": 10041,
+    "event_code": "N0K1",
+    "event_name": {
+      "en": "Osaka Week ~Fall~OSAKA MUSIC LOVER EXPO ARENA 2025",
+      "ja": "大阪ウィーク～秋～OSAKA MUSIC LOVER",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Summary] J-POP & J-ROCK Live Fest [Dates & Times] Sunday, September 14 Doors Open: 4:00 PM / Show Starts: 5:00 PM / Ends Around: 8:00 PM / [Dates & Times]Monday (Public Holiday), September 15 Doors Open: 2:30 PM / Show Starts: 3:30 PM / Ends Around: 8:00 PM / [Others] Details about admission, lineup, and the latest updates will be available on the official event website. Please be sure to check the website before attending.",
+      "ja": "【概要】J-POP、J-ROCKアーティストによるライブフェス/【9月14日（日）開場16時00分/開演17時00分/終演20時00分頃】/【9月15日（月祝）開場14時30分/開演15時30分/終演20時00分】/【その他】入場方法や詳細、最新情報をイベント関連HPに掲載しますので、必ずご確認の上、ご来場ください。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": true
+  },
+  "N0K4": {
+    "id": 10042,
+    "event_code": "N0K4",
+    "event_name": {
+      "en": "Osaka Week ~Fall~OSAKA MUSIC LOVER EXPO ARENA 2025 Wheelchair seat",
+      "ja": "大阪ウィーク～秋～OSAKA MUSIC LOVER 車イス席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Summary] J-POP & J-ROCK Live Fest [Dates & Times] Sunday, September 14 Doors Open: 4:00 PM / Show Starts: 5:00 PM / Ends Around: 8:00 PM / [Dates & Times]Monday (Public Holiday), September 15 Doors Open: 2:30 PM / Show Starts: 3:30 PM / Ends Around: 8:00 PM / [Others] Details about admission, lineup, and the latest updates will be available on the official event website. Please be sure to check the website before attending.",
+      "ja": "【概要】J-POP、J-ROCKアーティストによるライブフェス/【9月14日（日）開場16時00分/開演17時00分/終演20時00分頃】/【9月15日（月祝）開場14時30分/開演15時30分/終演20時00分】/【その他】入場方法や詳細、最新情報をイベント関連HPに掲載しますので、必ずご確認の上、ご来場ください。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": true,
+    "is_today": true
+  },
+  "QE04": {
+    "id": 32255,
+    "event_code": "QE04",
+    "event_name": {
+      "en": "The 20th Century Art Collection of Osaka Pref.",
+      "ja": "大阪府20世紀美術コレクション",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Session 1】Doors 10:30 / Start 11:00 / End 12:00\n【Session 2】Doors 13:30 / Start 14:00 / End 15:00\n【Session 3】Doors 16:30 / Start 17:00 / End 18:00\nWheelchair users: please reserve in the wheelchair block; one companion allowed.\nChildren under 3: please share a seat with a guardian.\nThe Osaka 20th Century Art Collection showcases paintings, prints, sculptures, and photos by Kansai-based contemporary artists and Triennale awardees, with selected works displayed in line with Expo 2025 themes. Workshops and talks will also be held—enjoy contemporary art!",
+      "ja": "【1回目10:30開場/11:00開始/12:00終了】【2回目/13:30開場/14:00開始/15:00終了】【3回目16:30開場/17:00開始/18:00終了】/【車いすでの参加の際は車いす用のブロックでご予約下さい。介添え者1名可能】/【3歳以下のお子様は保護者や同伴者と同一席でお願いします。】/【概要】「大阪府20世紀美術コレクション」は、関西を拠点に活躍した現代美術作家の作品や「大阪トリエンナーレ」の受賞作品など、絵画や版画、彫刻、写真などを所蔵。 これらの作品の中から、大阪・関西万博の掲げるテーマに沿って選りすぐった作品を展示。また、アートを体験いただくワークショップやトークショーも実施します。現代美術の魅力をぜひお楽しみください。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": "https://www.expovisitors.expo2025.or.jp/events/f03f5470-a99b-49d3-ae9e-ca4de95a82fe",
+    "chairman": false,
+    "is_today": true
+  },
+  "QE07": {
+    "id": 32256,
+    "event_code": "QE07",
+    "event_name": {
+      "en": "The 20th Century Art Collection of Osaka Pref. Wheelchair seat",
+      "ja": "大阪府20世紀美術コレクション　車いす席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Session 1】Doors 10:30 / Start 11:00 / End 12:00\n【Session 2】Doors 13:30 / Start 14:00 / End 15:00\n【Session 3】Doors 16:30 / Start 17:00 / End 18:00\nWheelchair users: please reserve in the wheelchair block; one companion allowed.\nChildren under 3: please share a seat with a guardian.\nThe Osaka 20th Century Art Collection showcases paintings, prints, sculptures, and photos by Kansai-based contemporary artists and Triennale awardees, with selected works displayed in line with Expo 2025 themes. Workshops and talks will also be held—enjoy contemporary art!",
+      "ja": "【1回目10:30開場/11:00開始/12:00終了】【2回目/13:30開場/14:00開始/15:00終了】【3回目16:30開場/17:00開始/18:00終了】/【車いすでの参加の際は車いす用のブロックでご予約下さい。介添え者1名可能】/【3歳以下のお子様は保護者や同伴者と同一席でお願いします。】/【概要】「大阪府20世紀美術コレクション」は、関西を拠点に活躍した現代美術作家の作品や「大阪トリエンナーレ」の受賞作品など、絵画や版画、彫刻、写真などを所蔵。 これらの作品の中から、大阪・関西万博の掲げるテーマに沿って選りすぐった作品を展示。また、アートを体験いただくワークショップやトークショーも実施します。現代美術の魅力をぜひお楽しみください。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": "https://www.expovisitors.expo2025.or.jp/events/f03f5470-a99b-49d3-ae9e-ca4de95a82fe",
+    "chairman": true,
+    "is_today": true
+  },
+  "QH01": {
+    "id": 6812,
+    "event_code": "QH01",
+    "event_name": {
+      "en": "守口市の極～未来へつなぐものづくり～",
+      "ja": null,
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【概要】守口市は、ものづくりの企業が、800近くもあり、長年大手メーカーの協力会社として活躍し、独自の技術を持っている多くの企業があります。本イベントは、守口市内のものづくり企業で、高い技術力を有する「極の守の会」の会員企業が、未来の自転車の試乗体験や、それぞれの企業の強みを活かしたものづくり体験、技術を結集した製造品の展示などを実施することで、来場された方々が、守口のものづくりの魅力や未来を存分に体感できるイベントとなっております。ぜひ会場にお越しください！【開催時間10時～16時】",
+      "ja": null,
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": true
+  },
+  "S04F": {
+    "id": 15579,
+    "event_code": "S04F",
+    "event_name": {
+      "en": "[Junior SDGs Camp] Osaka-Kansai Expo ESD Program (Switzerland ver)",
+      "ja": "【ジュニアSDGsキャンプ】大阪・関西万博ESDプログラム（スイス編）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "*This event will be held at Junior SDGs Camp. [Date and Time: Sep 3rd, 15th(13:00-14:00), Sep 24th(11:00-12:00)][Target age] Middle and High School Students [Summary] We will invite Swiss presenters to introduce an overview of the country and their initiatives regarding the SDGs in Switzerland, as well as engage in discussions comparing these with Japan and what we can do ourselves. Additionally, we will share a global initiative called 'One Million Youth Action Challenge' that began in Switzerland. *This program will be conducted in English. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "※本イベントの実施場所はスイスパビリオンではなく「ジュニアSDGsキャンプ」です。【開催日時：9月3日、15日(13:00-14:00)、24日(11:00-12:00)】【対象学年】中学生・高校生向け【概要】ESD国際交流プログラムのスイス編です。当日はスイス人のプレゼンターを招き、国の概要やスイスでのSDGsに関する取組を紹介いただき、日本との比較や自分達にできることをディスカッションします。また、1億人の若者が、社会から疎外された1億人の子どものために立ち上がり、社会を変革するための活動「One Million Youth Action Challenge」について、スイス現地の参画者とオンラインで繋ぎ、説明いただきます。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.651883147350695,
+    "lng": 135.37559777498245,
+    "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": true
+  },
+  "U056": {
+    "id": 6818,
+    "event_code": "U056",
+    "event_name": {
+      "en": "WA Space<Empowering Women for Climate Resilience>",
+      "ja": "WAスペース 女性の力で官民連携による気候レジリエンスを加速",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: September 15th】【11:30-14:30 (OPEN11:00)】【Summary】Women’s Pavilion. PISAgro and Grow Asia will co-host a half-day interactive multi-stakeholder Roundtable featuring international keynote speakers and a high-level panel session.  The event will convene leading experts from the public and private sector to discuss the vital role of public-private partnerships in ensuring that women are empowered to play a central role in meeting global targets for climate transition in the agri, food and forestry sector. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：9月15日】【11:30-14:30 (OPEN11:00)】【概要】ウーマンズパビリオン。PISAgroとGrow Asiaは、女性の役割を中心に据えた気候変動対応の重要性について議論する。官民パートナーシップが女性のエンパワーメントを促進する方法を、国際的な基調講演者と専門家が検討します。イベントでは、インドネシアのカカオバリューチェーンにおける「GrowHer: Kakaoプロジェクト」が成功事例として紹介されます。このプロジェクトは、GIZとMarsの支援を受け、Save the ChildrenやPISAgroと連携して実施されており、持続可能な農業と多様性・包摂性を高める官民連携の模範となっています。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": "【Date: September 15th】【11:30-14:30 (OPEN11:00)】【Summary】Women’s Pavilion. PISAgro and Grow Asia will co-host a half-day interactive multi-stakeholder Roundtable featuring international keynote speakers and a high-level panel session.  The event will convene leading experts from the public and private sector to discuss the vital role of public-private partnerships in ensuring that women are empowered to play a central role in meeting global targets for climate transition in the agri, food and forestry sector.  *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ko": "【Date: September 15th】【11:30-14:30 (OPEN11:00)】【Summary】Women’s Pavilion. PISAgro and Grow Asia will co-host a half-day interactive multi-stakeholder Roundtable featuring international keynote speakers and a high-level panel session.  The event will convene leading experts from the public and private sector to discuss the vital role of public-private partnerships in ensuring that women are empowered to play a central role in meeting global targets for climate transition in the agri, food and forestry sector.*Reservations are required for children under 3 years old if they wish to use the seats.",
       "zh-cn": null
     },
     "virtual_url": "",
