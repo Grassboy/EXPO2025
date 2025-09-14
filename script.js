@@ -79,12 +79,14 @@ var attachRank = function() {
         position: 'bottomleft',
         prefix: '' // 移除預設的 attribution
     }).addTo(map);
+    attribution._container.classList.add('custom-attribution')
     // 添加技術協力文字與連結
     attribution.addAttribution('<img src="https://ssl.gstatic.com/docs/spreadsheets/spreadsheets_2023q4.ico" style="width: auto; height: 12px; vertical-align: middle;"/> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2iOPhoVcIdiR4fha8-YV0zbFeKJHwXBD97_FqSuSUdWrLm82dUnsmtvZpxY4qQpe0UYTXMCbhFMaK/pubhtml?fbclid=IwY2xjawJ2nuJleHRuA2FlbQIxMABicmlkETFESUlkSWt0dWFZNzUzUUFLAR6AegBApEHvz8N76TT7bg-AdbbMuXpi9S0MTgardWOyHlDxJiFa_XJf20tVYg_aem_EHqJW0lUFvytpd1KdWWAQA" target="_blank">場館評價協力：Sophy Lin.</a>');
     var attribution2 = L.control.attribution({
         position: 'bottomleft',
         prefix: '' // 移除預設的 attribution
-    }).addTo(map); 
+    }).addTo(map);
+    attribution2._container.classList.add('custom-attribution') 
     attribution2.addAttribution('EXPO2025 大阪萬博地圖 by <a href="https://github.com/Grassboy/EXPO2025" target="_blank"><img src="https://github.githubassets.com/favicons/favicon.png" style="width: auto; height: 12px; vertical-align: middle;"/>小胖子 Grassboy</a>');
 };
 
@@ -122,9 +124,10 @@ map.on('moveend zoomend', () => {
 
 // Set up the OSM layer
 L.tileLayer(
-    'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxNativeZoom: 19, // OSM max available zoom is at 19.
-      maxZoom: 24 // Match the map maxZoom, or leave map.options.maxZoom undefined.
+    'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '<span class="osm-attribution">&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors</span>',
+      maxNativeZoom: 19,
+      maxZoom: 24
     }).addTo(map);
 
 // 設定圖片路徑與圖片對應的地理範圍

@@ -660,3 +660,7 @@ html, body {
     transform: translateX(-50%) translateY(0);
     opacity: 1;
 }
+
+.custom-attribution .osm-attribution {
+    display: none;
+}
