@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-16 14:06:58",
+  "_parse_time": "2025-09-17 07:23:34",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -1878,7 +1878,7 @@
     },
     "event_summary": {
       "en": "Viewing time: 80 mins. • Please arrive on time for your reservation. • If you are late, you will not be able to enter the pavilion. • After entering the pavilion, you will not be able to leave and re-enter. • If the pavilion is closed due to problems with display equipment or inclement weather, you will be asked to make a new reservation. • This tour also includes full Japan Pavilion access. • See the link below for other regulations. Biogas Plant Overview: Microorganisms break down Expo pavilion organic waste into biogas, which is converted to energy. Guides at the plant offer more details.",
-      "ja": "【所要時間：80分】●予約時間内に受付が出来るようお越し下さい●受付時間を過ぎるとご入場出来ません●途中退場できません●荒天時や機器のトラブル等による中止の際は再予約をお願いします●その他詳細ルールは下記リンクからご確認ください【プラントツアー概要】万博会場の生ごみを微生物の力によってメタン発酵させ、発生したバイオガスはガスエンジンを用いて発電し、館内の一部に活用します。プラントを間近で見ながら、処理の流れを説明します。【抽せん対象日】4月19,21,23,26,28,30、5月3-6,21,24,26、6月11,14,16、9月1,2,17,20,22,23、10月8-12",
+      "ja": "【所要時間：80分】●予約時間内に受付が出来るようお越し下さい●受付時間を過ぎるとご入場出来ません●途中退場できません●荒天時や機器のトラブル等による中止の際は再予約をお願いします●その他詳細ルールは下記リンクからご確認ください【プラントツアー概要】万博会場の生ごみを微生物の力によってメタン発酵させ、発生したバイオガスはガスエンジンを用いて発電し、館内の一部に活用します。プラントを間近で見ながら、処理の流れを説明します。\r\n【抽せん対象日】9月11,12,13,17,19,20,22,23、10月3,8-12",
       "zh-tw": "【所需時間（參觀時間）：80分鐘】 ●若預約時間遲到，原則上不可入館。●有可能需要比預約時間多等10分鐘左右。●不可中途退出展館。●有可能因天災或展示設備的故障等，展館臨時休館或更改參觀時間。遇此情況需重新預約。●本遊程附帶館內參觀。●參觀路線因參觀日期而有所變動。●其他詳細資訊請點選下方連結參閱。【發酵塔遊程概要】世博會場館的廚餘垃圾經發酵後生成甲烷，產生的沼氣將被用來發電，並用於日本館的部分區域。專業導遊將在發酵塔旁為大家講解。",
       "fr": "Durée de la visite : 80 minutes. • Arrivez à l’heure pour votre réservation. • En cas de retard, vous ne pourrez pas entrer dans le pavillon. • Toute sortie sera définitive. • Si le pavillon est fermé pour des problèmes liés au matériel d’exposition ou aux intempéries, vous devrez effectuer une nouvelle réservation. • Cette visite inclut l’accès complet au Pavillon Japon. • Voir ci-dessous pour d’autres règlementations. Zone Traitement du biogaz : Les micro-organismes décomposent les déchets organiques du pavillon Expo en biogaz converti en énergie. Les guides proposent plus de détails.",
       "ko": "관람 시간: 80분 • 예약 시간을 준수해 주시기 바랍니다. • 예약에 늦을 경우 전시관에 입장하실 수 없습니다. • 전시관 입장 후에는 퇴장 후 재입장이 불가능합니다. • 전시 장비의 문제 또는 악천후로 인해 전시관의 운영이 중단되는 경우 다시 예약하셔야 합니다. • 관람 시 일본관 전체를 둘러보실 수 있습니다. • 기타 규정은 아래 링크를 참조해 주십시오. 바이오가스 플랜트 소개: 미생물이 엑스포 전시관의 유기 폐기물을 바이오가스로 분해하여 에너지로 사용합니다. 플랜트의 가이드가 자세한 내용을 설명해 드립니다.",
@@ -1889,7 +1889,7 @@
     "lat": 34.64862637249134,
     "lng": 135.3874357044697,
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 80
   },
   "H1HF": {
@@ -1905,7 +1905,7 @@
     },
     "event_summary": {
       "en": "[Reservation requirement: Wheelchair user and one accompanying person only] Viewing time: 80 mins. • Please arrive on time for your reservation. • If you are late, you will not be able to enter the pavilion. • After entering the pavilion, you will not be able to leave and re-enter. • This tour also includes full Japan Pavilion access. • See the link below for other regulations. Biogas Plant Overview: Microorganisms break down Expo pavilion organic waste into biogas, which is converted to energy. Guides at the plant offer more details.",
-      "ja": "【申込条件：車いす利用者のみ　同行者については1名まで一緒にご参加頂けます。】【所要時間：80分】●予約時間内に受付が出来るようお越し下さい●受付時間を過ぎるとご入場出来ません●途中退場できません●荒天時や機器のトラブル等による中止の際は再予約をお願いします●その他詳細ルールは下記リンクからご確認ください【プラントツアー概要】万博会場の生ごみを微生物の力によってメタン発酵させ、発生したバイオガスはガスエンジンを用いて発電し、館内の一部に活用します。プラントを間近で見ながら、処理の流れを説明します。【抽せん対象日】4月19,21,23,26,28,30、5月3-6,21,24,26、6月11,14,16、9月1,2,17,20,22,23、10月8-12",
+      "ja": "【申込条件：車いす利用者のみ　同行者については1名まで一緒にご参加頂けます。】【所要時間：80分】●予約時間内に受付が出来るようお越し下さい●受付時間を過ぎるとご入場出来ません●途中退場できません●荒天時や機器のトラブル等による中止の際は再予約をお願いします●その他詳細ルールは下記リンクからご確認ください【プラントツアー概要】万博会場の生ごみを微生物の力によってメタン発酵させ、発生したバイオガスはガスエンジンを用いて発電し、館内の一部に活用します。プラントを間近で見ながら、処理の流れを説明します。\r\n【抽せん対象日】9月11,12,13,17,19,20,22,23、10月3,8-12",
       "zh-tw": "【預約規定：僅限輪椅人士，陪同人員不超過1名】 【所需時間（參觀時間）：80分鐘】 ●若預約時間遲到，原則上不可入館。●有可能需要比預約時間多等10分鐘左右。●不可中途退出展館。●有可能因天災或展示設備的故障等，展館臨時休館或更改參觀時間。遇此情況需重新預約。●本遊程附帶館內參觀。●參觀路線因參觀日期而有所變動。●其他詳細資訊請點選下方連結參閱。【發酵塔遊程概要】世博會場館的廚餘垃圾經發酵後生成甲烷，產生的沼氣將被用來發電，並用於日本館的部分區域。專業導遊將在發酵塔旁為大家講解。",
       "fr": "[Conditions de réservation: utilisateur PMR et une personne accompagnante uniquement] Durée de la visite : 80 minutes. • Veuillez arriver à l’heure pour votre réservation. • Si vous êtes en retard, vous ne pourrez pas entrer dans le pavillon. • Cette visite comprend également l’accès complet au Pavillon Japon. • Voir ci-dessous pour d’autres règlementations. Zone Traitement du biogaz : Les micro-organismes décomposent les déchets organiques du pavillon Expo en biogaz converti en énergie. Les guides proposent plus de détails.",
       "ko": "[예약 조건: 휠체어 이용자와 동행자 1명만] 관람 시간: 80분 • 예약 시간을 준수해 주시기 바랍니다. • 예약에 늦을 경우 전시관에 입장하실 수 없습니다. • 전시관 입장 후에는 퇴장 후 재입장이 불가능합니다. • 관람 시 일본관 전체를 둘러보실 수 있습니다. • 기타 규정은 아래 링크를 참조해 주십시오. 바이오가스 플랜트 소개: 미생물이 엑스포 전시관의 유기 폐기물을 바이오가스로 분해하여 에너지로 사용합니다. 플랜트의 가이드가 자세한 내용을 설명해 드립니다.",
@@ -1916,7 +1916,7 @@
     "lat": 34.64842888778767,
     "lng": 135.3873632848263,
     "chairman": true,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 80
   },
   "H7H3": {
@@ -2100,7 +2100,7 @@
     "lng": 135.37426203489306,
     "short_name": "萬博桑拿-女",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "Q013": {
     "id": 1233,
@@ -2127,7 +2127,7 @@
     "lng": 135.37451877520377,
     "short_name": "萬博桑拿-混",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T11R": {
     "id": 3242,
@@ -2254,7 +2254,7 @@
     "lng": 135.3743800520897,
     "short_name": "萬博桑拿-男",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "SI06": {
     "id": 1264,
@@ -7770,7 +7770,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "U07X": {
     "id": 7347,
@@ -7950,7 +7950,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1OY": {
     "id": 6801,
@@ -8151,7 +8151,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "CQ70": {
     "id": 45405,
@@ -8392,6 +8392,87 @@
     "event_summary": {
       "en": "【Date: September 16th】【13:30-19:30 (OPEN13:00)】【Summary】Women’s Pavilion.In a global world, it is essential to reaffirm that childbirth and childcare, which are the greatest achievements that humankind can accomplish, contribute to the next generation.Through the experience and knowledge of mothers and people involved in childcare from all over the world, we will widely share the success of women in particular, regarding their creativity, knowledge, and strength, as well as hold a panel discussion to discuss the opportunities available for the future.  *Reservations are required for children under 3 years old if they wish to use the seats.",
       "ja": "【開催日：9月16日】【13:30-19:30 (OPEN13:00)】【概要】ウーマンズパビリオン。人類が成しえる最大の偉業である出産、そして育児は地球の次世代に貢献していることを再認識することがグローバルな世界で必要不可欠です。世界各国の母親や育児に携わる人々の経験や知識を通して、特に女性の創造性、知識、たくましさなどの活躍状況を広く共有すると共に、パネルディスカッションを行い、希望のある未来に繋がる日々が送れることを来場者と話し合います。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
+    "chairman": false,
+    "is_today": false
+  },
+  "T70R": {
+    "id": 5936,
+    "event_code": "T70R",
+    "event_name": {
+      "en": "“algerian renewable energy and hydrogen startegy” Clean hydrogen is a cean fuel in heavy transport",
+      "ja": "「アルジェリアの再生可能エネルギーと水素開発」クリーンな水素は、重輸送および産業部門における重要な燃",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The Future of Earth and Biodiversity】【Date:September 17th】【10:30-12:30 (OPEN10:00)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website.【Summary】'Renewable energy and hydrogen society' Experts will present the main axes of the national strategy for the development of hydrogen and will give the visibility regarding the policies...(People's Democratic Republic of Algeria） *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・地球の未来と生物多様性】【開催日:9月17日】【10:30-12:30 (OPEN10:00)】【開催場所:テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】再生可能エネルギーから生産されるクリーンな水素は、再生可能エネルギーの大規模開発の今後のあり方を示しています。特に、太陽光や風力などの自然エネルギーは、発電量が不安定な性質を持っていますが、水素に変換することで余剰電力を貯蔵する手段として最適であり...（アルジェリア民主人民共和国）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66ed3f2b0c97f.html",
+    "lat": 34.652520807124446,
+    "lng": 135.38274586200717,
+    "short_name": "Theme Weeks Studio",
+    "chairman": false,
+    "is_today": true
+  },
+  "T70U": {
+    "id": 5937,
+    "event_code": "T70U",
+    "event_name": {
+      "en": "ICT Technologies to Preserve the Earth for Future Generations",
+      "ja": "未来世代のために、地球を保存する技術としてのICT技術",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The Future of Earth and Biodiversity】【Date:September 17th】【14:30-16:30 (OPEN13:30)】【Venue:Theme Weeks Studio】【notice】Start time changed from 14:30 to 14:00.*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website.【Summary】We will hold a panel discussion with ICT experts to explore the potential of ICT (information and communications technology) as an essential tool for preserving the global environment and realising a better society for future generations....(Republic of Korea) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・地球の未来と生物多様性】【開催日:9月17日】【14:30-16:30 (OPEN13:30)】【開催場所:テーマウィークスタジオ】【注意事項】開始は14:30から14:00に変更されました。＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】今後の世代のために、地球環境を保存し、より良い社会を実現するために不可欠なICT（情報通信）技術の可能性について、ICTの専門家を講演者に迎えてパネルディスカッションを行います。（大韓民国）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/68a420feeccbd.html",
+    "lat": 34.652233971155,
+    "lng": 135.38285449147224,
+    "short_name": "Theme Weeks Studio",
+    "chairman": false,
+    "is_today": true
+  },
+  "U05C": {
+    "id": 6820,
+    "event_code": "U05C",
+    "event_name": {
+      "en": "WA Space<Canada Presents: RegenHERation>",
+      "ja": "WAスペース カナダ・プレゼンツ：輝き続ける女性たち",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: September 17th】【12:00-14:30 (OPEN11:30)】【Summary】Women’s Pavilion.At Expo 2025 Osaka Kansai, Canada will present a monthly series of events at the Women's Pavilion in collaboration with Cartier. Titled 'RegenHERation' (which draws from the Canada Pavilion theme of 'Regeneration'), the series will seek to celebrate progress made in advancing gender equality globally, and inspire the current and future generations who are moving society forward. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：9月17日】【12:00-14:30 (OPEN11:30)】【概要】ウーマンズパビリオン。2025大阪・関西万博に出展されるウーマンズ パビリオン in collaboration with Cartier  で、カナダは毎月シリーズとしてイベントをお届けします。シリーズのタイトルは、「輝き続ける女性たち」。カナダパビリオンのテーマである「再生」に関連付けたこのタイトルの下、ジェンダー平等の実現に向けたこれまでの世界の進歩を称え、これからの社会の発展を担う現在と未来の世代にインスピレーションをもたらすことを目標としています。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
