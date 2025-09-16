@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-15 07:22:48",
+  "_parse_time": "2025-09-16 07:45:31",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -2281,7 +2281,7 @@
     "lng": 135.38230597972873,
     "short_name": "瓦斯館甲烷示範",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 40
   },
   "SI09": {
@@ -2309,7 +2309,7 @@
     "lng": 135.3822602556547,
     "short_name": "瓦斯館甲烷示範♿",
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 40
   },
   "T11O": {
@@ -6340,7 +6340,7 @@
     "lng": 135.38743972778323,
     "short_name": "電力館(兒童)",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 45
   },
   "M1L1": {
@@ -7770,7 +7770,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U07X": {
     "id": 7347,
@@ -7950,7 +7950,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "M1OY": {
     "id": 6801,
@@ -8226,7 +8226,7 @@
     "virtual_url": null,
     "portal_url": null,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "N0K4": {
     "id": 10042,
@@ -8250,7 +8250,7 @@
     "virtual_url": null,
     "portal_url": null,
     "chairman": true,
-    "is_today": true
+    "is_today": false
   },
   "QE04": {
     "id": 32255,
@@ -8274,7 +8274,7 @@
     "virtual_url": null,
     "portal_url": "https://www.expovisitors.expo2025.or.jp/events/f03f5470-a99b-49d3-ae9e-ca4de95a82fe",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "QE07": {
     "id": 32256,
@@ -8298,7 +8298,7 @@
     "virtual_url": null,
     "portal_url": "https://www.expovisitors.expo2025.or.jp/events/f03f5470-a99b-49d3-ae9e-ca4de95a82fe",
     "chairman": true,
-    "is_today": true
+    "is_today": false
   },
   "QH01": {
     "id": 6812,
@@ -8349,7 +8349,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U056": {
     "id": 6818,
@@ -8368,6 +8368,33 @@
       "zh-tw": null,
       "fr": "【Date: September 15th】【11:30-14:30 (OPEN11:00)】【Summary】Women’s Pavilion. PISAgro and Grow Asia will co-host a half-day interactive multi-stakeholder Roundtable featuring international keynote speakers and a high-level panel session.  The event will convene leading experts from the public and private sector to discuss the vital role of public-private partnerships in ensuring that women are empowered to play a central role in meeting global targets for climate transition in the agri, food and forestry sector.  *Reservations are required for children under 3 years old if they wish to use the seats.",
       "ko": "【Date: September 15th】【11:30-14:30 (OPEN11:00)】【Summary】Women’s Pavilion. PISAgro and Grow Asia will co-host a half-day interactive multi-stakeholder Roundtable featuring international keynote speakers and a high-level panel session.  The event will convene leading experts from the public and private sector to discuss the vital role of public-private partnerships in ensuring that women are empowered to play a central role in meeting global targets for climate transition in the agri, food and forestry sector.*Reservations are required for children under 3 years old if they wish to use the seats.",
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
+    "chairman": false,
+    "is_today": false
+  },
+  "U059": {
+    "id": 6819,
+    "event_code": "U059",
+    "event_name": {
+      "en": "WA Space<Global Parenting Summit>",
+      "ja": "WAスペース 世界子育てサミット",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: September 16th】【13:30-19:30 (OPEN13:00)】【Summary】Women’s Pavilion.In a global world, it is essential to reaffirm that childbirth and childcare, which are the greatest achievements that humankind can accomplish, contribute to the next generation.Through the experience and knowledge of mothers and people involved in childcare from all over the world, we will widely share the success of women in particular, regarding their creativity, knowledge, and strength, as well as hold a panel discussion to discuss the opportunities available for the future.  *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：9月16日】【13:30-19:30 (OPEN13:00)】【概要】ウーマンズパビリオン。人類が成しえる最大の偉業である出産、そして育児は地球の次世代に貢献していることを再認識することがグローバルな世界で必要不可欠です。世界各国の母親や育児に携わる人々の経験や知識を通して、特に女性の創造性、知識、たくましさなどの活躍状況を広く共有すると共に、パネルディスカッションを行い、希望のある未来に繋がる日々が送れることを来場者と話し合います。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
       "zh-cn": null
     },
     "virtual_url": "",
