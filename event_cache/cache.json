@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-17 07:23:34",
+  "_parse_time": "2025-09-19 11:30:59",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -2100,7 +2100,7 @@
     "lng": 135.37426203489306,
     "short_name": "萬博桑拿-女",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "Q013": {
     "id": 1233,
@@ -2127,7 +2127,7 @@
     "lng": 135.37451877520377,
     "short_name": "萬博桑拿-混",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "T11R": {
     "id": 3242,
@@ -2254,7 +2254,7 @@
     "lng": 135.3743800520897,
     "short_name": "萬博桑拿-男",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "SI06": {
     "id": 1264,
@@ -8151,14 +8151,14 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "CQ70": {
     "id": 45405,
     "event_code": "CQ70",
     "event_name": {
       "en": "Czech Cultural Program",
-      "ja": "チェコ文化プログラム",
+      "ja": "チェコ文化プログラム※開始時間の20分前集合、予約開始時間が演奏開始時間、途中入場不可、年齢に関わらず全員予約が必要",
       "zh-tw": "捷克文化項目",
       "fr": "Programme culturel tchèque",
       "ko": "체코 문화 프로그램",
@@ -8166,7 +8166,7 @@
     },
     "event_summary": {
       "en": "Czech Pavilion's cultural program for Expo 2025 features a broad range of performances, including classical music, dance, and contemporary art, with a focus on showcasing Czech talent and connecting it with Japanese culture.",
-      "ja": "チェコ館の文化プログラムは、クラシック音楽、舞踊、現代アートなど幅広い公演を展開し、チェコの才能を紹介するとともに、日本文化とのつながりを重視しております。",
+      "ja": "チェコ館の文化プログラムは、クラシック音楽、舞踊、現代アートなど幅広い公演を展開し、チェコの才能を紹介するとともに、日本文化とのつながりを重視しております。※開始時間の20分前集合、予約開始時間が演奏開始時間、途中入場不可、年齢に関わらず全員予約が必要",
       "zh-tw": null,
       "fr": null,
       "ko": null,
@@ -8322,7 +8322,7 @@
     "virtual_url": null,
     "portal_url": null,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "S04F": {
     "id": 15579,
@@ -8430,7 +8430,7 @@
     "lng": 135.38274586200717,
     "short_name": "Theme Weeks Studio",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T70U": {
     "id": 5937,
@@ -8457,7 +8457,7 @@
     "lng": 135.38285449147224,
     "short_name": "Theme Weeks Studio",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U05C": {
     "id": 6820,
@@ -8483,6 +8483,162 @@
     "lat": 34.648940035891734,
     "lng": 135.38833651412097,
     "short_name": "WA Space",
+    "chairman": false,
+    "is_today": false
+  },
+  "M20P": {
+    "id": 30646,
+    "event_code": "M20P",
+    "event_name": {
+      "en": "UAE DAY AT EXPO 2025 OSAKA　General seats",
+      "ja": "アラブ首長国連邦ナショナルデー　一般席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "General seats \nThe UAE Day at Expo serves as the symbolic pinnacle of our journey - a moment when surface layers of technological achievement are stripped away to reveal the deeper foundation of our progress: community bonds, storytelling traditions, and ancestral knowledge that have guided us through rapid change. Rooted in shared values with Japan and inspired by Expo’s theme of Designing Future for Our Lives, the day is a celebration of UAE’s unique ability to bridge cultures, ideas, and innovation towards solutions that empower lives, from Earth to Ether.",
+      "ja": "一般席\r\n2025年大阪・関西万博におけるUAEの日は、パビリオンの旅路における感情的かつ象徴的な頂点として位置づけられます。私たちは国家の回復力と成功を定義する価値観、伝統、文化遺産を祝します。これは、技術的成果という表面的な層を剥ぎ取り、私たちの進歩のより深い基盤を明らかにする瞬間です。急速な変化の中で私たちを導いてきたコミュニティの絆、語り継がれる伝統、祖先からの知恵なのです。\r\n日本との共通の価値観に根ざし、万博のテーマにインスパイアされたこの日は、文化、アイデア、イノベーションを結集するUAEの独特な能力を祝う日です。大地から天空へ、人々の生活を豊かにするソリューションを推進しています。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": true
+  },
+  "M20S": {
+    "id": 30647,
+    "event_code": "M20S",
+    "event_name": {
+      "en": "UAE DAY AT EXPO 2025 OSAKA　Wheelchair Accessible Seats",
+      "ja": "アラブ首長国連邦ナショナルデー　車いす席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Wheelchair Accessible Seats\nThe UAE Day at Expo serves as the symbolic pinnacle of our journey - a moment when surface layers of technological achievement are stripped away to reveal the deeper foundation of our progress: community bonds, storytelling traditions, and ancestral knowledge that have guided us through rapid change. Rooted in shared values with Japan and inspired by Expo’s theme of Designing Future for Our Lives, the day is a celebration of UAE’s unique ability to bridge cultures, ideas, and innovation towards solutions that empower lives, from Earth to Ether.",
+      "ja": "車いす席\r\n2025年大阪・関西万博におけるUAEの日は、パビリオンの旅路における感情的かつ象徴的な頂点として位置づけられます。私たちは国家の回復力と成功を定義する価値観、伝統、文化遺産を祝します。これは、技術的成果という表面的な層を剥ぎ取り、私たちの進歩のより深い基盤を明らかにする瞬間です。急速な変化の中で私たちを導いてきたコミュニティの絆、語り継がれる伝統、祖先からの知恵なのです。\r\n日本との共通の価値観に根ざし、万博のテーマにインスパイアされたこの日は、文化、アイデア、イノベーションを結集するUAEの独特な能力を祝う日です。大地から天空へ、人々の生活を豊かにするソリューションを推進しています。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": true
+  },
+  "S049": {
+    "id": 15564,
+    "event_code": "S049",
+    "event_name": {
+      "en": "[Junior SDGs Camp] Osaka-Kansai Expo ESD Program (Indonesia ver)",
+      "ja": "【ジュニアSDGsキャンプ】大阪・関西万博ESDプログラム（インドネシア編）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "*This event will be held at Junior SDGs Camp. [Dates: Sep 18th, 19th][Time: 15:00-16:00][Target age] Upper elementary to high school students [Summary] Inviting an Indonesian presenter to share insights on Indonesia, including an overview of the country, waste disposal issues, current status of resource circulation, and future initiatives. The program will also compare these topics with Japan and have discussions on what participants can do themselves. It will be basically conducted in Japanese, though some segments may include English expressions. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "※本イベントの実施場所はインドネシアパビリオンではなく「ジュニアSDGsキャンプ」です。【開催日：9月18日、19日】【11:00-12:00, 13:00-14:00, 15:00-16:00】【対象学年】小学校高学年から中学生・高校生向け【概要】ESD国際交流プログラム「インドネシア編」のご案内：当日は、インドネシア人プレゼンターをお招きし、インドネシアの概要、廃棄物処理問題、資源循環の現状、そして今後の取り組みについてお話しいただきます。また、日本との比較を通して自分たちにできることを考え、ディスカッションを行います。進行は基本的に日本語で行われますが、一部英語表現が含まれる場合がありますのでご了承ください。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.651883147350695,
+    "lng": 135.37559777498245,
+    "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": true
+  },
+  "T70I": {
+    "id": 5933,
+    "event_code": "T70I",
+    "event_name": {
+      "en": "Preserving natural capital Agenda2025 Organised Programme",
+      "ja": "自然資本の維持 アジェンダ2025 主催プログラム",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The Future of Earth and Biodiversity】【Date:September 19th】【10:00-12:00 (OPEN9:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】The programme, together with the General Sponsors, explores: 'What additional perspectives should be added to the global discussion on biodiversity beyond 2030?'(Japan Association for the 2025 World Exposition) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・地球の未来と生物多様性】【開催日：9月19日】【10:00-12:00 (OPEN9:30)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】本プログラムは、テーマウィーク全体協賛者と連携して協会が企画・実施する「アジェンダ2025」の一つです。「「いのち」 の豊かさ(生物多様性)を巡る国際的な議論に、2030年以降を見据え、加えるべき視点/要素は何か」という…（２０２５年日本国際博覧会協会）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2e124b0fca.html",
+    "lat": 34.652520807124446,
+    "lng": 135.38274586200717,
+    "short_name": "Theme Weeks Studio",
+    "chairman": false,
+    "is_today": true
+  },
+  "T70L": {
+    "id": 5934,
+    "event_code": "T70L",
+    "event_name": {
+      "en": "Achieving a circular economy Agenda2025 Organised Programme",
+      "ja": "循環経済の実現 アジェンダ2025 主催プログラム",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The Future of Earth and Biodiversity】【Date:September 19th】【13:30-15:30 (OPEN13:00)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】The programme, together with the General Sponsors, explores: 'Is it possible to pursue a prosperous future by the concept of a 'circular economy' as a means to balance the economy, well-being, and sustainability?'(Japan Association for the 2025 World Exposition) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・地球の未来と生物多様性】【開催日：9月19日】【13:30-15:30 (OPEN13:00)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】本プログラムは、テーマウィーク全体協賛者と連携して協会が企画・実施する「アジェンダ2025」の一つです。「経済・Well-being・サステナビリティなどのバランスを取りながら豊かな未来を追求するために、”循環経済”の実現を手段とすることは可能か」という…（２０２５年日本国際博覧会協会）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2e1fe79a37.html",
+    "lat": 34.652233971155,
+    "lng": 135.38285449147224,
+    "short_name": "Theme Weeks Studio",
+    "chairman": false,
+    "is_today": true
+  },
+  "T70O": {
+    "id": 5935,
+    "event_code": "T70O",
+    "event_name": {
+      "en": "Tackling climate change Agenda2025 Organised Programme",
+      "ja": "気候変動への対応 アジェンダ2025 主催プログラム",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・The Future of Earth and Biodiversity】【Date:September 19th】【17:00-19:00 (OPEN16:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】The programme, together with the General Sponsors, explores: 'In 2025, with worsening climate change, what agendas should we now consider?'(Japan Association for the 2025 World Exposition) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・地球の未来と生物多様性】【開催日：9月19日】【17:00-19:00 (OPEN16:30)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】本プログラムは、テーマウィーク全体協賛者と連携して協会が企画・実施する「アジェンダ2025」の一つです。「2025年現在、気候変動が顕在化してきていると言われる中、改めて、今私たちが考えるべきアジェンダは何か」という…（２０２５年日本国際博覧会協会）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2e3add921a.html",
+    "lat": 34.65225162262793,
+    "lng": 135.38307040929797,
+    "short_name": "Theme Weeks Studio",
     "chairman": false,
     "is_today": true
   }
