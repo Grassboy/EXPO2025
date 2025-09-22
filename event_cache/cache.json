@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-19 11:30:59",
+  "_parse_time": "2025-09-22 15:21:07",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -78,7 +78,7 @@
     "lat": 34.64804756998308,
     "lng": 135.3859164420795,
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 15
   },
   "CFR0": {
@@ -2281,7 +2281,7 @@
     "lng": 135.38230597972873,
     "short_name": "瓦斯館甲烷示範",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 40
   },
   "SI09": {
@@ -2309,7 +2309,7 @@
     "lng": 135.3822602556547,
     "short_name": "瓦斯館甲烷示範♿",
     "chairman": true,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 40
   },
   "T11O": {
@@ -7770,7 +7770,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "U07X": {
     "id": 7347,
@@ -7950,7 +7950,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "M1OY": {
     "id": 6801,
@@ -8508,7 +8508,7 @@
     "virtual_url": null,
     "portal_url": null,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M20S": {
     "id": 30647,
@@ -8532,7 +8532,7 @@
     "virtual_url": null,
     "portal_url": null,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "S049": {
     "id": 15564,
@@ -8559,7 +8559,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T70I": {
     "id": 5933,
@@ -8586,7 +8586,7 @@
     "lng": 135.38274586200717,
     "short_name": "Theme Weeks Studio",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T70L": {
     "id": 5934,
@@ -8613,7 +8613,7 @@
     "lng": 135.38285449147224,
     "short_name": "Theme Weeks Studio",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T70O": {
     "id": 5935,
@@ -8640,6 +8640,31 @@
     "lng": 135.38307040929797,
     "short_name": "Theme Weeks Studio",
     "chairman": false,
-    "is_today": true
+    "is_today": false
+  },
+  "II09": {
+    "id": 35,
+    "event_code": "II09",
+    "event_name": {
+      "en": "Signature Pavilion KAWAMORI Shoji”Live Earth Journey” ANIMA! without floor vibration",
+      "ja": "シグネチャーパビリオン 河森正治 「いのちめぐる冒険」 ANIMA! 床振動演出なし",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Duration: Approximately 30 minutes】【Meeting Time: Reservation time】ANIMA!｜A musical of life where music, visuals, and vibrations synchronize in a way that you can feel throughout your body.*Floor vibrations are not included in this course.*You will be able to view all exhibits except for “ Deep Vision” .-If you are late for your reservation time, you will not be able to participate in the experience.-There are safety precautions for this course. Please be sure to check the following 'Click here for details ' before making your reservation. ",
+      "ja": "【所要時間：約30分】【集合時間：ご予約時間】以下の体験コースです。ANIMA!｜音楽と映像と振動がシンクロする全身で感じるいのちのミュージカル※本コースでは床振動はご体験いただけません。※超時空シアターを除く全ての展示をご覧いただけます。・ご予約時間に遅れた方はご体験いただけません。・このコースでは、安全のために一定の利用制限を設けております。以下の「詳しくはこちら」を必ずご確認の上、ご予約ください。　",
+      "zh-tw": "【Duration: Approximately 30 minutes】【Meeting Time: Reservation time】ANIMA!｜A musical of life where music, visuals, and vibrations synchronize in a way that you can feel throughout your body.*Floor vibrations are not included in this course.*You will be able to view all exhibits except for “ Deep Vision” .-If you are late for your reservation time, you will not be able to participate in the experience.-There are safety precautions for this course. Please be sure to check the following '點此了解詳情' before making your reservation. ",
+      "fr": "【Duration: Approximately 30 minutes】【Meeting Time: Reservation time】ANIMA!｜A musical of life where music, visuals, and vibrations synchronize in a way that you can feel throughout your body.*Floor vibrations are not included in this course.*You will be able to view all exhibits except for “ Deep Vision” .-If you are late for your reservation time, you will not be able to participate in the experience.-There are safety precautions for this course. Please be sure to check the following 'Cliquez ici pour plus de détails' before making your reservation. ",
+      "ko": "【Duration: Approximately 30 minutes】【Meeting Time: Reservation time】ANIMA!｜A musical of life where music, visuals, and vibrations synchronize in a way that you can feel throughout your body.*Floor vibrations are not included in this course.*You will be able to view all exhibits except for “ Deep Vision” .-If you are late for your reservation time, you will not be able to participate in the experience.-There are safety precautions for this course. Please be sure to check the following '자세한것은이쪽' before making your reservation. ",
+      "zh-cn": "【Duration: Approximately 30 minutes】【Meeting Time: Reservation time】ANIMA!｜A musical of life where music, visuals, and vibrations synchronize in a way that you can feel throughout your body.*Floor vibrations are not included in this course.*You will be able to view all exhibits except for “ Deep Vision” .-If you are late for your reservation time, you will not be able to participate in the experience.-There are safety precautions for this course. Please be sure to check the following '点击此处了解详情' before making your reservation. "
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-106271",
+    "portal_url": "https://shojikawamori.jp/expo2025/attention/#course04",
+    "chairman": false,
+    "is_today": true,
+    "cost_time": 30
   }
 }
