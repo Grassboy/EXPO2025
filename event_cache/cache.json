@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-26 07:25:27",
+  "_parse_time": "2025-09-30 01:34:08",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -1889,7 +1889,7 @@
     "lat": 34.64862637249134,
     "lng": 135.3874357044697,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 80
   },
   "H1HF": {
@@ -1916,7 +1916,7 @@
     "lat": 34.64842888778767,
     "lng": 135.3873632848263,
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 80
   },
   "H7H3": {
@@ -2281,7 +2281,7 @@
     "lng": 135.38230597972873,
     "short_name": "瓦斯館甲烷示範",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 40
   },
   "SI09": {
@@ -2309,7 +2309,7 @@
     "lng": 135.3822602556547,
     "short_name": "瓦斯館甲烷示範♿",
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 40
   },
   "T11O": {
@@ -7950,7 +7950,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1OY": {
     "id": 6801,
@@ -8663,6 +8663,106 @@
     },
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-106271",
     "portal_url": "https://shojikawamori.jp/expo2025/attention/#course04",
+    "chairman": false,
+    "is_today": false,
+    "cost_time": 30
+  },
+  "M21A": {
+    "id": 37663,
+    "event_code": "M21A",
+    "event_name": {
+      "en": "SF Kyogen “Mono no Aware” –　Japanese Traditional Theatre “Kyogen” Reimagined in Sci-Fi 1st Floor Sea",
+      "ja": "SF狂言「もののあはれ」1階席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Admission: until 30 minutes before start] / [Wheelchair users must reserve in designated wheelchair blocks] / [children under 6 will not be admitted.]\n[Cast /Artists] Miyake Tōkurō tenth, Yuima Nakazato, Etsuko Yakushimaru and others\n[Overview]\nA new Kyogen (Japanese traditional theatre) play inspired by Mono no Aware, a short SF story by American author Ken Liu, winner of the Hugo, Nebula, and World Fantasy Awards. Crossing the frontiers of art, science, performance, and technology, this work reexamines the meaning of Japanese tradition and pursues innovation in expression.",
+      "ja": "【来場：開始30分前まで】/【車いすでの参加は車いす用ブロックで予約必要】【未就学児（6歳未満）入場はご遠慮ください】【出演者・参加作家】十世三宅藤九郎、ユイマ・ナカザト、やくしまるえつこ、藤本隆行、Konel他　【概要】世界三大SF文学賞を制したアメリカの小説家ケン・リュウの短編「もののあはれ」から翻案した新作狂言。人間国宝の名跡を継ぐ女性の狂言師・十世三宅藤九郎、装束をユイマ・ナカザト、照明はダムタイプの藤本隆行など、芸術・科学・芸能・技術の最前線を横断し、日本の伝統の意味を問い直し、表現の革新に挑みます。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": true
+  },
+  "M21D": {
+    "id": 37664,
+    "event_code": "M21D",
+    "event_name": {
+      "en": "SF Kyogen “Mono no Aware” –　Japanese Traditional Theatre “Kyogen” Reimagined in Sci-Fi Wheelchair Se",
+      "ja": "SF狂言「もののあはれ」車いす席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Admission: until 30 minutes before start] / [Wheelchair users must reserve in designated wheelchair blocks] / [children under 6 will not be admitted.]\n[Cast /Artists] Miyake Tōkurō tenth, Yuima Nakazato, Etsuko Yakushimaru and others\n[Overview]\nA new Kyogen (Japanese traditional theatre) play inspired by Mono no Aware, a short SF story by American author Ken Liu, winner of the Hugo, Nebula, and World Fantasy Awards. Crossing the frontiers of art, science, performance, and technology, this work reexamines the meaning of Japanese tradition and pursues innovation in expression.",
+      "ja": "【来場：開始30分前まで】/【車いすでの参加は車いす用ブロックで予約必要】【未就学児（6歳未満）入場はご遠慮ください】【出演者・参加作家】十世三宅藤九郎、ユイマ・ナカザト、やくしまるえつこ、藤本隆行、Konel他　【概要】世界三大SF文学賞を制したアメリカの小説家ケン・リュウの短編「もののあはれ」から翻案した新作狂言。人間国宝の名跡を継ぐ女性の狂言師・十世三宅藤九郎、装束をユイマ・ナカザト、照明はダムタイプの藤本隆行など、芸術・科学・芸能・技術の最前線を横断し、日本の伝統の意味を問い直し、表現の革新に挑みます。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": true,
+    "is_today": true
+  },
+  "T81C": {
+    "id": 25686,
+    "event_code": "T81C",
+    "event_name": {
+      "en": "NIKKEI FORUM GDS 2025 in  Osaka-Kansai Expo 2025",
+      "ja": "NIKKEI FORUM GDS 2025 in 大阪・関西万博",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:September 30th】【13:00-16:00 (OPEN12:30)】【Venue:Theme Weeks Studio】【notice】*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】In line with GDS’ aim of “exploring societal enrichment from advancing technology”, Nikkei Inc.  plan to hold a symposium discussing these themes, including the contributions technology can make to solving societal issues.（NIKKEI） *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・SDGs+Beyond いのち輝く未来社会】【開催日：9月30日】【13:00-16:00 (OPEN12:30)】【開催場所:テーマウィークスタジオ】【注意事項】＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】日本経済新聞社は、「人間社会を豊かにするテクノロジーの在り方とは何か、考え伝えていく。」のGDSパーパスに沿った、テクノロジーが社会課題解決に貢献できるかを議論できるシンポジウム「GDS in万博」（仮称）を開催予定です。（日本経済新聞社）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/",
+    "lat": 34.652520807124446,
+    "lng": 135.38274586200717,
+    "short_name": "Theme Weeks Studio",
+    "chairman": false,
+    "is_today": true
+  },
+  "V003": {
+    "id": 25687,
+    "event_code": "V003",
+    "event_name": {
+      "en": "Mobility Experience ANA/Joby Electric Air Taxi \"Joby S4\" Special Exhibition (Arrival: 10min prior)",
+      "ja": "モビリティエクスペリエンス　ANA/Joby 空飛ぶクルマ機体 'Joby S4' 特別公開　※予約時間10分前集合",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Duration: 30min】[Arrival: 10min prior]\nCome see the real eVTOL aircraft \"Joby S4\" at the west venue [Mobility Experience].\nANA Holdings and Joby Aviation will bring the urban air taxi service across Japan.\nThis is your exclusive chance to get up-close with this cutting-edge aircraft. Capture a photo with the future of travel!\n【Notes】\n･Photo ID will be checked upon entry.\n･This is not the \"Advanced Air Mobility(AAM) Station\".\n･Leaving during the program is not permitted, except in emergencies.\n･Reservations are not required for children ages 3 and under.",
+      "ja": "【所要時間30分】※予約時間10分前集合。万博の空を飛んでいる機体を[会場西側モビリティエクスペリエンス]にて、特別に公開します。ANAホールディングスとJoby Aviationが実現を目指す、都市型エアタクシーサービス。万博で実際にデモフライトを行う機体（空飛ぶクルマ）を間近で見られるほか、記念撮影もしていただけます。この特別な機会に、次世代の空の移動手段をご体感ください。※空飛ぶクルマステーションではございません。※ご入場の際、本人確認を行います。※緊急の場合を除き、プログラム開始後の途中退出はご遠慮いただいております。※3歳以下はご予約不要でご入場いただけます。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
     "chairman": false,
     "is_today": true,
     "cost_time": 30
