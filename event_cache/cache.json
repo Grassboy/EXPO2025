@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-09-30 01:34:08",
+  "_parse_time": "2025-10-01 10:19:52",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -2100,7 +2100,7 @@
     "lng": 135.37426203489306,
     "short_name": "萬博桑拿-女",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "Q013": {
     "id": 1233,
@@ -2127,7 +2127,7 @@
     "lng": 135.37451877520377,
     "short_name": "萬博桑拿-混",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T11R": {
     "id": 3242,
@@ -2254,7 +2254,7 @@
     "lng": 135.3743800520897,
     "short_name": "萬博桑拿-男",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "SI06": {
     "id": 1264,
@@ -8740,7 +8740,7 @@
     "lng": 135.38274586200717,
     "short_name": "Theme Weeks Studio",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "V003": {
     "id": 25687,
@@ -8766,5 +8766,59 @@
     "chairman": false,
     "is_today": true,
     "cost_time": 30
+  },
+  "S05F": {
+    "id": 25701,
+    "event_code": "S05F",
+    "event_name": {
+      "en": "[Junior SDGs Camp] Osaka-Kansai Expo ESD Program (Netherlands ver)",
+      "ja": "【ジュニアSDGsキャンプ】大阪・関西万博ESDプログラム（オランダ編）",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "*This event will be held at Junior SDGs Camp. [Date: October 1st][Time: 15:00-16:00][Target age] Middle and High School Students [Overview] Through presentations by Dutch students, let's learn about the education and culture of the Netherlands, which is said that 'the happiest country for children in the world,' and think together about the differences between Japan and the Netherlands from the perspective of the SDGs! *The main target audience is junior high school to high school students. Elementary school children are also welcome. *This program will be conducted in English. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "※本イベントの実施場所はオランダパビリオンではなく「ジュニアSDGsキャンプ」です。【開催日：10月1日】【15:00-16:00】【対象学年】中学生・高校生向け【概要】オランダ人留学生によるプレゼンテーションで、「子供が世界一幸福な国」と言われるオランダの教育や文化等を知るとともに、SDGｓの観点で日本との違いやその理由について一緒に考えましょう！※主な対象者は中学生から高校生までですが、小学校のお子様も入場可能です。※当プログラムは英語での実施となります。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.651883147350695,
+    "lng": 135.37559777498245,
+    "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": true
+  },
+  "S05O": {
+    "id": 25704,
+    "event_code": "S05O",
+    "event_name": {
+      "en": "[Junior SDGs Camp] EXPO Site Tour (*Please check the departure point with Visitors App)",
+      "ja": "【ジュニアSDGsキャンプ】会場内ツアー(必ず出発場所をVisitorsでご確認ください)",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Summary] This tour takes you around the cutting-edge spots within the Expo site, with a focus on the themes of SDGs and architecture. [Recommended age] Middle and High School Students [Tour theme and departure point] October 1st-5th: What material is it made of? Unique building materials discovery tour(depart from Junior SDGs Camp) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【概要】SDGs、建築をテーマに、万博会場内の先進的なスポットを巡るツアーです。【対象学年】中学生・高校生向け【ツアーテーマ・出発地点】10/1-5: どんな素材でできている？ユニークな建築素材発見ツアー(ジュニアSDGsキャンプ前出発)　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.65175737996498,
+    "lng": 135.37550389766696,
+    "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": true
   }
 }
