@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-10-01 10:19:52",
+  "_parse_time": "2025-10-02 15:56:35",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -217,7 +217,7 @@
     "lng": 135.38824036717415,
     "short_name": "女人館",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 30
   },
   "H7H0": {
@@ -2100,7 +2100,7 @@
     "lng": 135.37426203489306,
     "short_name": "萬博桑拿-女",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "Q013": {
     "id": 1233,
@@ -2127,7 +2127,7 @@
     "lng": 135.37451877520377,
     "short_name": "萬博桑拿-混",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "T11R": {
     "id": 3242,
@@ -2254,7 +2254,7 @@
     "lng": 135.3743800520897,
     "short_name": "萬博桑拿-男",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "SI06": {
     "id": 1264,
@@ -8689,7 +8689,7 @@
     "virtual_url": null,
     "portal_url": null,
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M21D": {
     "id": 37664,
@@ -8713,7 +8713,7 @@
     "virtual_url": null,
     "portal_url": null,
     "chairman": true,
-    "is_today": true
+    "is_today": false
   },
   "T81C": {
     "id": 25686,
@@ -8792,7 +8792,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "S05O": {
     "id": 25704,
@@ -8818,6 +8818,111 @@
     "lat": 34.65175737996498,
     "lng": 135.37550389766696,
     "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": true
+  },
+  "O00Y": {
+    "id": 37665,
+    "event_code": "O00Y",
+    "event_name": {
+      "en": "The power of Intellectual Propertybuilds tomorrow Guide tour",
+      "ja": "明日を変える知財のチカラ　ガイドツアー",
+      "zh-tw": "智慧財產的力量創造未來 – 導覽行程",
+      "fr": "La puissance de la propriété intellectuelle construit demain – Visite guidée",
+      "ko": "지식재산의 힘이 내일을 만듭니다 – 가이드 투어",
+      "zh-cn": "知识产权的力量创造未来 – 导览行程"
+    },
+    "event_summary": {
+      "en": "The Japan Patent Office presents \"The Power of Intellectual Property to Change Tomorrow\" at \"WASSE.\"\nWould you like to experience the power of intellectual property more deeply through a guided tour?\nIn this tour, you will visit several booths with Patent Office staff, listening to explanations of real-world applications of intellectual property while seeing, touching, and experiencing the exhibits yourself.\nWhile no reservation is required for general entry, booking the guided tour grants you priority access.【Please arrive at least 10 minutes before the start】",
+      "ja": "特許庁が、「WASSE」にて開催する「明日を変える知財のチカラ」。知財のチカラをガイドツアーでより深く体感してみませんか？このツアーでは、特許庁職員といくつかのブースを巡って、知財の活用事例の説明とともに、実物を見て、触れて、体験していただきます。会場は予約不要で入場できますが、ガイドツアーにお申し込みいただくと優先入場が可能です。【来場は開始1０分前まで】/【車いすでの参加の際は備考欄に記入してください。】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": "日本專利局將於「WASSE」舉辦「改變明天的智慧財產力量」。\n想透過導覽行程更深入體驗智慧財產的力量嗎？\n在本次導覽中，您將與專利局人員一同參觀多個展位，聽取智慧財產實際應用案例的介紹，並能親眼觀察、親手觸摸、親身體驗展品。\n場館入場無需預約，但報名參加導覽行程可享有優先入場。\n【請於開始前 10 分鐘入場】/【如需使用輪椅參加，請於備註欄中填寫。】",
+      "fr": "L'Office japonais des brevets présente « La force de la propriété intellectuelle pour changer demain » au « WASSE ».\nSouhaitez-vous découvrir plus en profondeur la puissance de la propriété intellectuelle lors d'une visite guidée ?\nAu cours de cette visite, vous parcourrez plusieurs stands avec des agents de l'Office, découvrirez et toucherez les objets exposés tout en écoutant des explications sur des cas concrets d’utilisation de la propriété intellectuelle.【Arrivez au moins 10 minutes avant le début】",
+      "ko": "일본 특허청이 \"WASSE\"에서 개최하는 「내일을 바꾸는 지재의 힘」.\n가이드 투어를 통해 지식재산의 힘을 더 깊이 체험해 보시겠습니까?\n이 투어에서는 특허청 직원과 함께 여러 부스를 둘러보며, 실제 사례를 보고, 만지고, 직접 체험하면서 지식재산의 활용 방안을 들을 수 있습니다.\n행사장 입장은 예약이 필요 없지만, 가이드 투어에 신청하면 우선 입장이 가능합니다.\n【시작 10분 전까지 도착해 주세요】/【휠체어로 참가 시 비고란에 기재해 주세요.】",
+      "zh-cn": "日本专利局将在“WASSE”举办“改变明天的知识产权力量”。\n想通过导览行程更深入地体验知识产权的力量吗？\n在本次导览中，您将与专利局工作人员一起参观多个展位，听取知识产权实际应用案例的讲解，并可亲眼观看、亲手触摸、亲身体验展品。\n场馆入场无需预约，但报名参加导览行程可享受优先入场。\n【请在开始前 10 分钟入场】/【如需使用轮椅参加，请在备注栏中填写。】"
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "chairman": false,
+    "is_today": true
+  },
+  "S060": {
+    "id": 35598,
+    "event_code": "S060",
+    "event_name": {
+      "en": "[Junior SDGs Camp]Sustainable Urban Public Transportation, “MONORAIL”",
+      "ja": "【ジュニアSDGsキャンプ】持続可能で環境に優しい都市公共交通 ～モノレール～",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "[Date: October 2nd, 3rd][Time: 13:00, 15:00-16:00][Target Age Group: Elementary school students and above][Summary] Monorails are public transportation with no exhaust emissions, low noise, low vibration, low environmental impact, and excellent scenery that harmonizes with the cityscape. In this workshop, you can learn about the history, technology of monorails and environmental considerations.　In addition, before and after the workshop, you can freely learn the structure of monorails through panels, videos, model exhibits. You can also enjoy coloring a picture of monorails.",
+      "ja": "【開催日：10月2日、3日】【開催時間：13:00-14:00、15:00-16:00】【対象：小学生以上】【概要】モノレールは、排気ガスがなく、低騒音、低振動で環境負荷が小さく、街並みと調和する景観に優れた公共交通手段であり、現在では海外にも輸出され活躍しています。ワークショップでは、モノレールの歴史や技術、環境への配慮について学ぶことができます。ワークショップ開催前後の時間には、パネルや映像、模型展示、パンフレットで、モノレールの仕組みや環境への配慮について自由にご覧いただけるほか、モノレールの塗り絵もお楽しみいただけます。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": null,
+    "lat": 34.651883147350695,
+    "lng": 135.37559777498245,
+    "short_name": "SDGs Camp",
+    "chairman": false,
+    "is_today": true
+  },
+  "T800": {
+    "id": 8765,
+    "event_code": "T800",
+    "event_name": {
+      "en": "20th/Year 2025 L’Oréal UNESCO For Women in Science Japan Fellowship Award &…",
+      "ja": "第20回/2025年度 ロレアル-ユネスコ女性科学者 日本奨励賞 授賞式・パネルディスカ…",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:October 2nd】【14:30-16:00 (OPEN14:00)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and　earphones.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】The L'Oréal-UNESCO For Women in Science Awards, held jointly by the L'Oréal and UNESCO since 1998, will hold an awards ceremony for the Japan Fellowship Awards Program (first held in Japan in 2005, marking the 20th anniversary of Japan's hosting …（Nihon L’Oreal K.K.） *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・SDGs+Beyondいのち輝く未来社会】【開催日：10月2日】【14:30-16:00 (OPEN14:00)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】ロレアルグループが1998年以来ユネスコと共同で開催している「ロレアル―ユネスコ女性科学賞」の日本奨励賞授賞式（日本で2005年に創設、万博開催年が日本20周年に当たります）と、科学界におけるジェンダーギャップの問題、女性研究者支援の必要性を議論するパ…（日本ロレアル株式会社）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/01j6hhvwegzbc89v0wqm2tn5cp.html",
+    "lat": 34.652520807124446,
+    "lng": 135.38274586200717,
+    "short_name": "Theme Weeks Studio",
+    "chairman": false,
+    "is_today": true
+  },
+  "T80C": {
+    "id": 8759,
+    "event_code": "T80C",
+    "event_name": {
+      "en": "City Climate Finance GAP Fund : Challenges and Opportunities Moving Forward",
+      "ja": "都市気候ファイナンス・ギャップ・ファンド：これからの挑戦とチャンス",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:October 2nd】【10:00-12:30 (OPEN9:30)】【Venue:Theme Weeks Studio】【notice】 *All speakers are scheduled to participate online.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website.【Summary】To highlights cities' critical role in combating climate change, as they consume 78% of global energy and produce over 60% of greenhouse gas emissions. With 68% of the global population projected...(Malaysia) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・SDGs+Beyond いのち輝く未来社会】【開催日:10月2日】【10:00-12:30 (OPEN9:30)】【開催場所:テーマウィークスタジオ】【注意事項】※すべての登壇者がオンライン参加を予定しています。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】気候変動対策で都市の役割は重要であり、都市は世界のエネルギーの78％を消費し、温室効果ガスの60％以上を排出しています。2050年までに世界人口の68％が都市に居住すると予測され、都市の変革が不可欠です。2023年、イスカンダル・マレーシアを含むマレーシアの...（マレーシア）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/6752a347f30c8.html",
+    "lat": 34.652233971155,
+    "lng": 135.38285449147224,
+    "short_name": "Theme Weeks Studio",
     "chairman": false,
     "is_today": true
   }
