@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-10-02 15:56:35",
+  "_parse_time": "2025-10-03 10:58:01",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -217,7 +217,7 @@
     "lng": 135.38824036717415,
     "short_name": "女人館",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 30
   },
   "H7H0": {
@@ -1889,7 +1889,7 @@
     "lat": 34.64862637249134,
     "lng": 135.3874357044697,
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 80
   },
   "H1HF": {
@@ -1916,7 +1916,7 @@
     "lat": 34.64842888778767,
     "lng": 135.3873632848263,
     "chairman": true,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 80
   },
   "H7H3": {
@@ -8897,7 +8897,7 @@
     "lng": 135.38274586200717,
     "short_name": "Theme Weeks Studio",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T80C": {
     "id": 8759,
@@ -8924,6 +8924,54 @@
     "lng": 135.38285449147224,
     "short_name": "Theme Weeks Studio",
     "chairman": false,
+    "is_today": false
+  },
+  "M1YA": {
+    "id": 14470,
+    "event_code": "M1YA",
+    "event_name": {
+      "en": "WAKAYAMA DAY “The journey of the soul begins here.”",
+      "ja": "和歌山ＤＡＹ〜こころの旅路はじまる〜",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Doors Open 9:45/Performance Starts 10:30/Ends 12:00\nIf you will be attending in a wheelchair, please reserve a seat in the wheelchair section (one companion may sit with you).\nWhen using a seat, even children aged 3 and under must have their own reservation.\n\nWakayama is home to Kumano, a sacred place of nature worship, and Koyasan, a Buddhist sanctuary with 1,200 years of history—both UNESCO World Heritage Sites.\nAt “Wakayama Day”, experience the region’s deep spirituality, rich culture, and timeless traditions through captivating stage performances.",
+      "ja": "【9:45開場/10:30開演/12:00終演】/【車いすでの参加の際は車いす用のブロックでご予約ください。同伴1名可能】/【席を使う場合、3歳以下も席予約必須】/【概要】和歌山県は、自然崇拝を起源とし、よみがえりの地として人々を癒す「熊野」、1200年以上に渡り、人々の信仰を集めてきた天空の聖地「高野山」に代表される世界遺産をもち、国内外から注目を集めています。「和歌山DAY」では、そのような古来から伝わる和歌山の歴史文化を表現したステージプログラムにより、和歌山県の魅力をあますところなく発信・体感いただく場を創出します。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": "https://www.expovisitors.expo2025.or.jp/events/e9b15dae-90b5-4d9c-a2d3-e44a07b8ab64",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1YD": {
+    "id": 14444,
+    "event_code": "M1YD",
+    "event_name": {
+      "en": "WAKAYAMA DAY “The journey of the soul begins here.” Wheelchair seat",
+      "ja": "和歌山ＤＡＹ〜こころの旅路はじまる〜　車イス席",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "Doors Open 9:45/Performance Starts 10:30/Ends 12:00\nIf you will be attending in a wheelchair, please reserve a seat in the wheelchair section (one companion may sit with you).\nWhen using a seat, even children aged 3 and under must have their own reservation.\n\nWakayama is home to Kumano, a sacred place of nature worship, and Koyasan, a Buddhist sanctuary with 1,200 years of history—both UNESCO World Heritage Sites.\nAt “Wakayama Day”, experience the region’s deep spirituality, rich culture, and timeless traditions through captivating stage performances.",
+      "ja": "【9:45開場/10:30開演/12:00終演】/【車いすでの参加の際は車いす用のブロックでご予約ください。同伴1名可能】/【席を使う場合、3歳以下も席予約必須】/【概要】和歌山県は、自然崇拝を起源とし、よみがえりの地として人々を癒す「熊野」、1200年以上に渡り、人々の信仰を集めてきた天空の聖地「高野山」に代表される世界遺産をもち、国内外から注目を集めています。「和歌山DAY」では、そのような古来から伝わる和歌山の歴史文化を表現したステージプログラムにより、和歌山県の魅力をあますところなく発信・体感いただく場を創出します。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": null,
+    "portal_url": "https://www.expovisitors.expo2025.or.jp/events/e9b15dae-90b5-4d9c-a2d3-e44a07b8ab64",
+    "chairman": true,
     "is_today": true
   }
 }
