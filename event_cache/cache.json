@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-10-03 10:58:01",
+  "_parse_time": "2025-10-08 11:59:43",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -2100,7 +2100,7 @@
     "lng": 135.37426203489306,
     "short_name": "萬博桑拿-女",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "Q013": {
     "id": 1233,
@@ -2127,7 +2127,7 @@
     "lng": 135.37451877520377,
     "short_name": "萬博桑拿-混",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T11R": {
     "id": 3242,
@@ -2254,7 +2254,7 @@
     "lng": 135.3743800520897,
     "short_name": "萬博桑拿-男",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "SI06": {
     "id": 1264,
@@ -8819,7 +8819,7 @@
     "lng": 135.37550389766696,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "O00Y": {
     "id": 37665,
@@ -8870,7 +8870,7 @@
     "lng": 135.37559777498245,
     "short_name": "SDGs Camp",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "T800": {
     "id": 8765,
@@ -8948,7 +8948,7 @@
     "virtual_url": null,
     "portal_url": "https://www.expovisitors.expo2025.or.jp/events/e9b15dae-90b5-4d9c-a2d3-e44a07b8ab64",
     "chairman": false,
-    "is_today": true
+    "is_today": false
   },
   "M1YD": {
     "id": 14444,
@@ -8972,6 +8972,135 @@
     "virtual_url": null,
     "portal_url": "https://www.expovisitors.expo2025.or.jp/events/e9b15dae-90b5-4d9c-a2d3-e44a07b8ab64",
     "chairman": true,
+    "is_today": false
+  },
+  "M1ZS": {
+    "id": 25696,
+    "event_code": "M1ZS",
+    "event_name": {
+      "en": "DANCE DRAMA Breakthrough Journey　 Free Seat",
+      "ja": "DANCE DRAMA Breakthrough Journey 自由席　（上層階）",
+      "zh-tw": "DANCE DRAMA Breakthrough Journey – 自由座位 ",
+      "fr": "DANCE DRAMA Breakthrough Journey　Placement libre　",
+      "ko": "DANCE DRAMA Breakthrough Journey – 자유석 ",
+      "zh-cn": "DANCE DRAMA Breakthrough Journey – 自由座位 "
+    },
+    "event_summary": {
+      "en": "　[Doors 17:30 / Show 18:30–20:30][Cast: DAZZLE, BOTAN, Kazuyo Morita, and more][Narration: Daisuke Ono, Reina Ueda][Support: Subtitles & audio guides (JP/EN/ZH/KR), hearing loop][Wheelchair users: Please reserve a wheelchair seat][Dancers from 11 regions across Japan and abroad—with diverse backgrounds in culture, nationality, and disability—create a unified stage work. By valuing each individual and fostering empowerment, the project promotes a society free from division and aims toward universal peace. Experience the possibilities of a society where diversity is shared.]",
+      "ja": "【開場 17:30／開演 18:30／終演時間　20：30】【出演：DAZZLE・BOTAN・森田かずよ ほか】【劇中ナレーション：小野大輔・上田麗奈】【鑑賞サポート：多言語字幕・音声解説（⽇・英・中・韓）、ヒアリングループ対応】【車いすでの鑑賞については車いすブロックの予約が必要】【作品概要：文化・国籍・障害など、異なる背景をもつ国内外11地域のダンサーたちが、一つの舞台を共につくります。一人ひとりの存在価値や自己肯定感、エンパワーメントを高め、分断や差別のない社会、そして普遍的な世界平和が形成されることを目指します。多様性と共に生きる社会の可能性を、あなたも体感してください。】 ",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.big-i.jp/",
+    "chairman": false,
+    "is_today": true
+  },
+  "M1ZV": {
+    "id": 25697,
+    "event_code": "M1ZV",
+    "event_name": {
+      "en": "DANCE DRAMA Breakthrough Journey 　Wheelchair Seat  ",
+      "ja": "DANCE DRAMA Breakthrough Journey 車いす席　（上層階）",
+      "zh-tw": "DANCE DRAMA Breakthrough Journey  – 輪椅席 ",
+      "fr": "DANCE DRAMA Breakthrough Journey　Place en fauteuil roulant",
+      "ko": "DANCE DRAMA Breakthrough Journey – 휠체어석 ",
+      "zh-cn": "DANCE DRAMA Breakthrough Journey  – 轮椅席 "
+    },
+    "event_summary": {
+      "en": "　[Doors 17:30 / Show 18:30–20:30][Cast: DAZZLE, BOTAN, Kazuyo Morita, and more][Narration: Daisuke Ono, Reina Ueda][Support: Subtitles & audio guides (JP/EN/ZH/KR), hearing loop][Wheelchair users: Please reserve a wheelchair seat][Dancers from 11 regions across Japan and abroad—with diverse backgrounds in culture, nationality, and disability—create a unified stage work. By valuing each individual and fostering empowerment, the project promotes a society free from division and aims toward universal peace. Experience the possibilities of a society where diversity is shared.]",
+      "ja": "【開場 17:30／開演 18:30／終演時間　20：30】【出演：DAZZLE・BOTAN・森田かずよ ほか】【劇中ナレーション：小野大輔・上田麗奈】【鑑賞サポート：多言語字幕・音声解説（⽇・英・中・韓）、ヒアリングループ対応】【車いすでの鑑賞については車いすブロックの予約が必要】【作品概要：文化・国籍・障害など、異なる背景をもつ国内外11地域のダンサーたちが、一つの舞台を共につくります。一人ひとりの存在価値や自己肯定感、エンパワーメントを高め、分断や差別のない社会、そして普遍的な世界平和が形成されることを目指します。多様性と共に生きる社会の可能性を、あなたも体感してください。】 ",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://www.big-i.jp/",
+    "chairman": true,
+    "is_today": true
+  },
+  "T806": {
+    "id": 8768,
+    "event_code": "T806",
+    "event_name": {
+      "en": "Innovative development on urban waterfront with autonomous vessels",
+      "ja": "都市型自動運転船による都市の水辺のイノベーション",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:October 8th】【18:00-20:00 (OPEN17:40)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】We have been developing the concept of Umidoko Robot, which is a robot creates a floor itself that moves around like a drone on the water automatically.We will discuss innovation of urban waterfront with those who are working on the development and …（TAKENAKA CORPORATION） *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・SDGs+Beyondいのち輝く未来社会】【開催日：10月8日】【18:00-20:00 (OPEN17:40)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】海床ロボットは、水の上に床をつくり、自動で動き回る水上ドローンのようなロボットというコンセプトで開発を進めてきました。環境、エネルギー、交通、物流、防災など、都市の水辺が抱える世界共通の課題解決に向けて、海床ロボットをはじめとする都市型自動運転船の開発…（株式会社竹中工務店）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66ea818da6a1a.html",
+    "lat": 34.652520807124446,
+    "lng": 135.38274586200717,
+    "short_name": "Theme Weeks Studio",
+    "chairman": false,
+    "is_today": true
+  },
+  "T819": {
+    "id": 25707,
+    "event_code": "T819",
+    "event_name": {
+      "en": "Resonance and Forest - From the Breaking Tower(1970) to the Opening Sky(2025)",
+      "ja": "共鳴と森-突き破る塔(1970)から開かれる空(2025)へ",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:October 8th】【14:00-16:30 (OPEN13:30)】【Venue:Theme Weeks Studio】【notice】This programme was scheduled to open 14:30, start 15:00, and end 16:00, but has been changed to open 13:30, start 14:00, and end 16:00. Those with reservations may enter the Theme Weeks Studio from 13:30.While you may still enter after 14:30 as originally planned to enjoy only the main session, the programme has been enhanced. We therefore encourage you to arrive at the 13:30 opening time to enjoy the performance commencing at 14:00. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】This program led by Producer Hiroaki Miyata under the thematic initiative “Resonating Lives.” Together with guests and attendees, we will think about and envision the potential future society that “Better Co-Being” offers, focusing on the ideas of “connecting together and living together... (Producer MIYATA Hiroaki)） *Reservations",
+      "ja": "【テーマウィーク・SDGs+Beyondいのち輝く未来社会】【開催日：10月8日】【14:00-16:30 (OPEN13:30)】【開催場所:テーマウィークスタジオ】【注意事項】本プログラムは14:30開場・15:00開演・16:00終演の予定でしたが13:30開場・14:00開演・16:00終演へと変更となりました。ご予約者様は13:30からテーマウィークスタジオにご入場いただけます。予定通り14:30以降にご入場いただき、メインセッションのみをお楽しみいただく事も可能ですが、より充実したプログラムとなりましたので、ぜひ13:30の開場に合わせてご入場いただき、14:00からの開演をお楽しみくださいませ。＊その他、中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】テーマ事業「いのちを響き合わせる」を担当する宮田裕章プロデューサーによるプログラム。「共につながり、共に生きる」、Better Co-Beingがもたらす未来社会の可能性についてゲストや来場者とともに考え、描きます。（大阪・関西万博テーマ事業 いのちを響き合わせる（宮田プロデューサー）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/",
+    "lat": 34.652233971155,
+    "lng": 135.38285449147224,
+    "short_name": "Theme Weeks Studio",
+    "chairman": false,
+    "is_today": true
+  },
+  "U06R": {
+    "id": 10587,
+    "event_code": "U06R",
+    "event_name": {
+      "en": "WA Space<Canada Presents: RegenHERation>",
+      "ja": "WAスペース カナダ・プレゼンツ：輝き続ける女性たち",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Date: October 8th】【12:00-14:30 (OPEN11:30)】【Summary】Women‘s Pavilion.At Expo 2025 Osaka Kansai, Canada will present a monthly series of events at the Women's Pavilion in collaboration with Cartier. Titled 'RegenHERation' (which draws from the Canada Pavilion theme of 'Regeneration'), the series will seek to celebrate progress made in advancing gender equality globally, and inspire the current and future generations who are moving society forward. *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【開催日：10月8日】【12:00-14:30 (OPEN11:30)】【概要】ウーマンズパビリオン。2025大阪・関西万博に出展されるウーマンズ パビリオン in collaboration with Cartier  で、カナダは毎月シリーズとしてイベントをお届けします。シリーズのタイトルは、「輝き続ける女性たち」。カナダパビリオンのテーマである「再生」に関連付けたこのタイトルの下、ジェンダー平等の実現に向けたこれまでの世界の進歩を称え、これからの社会の発展を担う現在と未来の世代にインスピレーションをもたらすことを目標としています。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "virtual_url": "",
+    "portal_url": "",
+    "lat": 34.648940035891734,
+    "lng": 135.38833651412097,
+    "short_name": "WA Space",
+    "chairman": false,
     "is_today": true
   }
 }
