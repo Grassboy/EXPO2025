@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-10-08 11:59:43",
+  "_parse_time": "2025-10-09 11:47:32",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -2100,7 +2100,7 @@
     "lng": 135.37426203489306,
     "short_name": "萬博桑拿-女",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "Q013": {
     "id": 1233,
@@ -2127,7 +2127,7 @@
     "lng": 135.37451877520377,
     "short_name": "萬博桑拿-混",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "T11R": {
     "id": 3242,
@@ -2254,7 +2254,7 @@
     "lng": 135.3743800520897,
     "short_name": "萬博桑拿-男",
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "SI06": {
     "id": 1264,
@@ -7575,30 +7575,6 @@
     "chairman": false,
     "is_today": false
   },
-  "D63I": {
-    "id": 43936,
-    "event_code": "D63I",
-    "event_name": {
-      "en": "POLAND PAVILION: Stars of “Jazz From Poland in Japan 2025” - Special Jazz Concerts 'Not late arrivals'",
-      "ja": "ポーランドパビリオン：「Jazz From Poland in Japan 2025」スターたちによるスペシャル・ジャズ・コンサート「途中入室不可」",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "Organized during Polish Culture Week at the Poland Pavilion: Stars of “Jazz From Poland in Japan 2025” - Special Jazz ConcertsThis admission is valid for this special concert only and does not include entry to the permanent exhibition of the Poland Pavilion.",
-      "ja": "ポーランドパビリオンの「ポーランド文化週間」に開催：\r\n「Jazz From Poland in Japan 2025」のスターたちによるスペシャル・ジャズ・コンサート\r\n本入場券は本特別コンサートのみに有効であり、ポーランドパビリオン常設展示への入場は含まれておりません。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-499794",
-    "portal_url": "https://expo.gov.pl/ja",
-    "chairman": false,
-    "is_today": false
-  },
   "IO0F": {
     "id": 29725,
     "event_code": "IO0F",
@@ -7649,507 +7625,75 @@
     "is_today": true,
     "cost_time": 45
   },
-  "M1YM": {
-    "id": 25695,
-    "event_code": "M1YM",
+  "N0OY": {
+    "id": 48204,
+    "event_code": "N0OY",
     "event_name": {
-      "en": "null²-an Tea Ceremony from the New World/Arena Seats",
-      "ja": "null²庵 新世界茶会/アリーナ",
-      "zh-tw": "null²庵 新世界茶會 /內場座位",
-      "fr": "Cérémonie du thé de null²-an : depuis le Nouveau Monde/Places en arène",
-      "ko": "null²안 신세계 다회 /아레나 좌석",
-      "zh-cn": "null²庵 新世界茶会 /内场座位"
-    },
-    "event_summary": {
-      "en": "[Reception14:30/Start15:00/End~18:00][Wheelchair users require seat reservation / No preschool children allowed][Performers (a–z, titles omitted): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra]A sensory tea ceremony where Yoichi OCHIAI’s \"Digital Nature\" meets Chado. Featuring traditional temae, From the New World, generative CG, layered sound, lighting, utensils. With MirroredBody, the Grand Master’s movements and tea talk blend tradition and tech—offering a fluid, null² experience of East and West, body and data.",
-      "ja": "【受付14時30分/開演15時/終演18時頃】【車いすの参加は車いす席の予約が必要/未就学児入場不可】【出演：井上八千代、岩﨑宙平(指揮)、裏千家今日庵、落合陽一、細辻伊兵衛、ピルゼン・フィルハーモニー管弦楽団(五十音順/敬称略)】【落合陽一が提唱する「計算機自然（デジタルネイチャー）」を茶の湯の精神に重ね合わせ、伝統的な点前と管弦楽団による『新世界より』、生成CG、多層音響、照明、茶道具が一体となる総合芸術的茶会。ミラードボディとして再構成された大宗匠の点前や茶話会、null（ﾇﾙ）的な感覚世界への没入から、伝統とテクノロジー、東洋と西洋、身体と情報がnull²（ﾇﾙﾇﾙ）と融解する体験をお楽しみ頂けます。】",
-      "zh-tw": "[接待14:30/开场15:00/结束~18:00][轮椅用户需预约座位 / 不接受学龄前儿童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的“数字自然”与茶道结合的感官茶会。传统点前、新世界、生成式CG、层叠音效、灯光、茶具。通过MirroredBody，大宗匠的动作与茶谈融合传统与科技，呈现null²中东西、身体与数据的流动体验。",
-      "fr": "[Accueil14:30/Début15:00/Fin~18:00][Places réservées requises pour fauteuils roulants / Pas d’enfants d’âge préscolaire][Artistes (a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Une cérémonie du thé sensorielle mêlant le \"Digital Nature\" de Yoichi OCHIAI au Chado. Thème traditionnel, \"From the New World\", CG génératif, son, lumière, ustensiles. Avec MirroredBody, le mouvement du Grand Maître fusionne tradition et technologie pour une expérience null² fluide entre Orient et Occident, corps et données.",
-      "ko": "[접수14:30/시작15:00/종료~18:00][휠체어석 예약 필수 / 미취학 아동 입장 불가][출연자(a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Yoichi OCHIAI의 \"디지털 자연\"과 다도가 만나는 감각적 다도 행사. 전통 다도, 신세계, 생성 CG, 레이어드 사운드, 조명, 다기. MirroredBody와 함께 대선생의 동작과 다담이 전통과 기술을 융합해 동서양, 신체와 데이터가 흐르는 null² 체험 제공.",
-      "zh-cn": "[接待14:30/开场15:00/结束~18:00][轮椅用户需预约座位 / 不接受学龄前儿童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的“数字自然”与茶道结合的感官茶会。传统点前、新世界、生成式CG、层叠音效、灯光、茶具。通过MirroredBody，大宗匠的动作与茶谈融合传统与科技，呈现null²中东西、身体与数据的流动体验。"
-    },
-    "virtual_url": "",
-    "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
-    "chairman": false,
-    "is_today": false
-  },
-  "M1YP": {
-    "id": 25693,
-    "event_code": "M1YP",
-    "event_name": {
-      "en": "null²-an Tea Ceremony from the New World/Front Stand Seats",
-      "ja": "null²庵 新世界茶会/スタンド前",
-      "zh-tw": "null²庵 新世界茶會 /看台前排座位",
-      "fr": "Cérémonie du thé de null²-an : depuis le Nouveau Monde/Places en gradins avant",
-      "ko": "null²안 신세계 다회 /스탠드 앞쪽 좌석",
-      "zh-cn": "null²庵 新世界茶会 /看台前排座位"
-    },
-    "event_summary": {
-      "en": "[Reception14:30/Start15:00/End~18:00][Wheelchair users require seat reservation / No preschool children allowed][Performers (a–z, titles omitted): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra]A sensory tea ceremony where Yoichi OCHIAI’s \"Digital Nature\" meets Chado. Featuring traditional temae, From the New World, generative CG, layered sound, lighting, utensils. With MirroredBody, the Grand Master’s movements and tea talk blend tradition and tech—offering a fluid, null² experience of East and West, body and data.",
-      "ja": "【受付14時30分/開演15時/終演18時頃】【車いすの参加は車いす席の予約が必要/未就学児入場不可】【出演：井上八千代、岩﨑宙平(指揮)、裏千家今日庵、落合陽一、細辻伊兵衛、ピルゼン・フィルハーモニー管弦楽団(五十音順/敬称略)】【落合陽一が提唱する「計算機自然（デジタルネイチャー）」を茶の湯の精神に重ね合わせ、伝統的な点前と管弦楽団による『新世界より』、生成CG、多層音響、照明、茶道具が一体となる総合芸術的茶会。ミラードボディとして再構成された大宗匠の点前や茶話会、null（ﾇﾙ）的な感覚世界への没入から、伝統とテクノロジー、東洋と西洋、身体と情報がnull²（ﾇﾙﾇﾙ）と融解する体験をお楽しみ頂けます。】",
-      "zh-tw": "[接待14:30/開場15:00/結束~18:00][輪椅使用者需預約座位 / 不接受學齡前兒童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的「數位自然」與茶道融合的感官茶會。傳統點前、新世界、生成式CG、層疊音效、燈光與茶具。透過MirroredBody，大宗匠的動作與茶談結合傳統與科技，展現null²中東西方、身體與數據的流動體驗。",
-      "fr": "[Accueil14:30/Début15:00/Fin~18:00][Places réservées requises pour fauteuils roulants / Pas d’enfants d’âge préscolaire][Artistes (a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Une cérémonie du thé sensorielle mêlant le \"Digital Nature\" de Yoichi OCHIAI au Chado. Thème traditionnel, \"From the New World\", CG génératif, son, lumière, ustensiles. Avec MirroredBody, le mouvement du Grand Maître fusionne tradition et technologie pour une expérience null² fluide entre Orient et Occident, corps et données.",
-      "ko": "[접수14:30/시작15:00/종료~18:00][휠체어석 예약 필수 / 미취학 아동 입장 불가][출연자(a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Yoichi OCHIAI의 \"디지털 자연\"과 다도가 만나는 감각적 다도 행사. 전통 다도, 신세계, 생성 CG, 레이어드 사운드, 조명, 다기. MirroredBody와 함께 대선생의 동작과 다담이 전통과 기술을 융합해 동서양, 신체와 데이터가 흐르는 null² 체험 제공.",
-      "zh-cn": "[接待14:30/开场15:00/结束~18:00][轮椅用户需预约座位 / 不接受学龄前儿童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的“数字自然”与茶道结合的感官茶会。传统点前、新世界、生成式CG、层叠音效、灯光、茶具。通过MirroredBody，大宗匠的动作与茶谈融合传统与科技，呈现null²中东西、身体与数据的流动体验。"
-    },
-    "virtual_url": "",
-    "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
-    "chairman": false,
-    "is_today": false
-  },
-  "M1YS": {
-    "id": 25692,
-    "event_code": "M1YS",
-    "event_name": {
-      "en": "null²-an Tea Ceremony from the New World/Rear Stand Seats",
-      "ja": "null²庵 新世界茶会/スタンド後",
-      "zh-tw": "null²庵 新世界茶會 /看台後排座位",
-      "fr": "Cérémonie du thé de null²-an : depuis le Nouveau Monde/Places en gradins arrière",
-      "ko": "null²안 신세계 다회 /스탠드 뒤쪽 좌석",
-      "zh-cn": "null²庵 新世界茶会 /看台后排座位"
-    },
-    "event_summary": {
-      "en": "[Reception14:30/Start15:00/End~18:00][Wheelchair users require seat reservation / No preschool children allowed][Performers (a–z, titles omitted): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra]A sensory tea ceremony where Yoichi OCHIAI’s \"Digital Nature\" meets Chado. Featuring traditional temae, From the New World, generative CG, layered sound, lighting, utensils. With MirroredBody, the Grand Master’s movements and tea talk blend tradition and tech—offering a fluid, null² experience of East and West, body and data.",
-      "ja": "【受付14時30分/開演15時/終演18時頃】【車いすの参加は車いす席の予約が必要/未就学児入場不可】【出演：井上八千代、岩﨑宙平(指揮)、裏千家今日庵、落合陽一、細辻伊兵衛、ピルゼン・フィルハーモニー管弦楽団(五十音順/敬称略)】【落合陽一が提唱する「計算機自然（デジタルネイチャー）」を茶の湯の精神に重ね合わせ、伝統的な点前と管弦楽団による『新世界より』、生成CG、多層音響、照明、茶道具が一体となる総合芸術的茶会。ミラードボディとして再構成された大宗匠の点前や茶話会、null（ﾇﾙ）的な感覚世界への没入から、伝統とテクノロジー、東洋と西洋、身体と情報がnull²（ﾇﾙﾇﾙ）と融解する体験をお楽しみ頂けます。】",
-      "zh-tw": "[接待14:30/開場15:00/結束~18:00][輪椅使用者需預約座位 / 不接受學齡前兒童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的「數位自然」與茶道融合的感官茶會。傳統點前、新世界、生成式CG、層疊音效、燈光與茶具。透過MirroredBody，大宗匠的動作與茶談結合傳統與科技，展現null²中東西方、身體與數據的流動體驗。",
-      "fr": "[Accueil14:30/Début15:00/Fin~18:00][Places réservées requises pour fauteuils roulants / Pas d’enfants d’âge préscolaire][Artistes (a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Une cérémonie du thé sensorielle mêlant le \"Digital Nature\" de Yoichi OCHIAI au Chado. Thème traditionnel, \"From the New World\", CG génératif, son, lumière, ustensiles. Avec MirroredBody, le mouvement du Grand Maître fusionne tradition et technologie pour une expérience null² fluide entre Orient et Occident, corps et données.",
-      "ko": "[접수14:30/시작15:00/종료~18:00][휠체어석 예약 필수 / 미취학 아동 입장 불가][출연자(a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Yoichi OCHIAI의 \"디지털 자연\"과 다도가 만나는 감각적 다도 행사. 전통 다도, 신세계, 생성 CG, 레이어드 사운드, 조명, 다기. MirroredBody와 함께 대선생의 동작과 다담이 전통과 기술을 융합해 동서양, 신체와 데이터가 흐르는 null² 체험 제공.",
-      "zh-cn": "[接待14:30/开场15:00/结束~18:00][轮椅用户需预约座位 / 不接受学龄前儿童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的“数字自然”与茶道结合的感官茶会。传统点前、新世界、生成式CG、层叠音效、灯光、茶具。通过MirroredBody，大宗匠的动作与茶谈融合传统与科技，呈现null²中东西、身体与数据的流动体验。"
-    },
-    "virtual_url": "",
-    "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
-    "chairman": false,
-    "is_today": false
-  },
-  "M1YV": {
-    "id": 25694,
-    "event_code": "M1YV",
-    "event_name": {
-      "en": "null²-an Tea Ceremony from the New World/Wheelchair Accessible Area",
-      "ja": "null²庵 新世界茶会/車いす",
-      "zh-tw": "null²庵 新世界茶會 /無障礙座位／輪椅專區",
-      "fr": "Cérémonie du thé de null²-an : depuis le Nouveau Monde/Espace fauteuil roulant",
-      "ko": "null²안 신세계 다회 /휠체어석（휠체어 전용 구역）",
-      "zh-cn": "null²庵 新世界茶会 /无障碍座位／轮椅专区"
-    },
-    "event_summary": {
-      "en": "[Reception14:30/Start15:00/End~18:00][Wheelchair users require seat reservation / No preschool children allowed][Performers (a–z, titles omitted): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra]A sensory tea ceremony where Yoichi OCHIAI’s \"Digital Nature\" meets Chado. Featuring traditional temae, From the New World, generative CG, layered sound, lighting, utensils. With MirroredBody, the Grand Master’s movements and tea talk blend tradition and tech—offering a fluid, null² experience of East and West, body and data.",
-      "ja": "【受付14時30分/開演15時/終演18時頃】【車いすの参加は車いす席の予約が必要/未就学児入場不可】【出演：井上八千代、岩﨑宙平(指揮)、裏千家今日庵、落合陽一、細辻伊兵衛、ピルゼン・フィルハーモニー管弦楽団(五十音順/敬称略)】【落合陽一が提唱する「計算機自然（デジタルネイチャー）」を茶の湯の精神に重ね合わせ、伝統的な点前と管弦楽団による『新世界より』、生成CG、多層音響、照明、茶道具が一体となる総合芸術的茶会。ミラードボディとして再構成された大宗匠の点前や茶話会、null（ﾇﾙ）的な感覚世界への没入から、伝統とテクノロジー、東洋と西洋、身体と情報がnull²（ﾇﾙﾇﾙ）と融解する体験をお楽しみ頂けます。】",
-      "zh-tw": "[接待14:30/開場15:00/結束~18:00][輪椅使用者需預約座位 / 不接受學齡前兒童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的「數位自然」與茶道融合的感官茶會。傳統點前、新世界、生成式CG、層疊音效、燈光與茶具。透過MirroredBody，大宗匠的動作與茶談結合傳統與科技，展現null²中東西方、身體與數據的流動體驗。",
-      "fr": "[Accueil14:30/Début15:00/Fin~18:00][Places réservées requises pour fauteuils roulants / Pas d’enfants d’âge préscolaire][Artistes (a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Une cérémonie du thé sensorielle mêlant le \"Digital Nature\" de Yoichi OCHIAI au Chado. Thème traditionnel, \"From the New World\", CG génératif, son, lumière, ustensiles. Avec MirroredBody, le mouvement du Grand Maître fusionne tradition et technologie pour une expérience null² fluide entre Orient et Occident, corps et données.",
-      "ko": "[접수14:30/시작15:00/종료~18:00][휠체어석 예약 필수 / 미취학 아동 입장 불가][출연자(a–z): Yachiyo INOUE, Shohei IWASAKI (cond.), Urasenke Konnichian, Yoichi OCHIAI, Ihee HOSOTSUJI, Pilsen Philharmonic Orchestra] Yoichi OCHIAI의 \"디지털 자연\"과 다도가 만나는 감각적 다도 행사. 전통 다도, 신세계, 생성 CG, 레이어드 사운드, 조명, 다기. MirroredBody와 함께 대선생의 동작과 다담이 전통과 기술을 융합해 동서양, 신체와 데이터가 흐르는 null² 체험 제공.",
-      "zh-cn": "[接待14:30/开场15:00/结束~18:00][轮椅用户需预约座位 / 不接受学龄前儿童][演出者(a–z)：Yachiyo INOUE、Shohei IWASAKI（cond.）、Urasenke Konnichian、Yoichi OCHIAI、Ihee HOSOTSUJI、Pilsen Philharmonic Orchestra] Yoichi OCHIAI的“数字自然”与茶道结合的感官茶会。传统点前、新世界、生成式CG、层叠音效、灯光、茶具。通过MirroredBody，大宗匠的动作与茶谈融合传统与科技，呈现null²中东西、身体与数据的流动体验。"
-    },
-    "virtual_url": "",
-    "portal_url": "https://expo2025.digitalnatureandarts.or.jp/index.html",
-    "chairman": false,
-    "is_today": false
-  },
-  "S04L": {
-    "id": 15577,
-    "event_code": "S04L",
-    "event_name": {
-      "en": "[Junior SDGs Camp] EXPO Site Tour (*Please check the departure point with Visitors App)",
-      "ja": "【ジュニアSDGsキャンプ】会場内ツアー(必ず出発場所をVisitorsでご確認ください)",
+      "en": "【Part１：complimentary Sake】JR West Group Presents a Festival of Thanks and Departures",
+      "ja": "【第１部：ふるまい酒有り】JR西日本グループpresents ありがとうと旅立ちの祭典",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
     "event_summary": {
-      "en": "[Summary] This tour takes you around the cutting-edge spots within the Expo site, with a focus on the themes of SDGs and architecture. *The tour theme and departure point will change depending on the date of the event. [Tour theme and departure point] Sep. 3rd-6th: Circular architecture tour(depart from Festival Station), 7th-15th: Wooden architecture tour(depart from Festival Station), 17th-23rd: Bioenergy tour(depart from Festival Station), 24th-28th: Designer toilet tour(depart from Junior SDGs Camp)",
-      "ja": "【対象年齢】中高生以上向け【概要】SDGs、建築をテーマに、万博会場内の先進的なスポットを巡るツアーです。※開催日によってテーマ・出発地点が変わります。【ツアーテーマ・出発地点】9/3-6:循環型建築ツアー(フェスティバルステーション出発), 9/7-15:世界が注目!木造建築ツアー(フェスティバルステーション前出発), 9/17-23:ごみがエネルギーに?バイオエネルギーツアー(フェスティバルステーション前出発), 9/24-28:若手建築家が手掛けるデザイナーズトイレツアー(ジュニアSDGsキャンプ前出発)",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.651883147350695,
-    "lng": 135.37559777498245,
-    "short_name": "SDGs Camp",
-    "chairman": false,
-    "is_today": false
-  },
-  "U07X": {
-    "id": 7347,
-    "event_code": "U07X",
-    "event_name": {
-      "en": "WA Space<Chile. Breaking Barriers, Building Futures>",
-      "ja": "WAスペース チリ：壁を打ち破り、未来を築く",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Date: September 4th】【12:30-14:30 (OPEN12:00)】【Summary】Women’s Pavilion.A panel discussion featuring chilean women leaders in the public, political, artistic, and academic spheres, who will address, from their perspectives, the advances and challenges in areas such as women's economic autonomy, the elimination of gender-based violence, and the promotion of equal opportunities. *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【開催日：9月4日】【12:30-14:30 (OPEN12:00)】【概要】ウーマンズパビリオン。チリの公共、政治、芸術、学術分野で活躍する女性リーダーたちが一堂に会し、それぞれの視点から、女性の経済的自立、ジェンダーに基づく暴力の根絶、機会均等の推進における進展と今なお残る課題について語り合います。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.648940035891734,
-    "lng": 135.38833651412097,
-    "short_name": "WA Space",
-    "chairman": false,
-    "is_today": false
-  },
-  "M1Y4": {
-    "id": 15580,
-    "event_code": "M1Y4",
-    "event_name": {
-      "en": "OSAKA JAPAN SDGs Forum Upper Level L-N Block",
-      "ja": "OSAKA JAPAN SDGs Forum スタンド席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【 Date : September 5 】 【 Venue : EXPO Hall (Shine Hat)】 【 Time : 13:00 - 17:30 (OPEN 12:00) 】 【 Overview 】 An opportunity to share advanced SDGs actions, and deepen discussions on SDGs + beyond after 2030. We welcome participation from local governments, companies, non-profit organizations, students, and others who are interested in Sustainable Development Goals. ※ If you are in a wheelchair, please make a reservation for a wheelchair seat.",
-      "ja": "【開催日：9月5日】【会場：EXPOホール（シャインハット）】【時間：13:00-17:30 (OPEN12:00)】【概要】国内外の先進的なSDGsアクションを共有するとともに、2030年以降のSDGs＋beyondについて議論を深める機会。SDGsにご関心のある、自治体・企業・NPO・学生等の皆さまのご参加をお待ちしています。※車いすの方は、車いす席でご予約ください。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://www.expo-osaka2025.com/osakaweek/regular/event/0905_fukushi.html",
-    "chairman": false,
-    "is_today": false
-  },
-  "M1Y7": {
-    "id": 15581,
-    "event_code": "M1Y7",
-    "event_name": {
-      "en": "OSAKA JAPAN SDGs Forum Wheelchair Seats 2nd floor ",
-      "ja": "OSAKA JAPAN SDGs Forum 車いす席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【 Date : September 5 】 【 Venue : EXPO Hall (Shine Hat)】 【 Time : 13:00 - 17:30 (OPEN 12:00) 】 【 Overview 】 An opportunity to share advanced SDGs actions, and deepen discussions on SDGs + beyond after 2030. We welcome participation from local governments, companies, non-profit organizations, students, and others who are interested in Sustainable Development Goals. ※ If you are in a wheelchair, please make a reservation for a wheelchair seat.",
-      "ja": "【開催日：9月5日】【会場：EXPOホール（シャインハット）】【時間：13:00-17:30 (OPEN12:00)】【概要】国内外の先進的なSDGsアクションを共有するとともに、2030年以降のSDGs＋beyondについて議論を深める機会。SDGsにご関心のある、自治体・企業・NPO・学生等の皆さまのご参加をお待ちしています。※車いすの方は、車いす席でご予約ください。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://www.expo-osaka2025.com/osakaweek/regular/event/0905_fukushi.html",
-    "chairman": true,
-    "is_today": false
-  },
-  "U05I": {
-    "id": 6814,
-    "event_code": "U05I",
-    "event_name": {
-      "en": "WA Space<Music and Dance Across Generations>",
-      "ja": "WAスペース 世代を超える音楽・舞踊",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Date: September 5th】【17:00-19:30 (OPEN16:30)】【Summary】Women’s Pavilion.An inspiring meeting with two extraordinary women who built exceptional careers in Poland. Yuka Ebihara, a Japanese ballerina and first soloist of the Polish National Ballet, shares her artistic journey. Urszula Dudziak, Poland’s most recognized jazz artist, known for Papaya and 50+ albums, inspires with her story of perseverance and passion, proving dreams have no limits.\t *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【開催日：9月5日】【17:00-19:30 (OPEN16:30)】【概要】ウーマンズパビリオン。ポーランドで輝かしい功績を築いた2人の女性との感激的な出会いです。ポーランド国立バレエ団のファーストソリストを務めた日本人バレリーナ、海老原由佳さんは自分のアーティストとしての歩みを語ります。バイラル曲「パパイヤ」をはじめ50枚以上のアルバムで知られるポーランドの最も有名なジャズ・ミュージシャン、ウルシュラ・ドゥジアクさんは、忍耐と情熱の物語でインスピレーションを与え、夢に限界はないことを証明します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.648940035891734,
-    "lng": 135.38833651412097,
-    "short_name": "WA Space",
-    "chairman": false,
-    "is_today": false
-  },
-  "U0B6": {
-    "id": 15567,
-    "event_code": "U0B6",
-    "event_name": {
-      "en": "WA Space<Career transformation starting with recurrent education>",
-      "ja": "WAスペース リカレント教育から始まるキャリア変革 ～人生を動かす学び～",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Date: September 5th】【12:30-14:15 (OPEN12:00)】【Summary】Women’s Pavilion.'Career transformation starting with recurrent education ~Learning that changes your life~' is an event to consider how you can change your life and career through re-learning after becoming a working adult (recurrent education). In the first part, Professor Ouchi and Lecturer Funakoshi from Kwansei Gakuin University's Women's Leadership Development Program will talk in a dialogue format about the program's achievements and the importance of recurrent education.  *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【開催日：9月5日】【12:30-14:15 (OPEN12:00)】【概要】ウーマンズパビリオン。「リカレント教育から始まるキャリア変革 ～人生を動かす学び～」は、社会人になってからの学び直し（リカレント教育）を通じて、人生やキャリアをどう変えることができるのかを考えるイベントです。第一部では、関西学院大学女性リーダー育成プログラムの大内教授と船越講師が、プログラムの実績やリカレント教育の重要性について対話形式でお話しします。第二部では、実際にプログラムを受講し、人生が大きく変わった方々が登壇。実体験を通じて、学び直しがもたらす変化や挑戦のコツを共有します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.64881131544013,
-    "lng": 135.3883687564601,
-    "short_name": "WA Space",
-    "chairman": false,
-    "is_today": false
-  },
-  "QN01": {
-    "id": 6813,
-    "event_code": "QN01",
-    "event_name": {
-      "en": "大衆演劇「龍王祭」by 呉服座Presents",
-      "ja": null,
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "人気と実力を誇る劇団美山と桐龍座恋川劇団を迎え、スペシャル演出でお送りする大衆演劇のEXPO２０２５特別ステージ！！旅芝居の名門「呉服座」が世界に向けて日本のエンターテイメントの力を発信します。【開催日：9月8日（月）】【開場】開演１時間前【座席】予約制ブロック席（ブロック内自由席）、当日自由席【その他】ブロック席をご予約の方も当日自由席の方も、状況により当日施設前で整理券を配布予定です。ご予約済みの予約ブロック席の位置はＶｉｓｉｔｏｒｓアプリをご確認ください。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "ja": null,
+      "en": "【Open12:00/Start1３:０0/End1６:15】 /【One wheelchair companion permitted; reservation required for companion/Wheelchair-accessible viewing area available】/【No reservation needed for under 3】/【Age verification required before complimentary Sake distribution (please bring valid photo ID for age verification)】/【Overview】Enjoy hospitality featuring selected Japanese sake from across the country and traditional festivals from Japan and abroad/【Please note that the content and times may change due to circumstances】",
+      "ja": "【開場時間12:00/開演時間1３:０0/終演時間16:15】/【車いす同伴1名・同伴者予約必要/車いす用の観覧スペースあり】/【3歳以下予約不要】/【開場後、ふるまい酒配付前に年齢確認あり（年齢確認できる身分確認証をご持参ください）】/【概要】厳選された日本各地の「日本酒」や国内外の伝統ある「まつり」でおもてなし/【諸事情により内容および時間変更する場合がございます】",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
     "virtual_url": null,
-    "portal_url": null,
+    "portal_url": "https://www.expo2025.or.jp/news/news-20250917-02/",
     "chairman": false,
     "is_today": false
   },
-  "S046": {
-    "id": 15582,
-    "event_code": "S046",
+  "N0P1": {
+    "id": 48205,
+    "event_code": "N0P1",
     "event_name": {
-      "en": "[Junior SDGs Camp] Live Broadcast! JICA Class",
-      "ja": "【ジュニアSDGsキャンプ】途上国と生中継！JICA国際協力出前講座",
+      "en": "【Part１：No complimentary Sake】JR West Group Presents a Festival of Thanks and Departures",
+      "ja": "【第１部：ふるまい酒無し】JR西日本グループpresents ありがとうと旅立ちの祭典",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
     "event_summary": {
-      "en": "[Dates: September 1st, 8th, 16th, 22nd, 29th][Time: 11:00-12:00, 13:00-14:00, 15:00-16:00][Summary] Real JICA Overseas Cooperation Volunteers will teach you hot secens or issues from their asigned developing country through the online session. Let' meet together and think together! *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【開催日：9月1日、8日、16日、22日、29日】【時間：11:00-12:00、13:00-14:00、15:00-16:00】途上国で活動中のJICA海外協力隊が講師となり、SDGsや環境問題に関連した現地途上国の現状や課題について、リアルに伝えます。オンラインで交流し、自分たちにはどんなことができるか一緒に考えましょう！※主な対象者は小学校高学年から高校生までですが、小学校低学年のお子様も入場可能です。 　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "en": "【Open12:00/Start1３:０0/End1６:15】 /【One wheelchair companion permitted; reservation required for companion/Wheelchair-accessible viewing area available】/【No reservation needed for under 3】/【complimentary Sake are not provided】/【Overview】Enjoy hospitality featuring selected Japanese sake from across the country and traditional festivals from Japan and abroad/【Please note that the content and times may change due to circumstances】",
+      "ja": "【開場時間12:00/開演時間1３:０0/終演時間16:15】/【車いす同伴1名・同伴者予約必要/車いす用の観覧スペースあり】/【3歳以下予約不要】/【ふるまい酒無し】/【概要】厳選された日本各地の「日本酒」や国内外の伝統ある「まつり」でおもてなし/【諸事情により内容および時間変更する場合がございます】",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.651883147350695,
-    "lng": 135.37559777498245,
-    "short_name": "SDGs Camp",
+    "virtual_url": null,
+    "portal_url": "https://www.expo2025.or.jp/news/news-20250917-02/",
     "chairman": false,
     "is_today": false
   },
-  "M1OY": {
-    "id": 6801,
-    "event_code": "M1OY",
+  "N0P4": {
+    "id": 48206,
+    "event_code": "N0P4",
     "event_name": {
-      "en": "Japanese Horror Kwaidan EXPO2025 Floor Level",
-      "ja": "初耳怪談EXPO2025 アリーナ席",
+      "en": "【Part2&Part３】JR West Group Presents a Festival of Thanks and Departures",
+      "ja": "【第2部&第3部】JR西日本グループpresents ありがとうと旅立ちの祭典",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
     "event_summary": {
-      "en": "Japanese top horror(kwaidan)storytellers perform their special story of strange things(kwaidan).At that time,not only storytelling but also various performances of light,sound and so on.By doing so,this event will create an even more immersive experience.【Date:9/9 Tue.】【OPEN 17:00】【START 18:00】【END 20:00】【Seats：Floor Level】 *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "日本トップクラスの怪談師たちがとっておきの怪談を披露。話芸だけではなく、映像・光・音など様々なギミックを取り入れることで、さらなるイマーシブ体験を演出します。【開催日：9月9日（火）】【開場】17時【開演】18時【終演】20時【アリーナ席】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "en": "【Open16:45（Delays may occur）/Start17:30/End19:00】/【Wheelchair-accessible　viewing area available】/【Overview】(Part 2) EXPO Thanks LIVE: Artists perform songs conveying “thank you,” (Part 3) ‘Departure’ Stage: Performances (piano, choir, etc.) symbolizing the “departure” following  the closing of the EXPO.",
+      "ja": "【開場時間16：45（※第1部進行状況により遅れる場合があります）/開演時間17:30/終演時間19:00】/【車いす用の観覧スペースあり】/【3歳以下予約不要】/【概要】（第2部）EXPO Thanks LIVE：アーティストによる「ありがとう」を伝える楽曲披露、（第3部）「旅立ち」のステージ：万博終了後の「旅立ち」につながる演出（ピアノ演奏/合唱等）/【諸事情により内容および時間変更する場合がございます】",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
-    "virtual_url": "",
-    "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
-    "chairman": false,
-    "is_today": false
-  },
-  "M1P1": {
-    "id": 6802,
-    "event_code": "M1P1",
-    "event_name": {
-      "en": "Japanese Horror Kwaidan EXPO2025 Front of Upper Level",
-      "ja": "初耳怪談EXPO2025 スタンド前方席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "Japanese top horror(kwaidan)storytellers perform their special story of strange things(kwaidan).At that time,not only storytelling but also various performances of light,sound and so on.By doing so,this event will create an even more immersive experience.【Date:9/9 Tue.】【OPEN 17:00】【START 18:00】【END 20:00】【Seats：Front of Upper Level】 *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "日本トップクラスの怪談師たちがとっておきの怪談を披露。話芸だけではなく、映像・光・音など様々なギミックを取り入れることで、さらなるイマーシブ体験を演出します。【開催日：9月9日（火）】【開場】17時【開演】18時【終演】20時【スタンド前方席】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
-    "chairman": false,
-    "is_today": false
-  },
-  "M1P4": {
-    "id": 6803,
-    "event_code": "M1P4",
-    "event_name": {
-      "en": "Japanese Horror Kwaidan EXPO2025 Back of Upper Level",
-      "ja": "初耳怪談EXPO2025 スタンド後方席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "Japanese top horror(kwaidan)storytellers perform their special story of strange things(kwaidan).At that time,not only storytelling but also various performances of light,sound and so on.By doing so,this event will create an even more immersive experience.【Date:9/9 Tue.】【OPEN 17:00】【START 18:00】【END 20:00】【Seats：Back of Upper Level】 *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "日本トップクラスの怪談師たちがとっておきの怪談を披露。話芸だけではなく、映像・光・音など様々なギミックを取り入れることで、さらなるイマーシブ体験を演出します。【開催日：9月9日（火）】【開場】17時【開演】18時【終演】20時【スタンド後方席】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
-    "chairman": false,
-    "is_today": false
-  },
-  "M1P7": {
-    "id": 6804,
-    "event_code": "M1P7",
-    "event_name": {
-      "en": "Japanese Horror Kwaidan EXPO2025 Wheelchair Seats 1st floor",
-      "ja": "初耳怪談EXPO2025 1F 車椅子席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "Japanese top horror(kwaidan)storytellers perform their special story of strange things(kwaidan).At that time,not only storytelling but also various performances of light,sound and so on.By doing so,this event will create an even more immersive experience.【Date:9/9 Tue.】【OPEN 17:00】【START 18:00】【END 20:00】【Seats：1F Wheelchair】 *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "日本トップクラスの怪談師たちがとっておきの怪談を披露。話芸だけではなく、映像・光・音など様々なギミックを取り入れることで、さらなるイマーシブ体験を演出します。【開催日：9月9日（火）】【開場】17時【開演】18時【終演】20時【1F 車椅子席】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
-    "chairman": true,
-    "is_today": false
-  },
-  "M1PA": {
-    "id": 6805,
-    "event_code": "M1PA",
-    "event_name": {
-      "en": "Japanese Horror Kwaidan EXPO2025 Wheelchair Seats 2nd floor",
-      "ja": "初耳怪談EXPO2025 2F 車椅子席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "Japanese top horror(kwaidan)storytellers perform their special story of strange things(kwaidan).At that time,not only storytelling but also various performances of light,sound and so on.By doing so,this event will create an even more immersive experience.【Date:9/9 Tue.】【OPEN 17:00】【START 18:00】【END 20:00】【Seats：2F Wheelchair】 *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "日本トップクラスの怪談師たちがとっておきの怪談を披露。話芸だけではなく、映像・光・音など様々なギミックを取り入れることで、さらなるイマーシブ体験を演出します。【開催日：9月9日（火）】【開場】17時【開演】18時【終演】20時【2F 車椅子席】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://www.tv-osaka.co.jp/hatsumimi_kaidan/",
-    "chairman": true,
-    "is_today": false
-  },
-  "U0AL": {
-    "id": 15570,
-    "event_code": "U0AL",
-    "event_name": {
-      "en": "WA Space<Building diverse organisations>",
-      "ja": "WAスペース 多様性のある組織の構築を目指して",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Date: September　9th】【14:00-15:30 (OPEN13:30)】【16:00-17:30 (OPEN15:30)】【Summary】Women’s Pavilion.Despite the growing recognition of the importance of gender and diversity in leadership, many organizations continue to face challenges in achieving meaningful representation at the decision-making table. By delving into various themes, the session will provide insights, strategies, and practical approaches to foster inclusive leadership and drive transformation within organizational structures. *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【開催日：9月9日】【14:00-15:30 (OPEN13:30)】【16:00-17:30 (OPEN15:30)】【概要】ウーマンズパビリオン。リーダーシップにおけるジェンダーと多様性の重要性がますます認識されているにもかかわらず、多くの組織は意思決定の場で十分な代表性を達成する上で依然として課題に直面しています。本セッションでは、さまざまなテーマに踏み込み、インクルーシブなリーダーシップを育成し、組織構造の変革を推進するための洞察、戦略、および実践的なアプローチを提供します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.648940035891734,
-    "lng": 135.38833651412097,
-    "short_name": "WA Space",
-    "chairman": false,
-    "is_today": false
-  },
-  "U0AO": {
-    "id": 15569,
-    "event_code": "U0AO",
-    "event_name": {
-      "en": "WA Space<Women as managers in a crisis>",
-      "ja": "WAスペース 災害や紛争における女性リーダーの役割",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Date: September　10th【12:00-13:30 (OPEN11:30)】【14:00-15:30 (OPEN13:30)】【Summary】Women’s Pavilion.In an increasingly complex and interconnected world, crises have become an unfortunate reality, testing the resilience of individuals and organizations. From natural disasters and public health emergencies to geopolitical tensions and cyber threats, the spectrum of crises is vast and varied. This session emphasize the need for inclusive strategies to enhance crisis resilience for everyone.  *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【開催日：9月10日】【12:00-13:30 (OPEN11:30)】【14:00-15:30 (OPEN13:30)】【概要】ウーマンズパビリオン。ますます複雑化し、相互の結びつきが強まった現代社会において、人道危機は避けられない現実となり、個人や組織のレジリエンスが試される状況です。自然災害や公衆衛生の緊急事態から、地政学的な緊張やサイバー脅威に至るまで、危機の範囲は広く多岐にわたります。本セッションでは、すべての人の危機対応能力を高める包括的な戦略の必要性を強調します。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.648940035891734,
-    "lng": 135.38833651412097,
-    "short_name": "WA Space",
-    "chairman": false,
-    "is_today": false
-  },
-  "S04C": {
-    "id": 15565,
-    "event_code": "S04C",
-    "event_name": {
-      "en": "[Junior SDGs Camp] Osaka-Kansai Expo ESD Program (Netherlands ver)",
-      "ja": "【ジュニアSDGsキャンプ】大阪・関西万博ESDプログラム（オランダ編）",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "*This event will be held at Junior SDGs Camp. [Dates: Sep 3, 11, 17, 24][Time: 15:00-16:00][Target age] Middle and High School Students [Summary]Through presentations by Dutch students, let's learn about the education and culture of the Netherlands, which is said that  'the happiest country for children in the world,' and think together about the differences between Japan and the Netherlands from the perspective of the SDGs! *This program will be conducted in English. *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "※本イベントの実施場所はオランダパビリオンではなく「ジュニアSDGsキャンプ」です。【開催日：9月3日、11日、17日、24日】【15:00-16:00】【対象学年】中学生・高校生向け【概要】オランダ人留学生によるプレゼンテーションで、「子供が世界一幸福な国」と言われるオランダの教育や文化等を知るとともに、SDGｓの観点で日本との違いやその理由について一緒に考えましょう！※主な対象者は中学生から高校生までですが、小学校のお子様も入場可能です。※当プログラムは英語での実施となります。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.651883147350695,
-    "lng": 135.37559777498245,
-    "short_name": "SDGs Camp",
+    "virtual_url": null,
+    "portal_url": "https://www.expo2025.or.jp/news/news-20250917-02/",
     "chairman": false,
     "is_today": false
   },
@@ -8177,570 +7721,56 @@
     "chairman": false,
     "is_today": true
   },
-  "U050": {
-    "id": 6816,
-    "event_code": "U050",
+  "O00Y": {
+    "id": 37665,
+    "event_code": "O00Y",
     "event_name": {
-      "en": "WA Space<Gender-Design summit>",
-      "ja": "WAスペース Gender-Design summit",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
+      "en": "The power of Intellectual Propertybuilds tomorrow Guide tour",
+      "ja": "明日を変える知財のチカラ　ガイドツアー",
+      "zh-tw": "智慧財產的力量創造未來 – 導覽行程",
+      "fr": "La puissance de la propriété intellectuelle construit demain – Visite guidée",
+      "ko": "지식재산의 힘이 내일을 만듭니다 – 가이드 투어",
+      "zh-cn": "知识产权的力量创造未来 – 导览行程"
     },
     "event_summary": {
-      "en": "【Date:September 12th】【13:30-19:30 (OPEN13:00)】【Summary】Women’s Pavilion.We are hosting the 'Gender Design Summit - Creating the Future through Gender-Sensitive Design' featuring globally respected women. Aiming to realize a society where all women can thrive, we will broadly communicate women's advancement in Japan and worldwide. The summit will address gender equality, one of the crucial SDGs issues, by sharing wisdom from around the world, learning from advanced initiatives, and creating and promoting new products, businesses, and urban development through Gender Design. *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【開催日：9月12日】【13:30-19:30 (OPEN13:00)】【概要】ウーマンズパビリオン。世界から尊敬される女性が参加する 'Gender Design Summit ～ ジェンダーに敏感なデザインから未来を創る'を開催。全ての女性が活躍できる社会を目指し、日本と世界の女性活躍を広く国内外に発信。SDGs の重要課題の一つであるジェンダー平等について、世界中から智慧を出し合い、先進的な取組を学び合い、Gender Designによる新ビジネス、都市づくり等の新たな取組を創出、発信する。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.648940035891734,
-    "lng": 135.38833651412097,
-    "short_name": "WA Space",
-    "chairman": false,
-    "is_today": false
-  },
-  "N0K1": {
-    "id": 10041,
-    "event_code": "N0K1",
-    "event_name": {
-      "en": "Osaka Week ~Fall~OSAKA MUSIC LOVER EXPO ARENA 2025",
-      "ja": "大阪ウィーク～秋～OSAKA MUSIC LOVER",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "[Summary] J-POP & J-ROCK Live Fest [Dates & Times] Sunday, September 14 Doors Open: 4:00 PM / Show Starts: 5:00 PM / Ends Around: 8:00 PM / [Dates & Times]Monday (Public Holiday), September 15 Doors Open: 2:30 PM / Show Starts: 3:30 PM / Ends Around: 8:00 PM / [Others] Details about admission, lineup, and the latest updates will be available on the official event website. Please be sure to check the website before attending.",
-      "ja": "【概要】J-POP、J-ROCKアーティストによるライブフェス/【9月14日（日）開場16時00分/開演17時00分/終演20時00分頃】/【9月15日（月祝）開場14時30分/開演15時30分/終演20時00分】/【その他】入場方法や詳細、最新情報をイベント関連HPに掲載しますので、必ずご確認の上、ご来場ください。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
+      "en": "The Japan Patent Office presents \"The Power of Intellectual Property to Change Tomorrow\" at \"WASSE.\"\nWould you like to experience the power of intellectual property more deeply through a guided tour?\nIn this tour, you will visit several booths with Patent Office staff, listening to explanations of real-world applications of intellectual property while seeing, touching, and experiencing the exhibits yourself.\nWhile no reservation is required for general entry, booking the guided tour grants you priority access.【Please arrive at least 10 minutes before the start】",
+      "ja": "特許庁が、「WASSE」にて開催する「明日を変える知財のチカラ」。知財のチカラをガイドツアーでより深く体感してみませんか？このツアーでは、特許庁職員といくつかのブースを巡って、知財の活用事例の説明とともに、実物を見て、触れて、体験していただきます。会場は予約不要で入場できますが、ガイドツアーにお申し込みいただくと優先入場が可能です。【来場は開始1０分前まで】/【車いすでの参加の際は備考欄に記入してください。】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "zh-tw": "日本專利局將於「WASSE」舉辦「改變明天的智慧財產力量」。\n想透過導覽行程更深入體驗智慧財產的力量嗎？\n在本次導覽中，您將與專利局人員一同參觀多個展位，聽取智慧財產實際應用案例的介紹，並能親眼觀察、親手觸摸、親身體驗展品。\n場館入場無需預約，但報名參加導覽行程可享有優先入場。\n【請於開始前 10 分鐘入場】/【如需使用輪椅參加，請於備註欄中填寫。】",
+      "fr": "L'Office japonais des brevets présente « La force de la propriété intellectuelle pour changer demain » au « WASSE ».\nSouhaitez-vous découvrir plus en profondeur la puissance de la propriété intellectuelle lors d'une visite guidée ?\nAu cours de cette visite, vous parcourrez plusieurs stands avec des agents de l'Office, découvrirez et toucherez les objets exposés tout en écoutant des explications sur des cas concrets d’utilisation de la propriété intellectuelle.【Arrivez au moins 10 minutes avant le début】",
+      "ko": "일본 특허청이 \"WASSE\"에서 개최하는 「내일을 바꾸는 지재의 힘」.\n가이드 투어를 통해 지식재산의 힘을 더 깊이 체험해 보시겠습니까?\n이 투어에서는 특허청 직원과 함께 여러 부스를 둘러보며, 실제 사례를 보고, 만지고, 직접 체험하면서 지식재산의 활용 방안을 들을 수 있습니다.\n행사장 입장은 예약이 필요 없지만, 가이드 투어에 신청하면 우선 입장이 가능합니다.\n【시작 10분 전까지 도착해 주세요】/【휠체어로 참가 시 비고란에 기재해 주세요.】",
+      "zh-cn": "日本专利局将在“WASSE”举办“改变明天的知识产权力量”。\n想通过导览行程更深入地体验知识产权的力量吗？\n在本次导览中，您将与专利局工作人员一起参观多个展位，听取知识产权实际应用案例的讲解，并可亲眼观看、亲手触摸、亲身体验展品。\n场馆入场无需预约，但报名参加导览行程可享受优先入场。\n【请在开始前 10 分钟入场】/【如需使用轮椅参加，请在备注栏中填写。】"
     },
     "virtual_url": null,
     "portal_url": null,
     "chairman": false,
-    "is_today": false
+    "is_today": true
   },
-  "N0K4": {
-    "id": 10042,
-    "event_code": "N0K4",
+  "T80L": {
+    "id": 8763,
+    "event_code": "T80L",
     "event_name": {
-      "en": "Osaka Week ~Fall~OSAKA MUSIC LOVER EXPO ARENA 2025 Wheelchair seat",
-      "ja": "大阪ウィーク～秋～OSAKA MUSIC LOVER 車イス席",
+      "en": "Greater Intelligence, Enhanced Artistry, and Stronger Compassion: The Future of Urban Regeneration",
+      "ja": "より智慧的に、より藝術的に、より思いやりを持って：都市更新の未来",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
     "event_summary": {
-      "en": "[Summary] J-POP & J-ROCK Live Fest [Dates & Times] Sunday, September 14 Doors Open: 4:00 PM / Show Starts: 5:00 PM / Ends Around: 8:00 PM / [Dates & Times]Monday (Public Holiday), September 15 Doors Open: 2:30 PM / Show Starts: 3:30 PM / Ends Around: 8:00 PM / [Others] Details about admission, lineup, and the latest updates will be available on the official event website. Please be sure to check the website before attending.",
-      "ja": "【概要】J-POP、J-ROCKアーティストによるライブフェス/【9月14日（日）開場16時00分/開演17時00分/終演20時00分頃】/【9月15日（月祝）開場14時30分/開演15時30分/終演20時00分】/【その他】入場方法や詳細、最新情報をイベント関連HPに掲載しますので、必ずご確認の上、ご来場ください。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": null,
-    "portal_url": null,
-    "chairman": true,
-    "is_today": false
-  },
-  "QE04": {
-    "id": 32255,
-    "event_code": "QE04",
-    "event_name": {
-      "en": "The 20th Century Art Collection of Osaka Pref.",
-      "ja": "大阪府20世紀美術コレクション",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Session 1】Doors 10:30 / Start 11:00 / End 12:00\n【Session 2】Doors 13:30 / Start 14:00 / End 15:00\n【Session 3】Doors 16:30 / Start 17:00 / End 18:00\nWheelchair users: please reserve in the wheelchair block; one companion allowed.\nChildren under 3: please share a seat with a guardian.\nThe Osaka 20th Century Art Collection showcases paintings, prints, sculptures, and photos by Kansai-based contemporary artists and Triennale awardees, with selected works displayed in line with Expo 2025 themes. Workshops and talks will also be held—enjoy contemporary art!",
-      "ja": "【1回目10:30開場/11:00開始/12:00終了】【2回目/13:30開場/14:00開始/15:00終了】【3回目16:30開場/17:00開始/18:00終了】/【車いすでの参加の際は車いす用のブロックでご予約下さい。介添え者1名可能】/【3歳以下のお子様は保護者や同伴者と同一席でお願いします。】/【概要】「大阪府20世紀美術コレクション」は、関西を拠点に活躍した現代美術作家の作品や「大阪トリエンナーレ」の受賞作品など、絵画や版画、彫刻、写真などを所蔵。 これらの作品の中から、大阪・関西万博の掲げるテーマに沿って選りすぐった作品を展示。また、アートを体験いただくワークショップやトークショーも実施します。現代美術の魅力をぜひお楽しみください。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": null,
-    "portal_url": "https://www.expovisitors.expo2025.or.jp/events/f03f5470-a99b-49d3-ae9e-ca4de95a82fe",
-    "chairman": false,
-    "is_today": false
-  },
-  "QE07": {
-    "id": 32256,
-    "event_code": "QE07",
-    "event_name": {
-      "en": "The 20th Century Art Collection of Osaka Pref. Wheelchair seat",
-      "ja": "大阪府20世紀美術コレクション　車いす席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Session 1】Doors 10:30 / Start 11:00 / End 12:00\n【Session 2】Doors 13:30 / Start 14:00 / End 15:00\n【Session 3】Doors 16:30 / Start 17:00 / End 18:00\nWheelchair users: please reserve in the wheelchair block; one companion allowed.\nChildren under 3: please share a seat with a guardian.\nThe Osaka 20th Century Art Collection showcases paintings, prints, sculptures, and photos by Kansai-based contemporary artists and Triennale awardees, with selected works displayed in line with Expo 2025 themes. Workshops and talks will also be held—enjoy contemporary art!",
-      "ja": "【1回目10:30開場/11:00開始/12:00終了】【2回目/13:30開場/14:00開始/15:00終了】【3回目16:30開場/17:00開始/18:00終了】/【車いすでの参加の際は車いす用のブロックでご予約下さい。介添え者1名可能】/【3歳以下のお子様は保護者や同伴者と同一席でお願いします。】/【概要】「大阪府20世紀美術コレクション」は、関西を拠点に活躍した現代美術作家の作品や「大阪トリエンナーレ」の受賞作品など、絵画や版画、彫刻、写真などを所蔵。 これらの作品の中から、大阪・関西万博の掲げるテーマに沿って選りすぐった作品を展示。また、アートを体験いただくワークショップやトークショーも実施します。現代美術の魅力をぜひお楽しみください。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": null,
-    "portal_url": "https://www.expovisitors.expo2025.or.jp/events/f03f5470-a99b-49d3-ae9e-ca4de95a82fe",
-    "chairman": true,
-    "is_today": false
-  },
-  "QH01": {
-    "id": 6812,
-    "event_code": "QH01",
-    "event_name": {
-      "en": "守口市の極～未来へつなぐものづくり～",
-      "ja": null,
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【概要】守口市は、ものづくりの企業が、800近くもあり、長年大手メーカーの協力会社として活躍し、独自の技術を持っている多くの企業があります。本イベントは、守口市内のものづくり企業で、高い技術力を有する「極の守の会」の会員企業が、未来の自転車の試乗体験や、それぞれの企業の強みを活かしたものづくり体験、技術を結集した製造品の展示などを実施することで、来場された方々が、守口のものづくりの魅力や未来を存分に体感できるイベントとなっております。ぜひ会場にお越しください！【開催時間10時～16時】",
-      "ja": null,
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": null,
-    "portal_url": null,
-    "chairman": false,
-    "is_today": false
-  },
-  "S04F": {
-    "id": 15579,
-    "event_code": "S04F",
-    "event_name": {
-      "en": "[Junior SDGs Camp] Osaka-Kansai Expo ESD Program (Switzerland ver)",
-      "ja": "【ジュニアSDGsキャンプ】大阪・関西万博ESDプログラム（スイス編）",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "*This event will be held at Junior SDGs Camp. [Date and Time: Sep 3rd, 15th(13:00-14:00), Sep 24th(11:00-12:00)][Target age] Middle and High School Students [Summary] We will invite Swiss presenters to introduce an overview of the country and their initiatives regarding the SDGs in Switzerland, as well as engage in discussions comparing these with Japan and what we can do ourselves. Additionally, we will share a global initiative called 'One Million Youth Action Challenge' that began in Switzerland. *This program will be conducted in English. *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "※本イベントの実施場所はスイスパビリオンではなく「ジュニアSDGsキャンプ」です。【開催日時：9月3日、15日(13:00-14:00)、24日(11:00-12:00)】【対象学年】中学生・高校生向け【概要】ESD国際交流プログラムのスイス編です。当日はスイス人のプレゼンターを招き、国の概要やスイスでのSDGsに関する取組を紹介いただき、日本との比較や自分達にできることをディスカッションします。また、1億人の若者が、社会から疎外された1億人の子どものために立ち上がり、社会を変革するための活動「One Million Youth Action Challenge」について、スイス現地の参画者とオンラインで繋ぎ、説明いただきます。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
+      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:Octber 9th】【18:00-20:00 (OPEN17:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website.【Summary】The event intends to highlight people, technology, space, and other crucial factors for future social development. It aims to explore how advanced concepts and values can be incorporated into urban development through varied forms of urban renewal ...(World Expo Museum) *Reservations are required for children under 3 years old if they wish to use the seats.",
+      "ja": "【テーマウィーク・SDGs+Beyond いのち輝く未来社会】【開催日:10月9日】【18:00-20:00 (OPEN17:30)】【開催場所:テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】シンポジウムでは人、技術、空間など未来社会の発展の鍵となる要素を浮き彫りにし、いかにさまざまな形態による都市再生を通して先進的な概念や価値観を都市の発展と融合させ…（万博博物館）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
       "zh-tw": null,
       "fr": null,
       "ko": null,
       "zh-cn": null
     },
     "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.651883147350695,
-    "lng": 135.37559777498245,
-    "short_name": "SDGs Camp",
-    "chairman": false,
-    "is_today": false
-  },
-  "U056": {
-    "id": 6818,
-    "event_code": "U056",
-    "event_name": {
-      "en": "WA Space<Empowering Women for Climate Resilience>",
-      "ja": "WAスペース 女性の力で官民連携による気候レジリエンスを加速",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Date: September 15th】【11:30-14:30 (OPEN11:00)】【Summary】Women’s Pavilion. PISAgro and Grow Asia will co-host a half-day interactive multi-stakeholder Roundtable featuring international keynote speakers and a high-level panel session.  The event will convene leading experts from the public and private sector to discuss the vital role of public-private partnerships in ensuring that women are empowered to play a central role in meeting global targets for climate transition in the agri, food and forestry sector. *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【開催日：9月15日】【11:30-14:30 (OPEN11:00)】【概要】ウーマンズパビリオン。PISAgroとGrow Asiaは、女性の役割を中心に据えた気候変動対応の重要性について議論する。官民パートナーシップが女性のエンパワーメントを促進する方法を、国際的な基調講演者と専門家が検討します。イベントでは、インドネシアのカカオバリューチェーンにおける「GrowHer: Kakaoプロジェクト」が成功事例として紹介されます。このプロジェクトは、GIZとMarsの支援を受け、Save the ChildrenやPISAgroと連携して実施されており、持続可能な農業と多様性・包摂性を高める官民連携の模範となっています。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": "【Date: September 15th】【11:30-14:30 (OPEN11:00)】【Summary】Women’s Pavilion. PISAgro and Grow Asia will co-host a half-day interactive multi-stakeholder Roundtable featuring international keynote speakers and a high-level panel session.  The event will convene leading experts from the public and private sector to discuss the vital role of public-private partnerships in ensuring that women are empowered to play a central role in meeting global targets for climate transition in the agri, food and forestry sector.  *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ko": "【Date: September 15th】【11:30-14:30 (OPEN11:00)】【Summary】Women’s Pavilion. PISAgro and Grow Asia will co-host a half-day interactive multi-stakeholder Roundtable featuring international keynote speakers and a high-level panel session.  The event will convene leading experts from the public and private sector to discuss the vital role of public-private partnerships in ensuring that women are empowered to play a central role in meeting global targets for climate transition in the agri, food and forestry sector.*Reservations are required for children under 3 years old if they wish to use the seats.",
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.648940035891734,
-    "lng": 135.38833651412097,
-    "short_name": "WA Space",
-    "chairman": false,
-    "is_today": false
-  },
-  "U059": {
-    "id": 6819,
-    "event_code": "U059",
-    "event_name": {
-      "en": "WA Space<Global Parenting Summit>",
-      "ja": "WAスペース 世界子育てサミット",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Date: September 16th】【13:30-19:30 (OPEN13:00)】【Summary】Women’s Pavilion.In a global world, it is essential to reaffirm that childbirth and childcare, which are the greatest achievements that humankind can accomplish, contribute to the next generation.Through the experience and knowledge of mothers and people involved in childcare from all over the world, we will widely share the success of women in particular, regarding their creativity, knowledge, and strength, as well as hold a panel discussion to discuss the opportunities available for the future.  *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【開催日：9月16日】【13:30-19:30 (OPEN13:00)】【概要】ウーマンズパビリオン。人類が成しえる最大の偉業である出産、そして育児は地球の次世代に貢献していることを再認識することがグローバルな世界で必要不可欠です。世界各国の母親や育児に携わる人々の経験や知識を通して、特に女性の創造性、知識、たくましさなどの活躍状況を広く共有すると共に、パネルディスカッションを行い、希望のある未来に繋がる日々が送れることを来場者と話し合います。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.648940035891734,
-    "lng": 135.38833651412097,
-    "short_name": "WA Space",
-    "chairman": false,
-    "is_today": false
-  },
-  "T70R": {
-    "id": 5936,
-    "event_code": "T70R",
-    "event_name": {
-      "en": "“algerian renewable energy and hydrogen startegy” Clean hydrogen is a cean fuel in heavy transport",
-      "ja": "「アルジェリアの再生可能エネルギーと水素開発」クリーンな水素は、重輸送および産業部門における重要な燃",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Theme Weeks・The Future of Earth and Biodiversity】【Date:September 17th】【10:30-12:30 (OPEN10:00)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website.【Summary】'Renewable energy and hydrogen society' Experts will present the main axes of the national strategy for the development of hydrogen and will give the visibility regarding the policies...(People's Democratic Republic of Algeria） *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【テーマウィーク・地球の未来と生物多様性】【開催日:9月17日】【10:30-12:30 (OPEN10:00)】【開催場所:テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】再生可能エネルギーから生産されるクリーンな水素は、再生可能エネルギーの大規模開発の今後のあり方を示しています。特に、太陽光や風力などの自然エネルギーは、発電量が不安定な性質を持っていますが、水素に変換することで余剰電力を貯蔵する手段として最適であり...（アルジェリア民主人民共和国）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66ed3f2b0c97f.html",
+    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66ee2bf4d30fb.html",
     "lat": 34.652520807124446,
     "lng": 135.38274586200717,
     "short_name": "Theme Weeks Studio",
     "chairman": false,
-    "is_today": false
-  },
-  "T70U": {
-    "id": 5937,
-    "event_code": "T70U",
-    "event_name": {
-      "en": "ICT Technologies to Preserve the Earth for Future Generations",
-      "ja": "未来世代のために、地球を保存する技術としてのICT技術",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Theme Weeks・The Future of Earth and Biodiversity】【Date:September 17th】【14:30-16:30 (OPEN13:30)】【Venue:Theme Weeks Studio】【notice】Start time changed from 14:30 to 14:00.*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website.【Summary】We will hold a panel discussion with ICT experts to explore the potential of ICT (information and communications technology) as an essential tool for preserving the global environment and realising a better society for future generations....(Republic of Korea) *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【テーマウィーク・地球の未来と生物多様性】【開催日:9月17日】【14:30-16:30 (OPEN13:30)】【開催場所:テーマウィークスタジオ】【注意事項】開始は14:30から14:00に変更されました。＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】今後の世代のために、地球環境を保存し、より良い社会を実現するために不可欠なICT（情報通信）技術の可能性について、ICTの専門家を講演者に迎えてパネルディスカッションを行います。（大韓民国）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/68a420feeccbd.html",
-    "lat": 34.652233971155,
-    "lng": 135.38285449147224,
-    "short_name": "Theme Weeks Studio",
-    "chairman": false,
-    "is_today": false
-  },
-  "U05C": {
-    "id": 6820,
-    "event_code": "U05C",
-    "event_name": {
-      "en": "WA Space<Canada Presents: RegenHERation>",
-      "ja": "WAスペース カナダ・プレゼンツ：輝き続ける女性たち",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Date: September 17th】【12:00-14:30 (OPEN11:30)】【Summary】Women’s Pavilion.At Expo 2025 Osaka Kansai, Canada will present a monthly series of events at the Women's Pavilion in collaboration with Cartier. Titled 'RegenHERation' (which draws from the Canada Pavilion theme of 'Regeneration'), the series will seek to celebrate progress made in advancing gender equality globally, and inspire the current and future generations who are moving society forward. *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【開催日：9月17日】【12:00-14:30 (OPEN11:30)】【概要】ウーマンズパビリオン。2025大阪・関西万博に出展されるウーマンズ パビリオン in collaboration with Cartier  で、カナダは毎月シリーズとしてイベントをお届けします。シリーズのタイトルは、「輝き続ける女性たち」。カナダパビリオンのテーマである「再生」に関連付けたこのタイトルの下、ジェンダー平等の実現に向けたこれまでの世界の進歩を称え、これからの社会の発展を担う現在と未来の世代にインスピレーションをもたらすことを目標としています。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.648940035891734,
-    "lng": 135.38833651412097,
-    "short_name": "WA Space",
-    "chairman": false,
-    "is_today": false
-  },
-  "M20P": {
-    "id": 30646,
-    "event_code": "M20P",
-    "event_name": {
-      "en": "UAE DAY AT EXPO 2025 OSAKA　General seats",
-      "ja": "アラブ首長国連邦ナショナルデー　一般席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "General seats \nThe UAE Day at Expo serves as the symbolic pinnacle of our journey - a moment when surface layers of technological achievement are stripped away to reveal the deeper foundation of our progress: community bonds, storytelling traditions, and ancestral knowledge that have guided us through rapid change. Rooted in shared values with Japan and inspired by Expo’s theme of Designing Future for Our Lives, the day is a celebration of UAE’s unique ability to bridge cultures, ideas, and innovation towards solutions that empower lives, from Earth to Ether.",
-      "ja": "一般席\r\n2025年大阪・関西万博におけるUAEの日は、パビリオンの旅路における感情的かつ象徴的な頂点として位置づけられます。私たちは国家の回復力と成功を定義する価値観、伝統、文化遺産を祝します。これは、技術的成果という表面的な層を剥ぎ取り、私たちの進歩のより深い基盤を明らかにする瞬間です。急速な変化の中で私たちを導いてきたコミュニティの絆、語り継がれる伝統、祖先からの知恵なのです。\r\n日本との共通の価値観に根ざし、万博のテーマにインスパイアされたこの日は、文化、アイデア、イノベーションを結集するUAEの独特な能力を祝う日です。大地から天空へ、人々の生活を豊かにするソリューションを推進しています。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": null,
-    "portal_url": null,
-    "chairman": false,
-    "is_today": false
-  },
-  "M20S": {
-    "id": 30647,
-    "event_code": "M20S",
-    "event_name": {
-      "en": "UAE DAY AT EXPO 2025 OSAKA　Wheelchair Accessible Seats",
-      "ja": "アラブ首長国連邦ナショナルデー　車いす席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "Wheelchair Accessible Seats\nThe UAE Day at Expo serves as the symbolic pinnacle of our journey - a moment when surface layers of technological achievement are stripped away to reveal the deeper foundation of our progress: community bonds, storytelling traditions, and ancestral knowledge that have guided us through rapid change. Rooted in shared values with Japan and inspired by Expo’s theme of Designing Future for Our Lives, the day is a celebration of UAE’s unique ability to bridge cultures, ideas, and innovation towards solutions that empower lives, from Earth to Ether.",
-      "ja": "車いす席\r\n2025年大阪・関西万博におけるUAEの日は、パビリオンの旅路における感情的かつ象徴的な頂点として位置づけられます。私たちは国家の回復力と成功を定義する価値観、伝統、文化遺産を祝します。これは、技術的成果という表面的な層を剥ぎ取り、私たちの進歩のより深い基盤を明らかにする瞬間です。急速な変化の中で私たちを導いてきたコミュニティの絆、語り継がれる伝統、祖先からの知恵なのです。\r\n日本との共通の価値観に根ざし、万博のテーマにインスパイアされたこの日は、文化、アイデア、イノベーションを結集するUAEの独特な能力を祝う日です。大地から天空へ、人々の生活を豊かにするソリューションを推進しています。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": null,
-    "portal_url": null,
-    "chairman": false,
-    "is_today": false
-  },
-  "S049": {
-    "id": 15564,
-    "event_code": "S049",
-    "event_name": {
-      "en": "[Junior SDGs Camp] Osaka-Kansai Expo ESD Program (Indonesia ver)",
-      "ja": "【ジュニアSDGsキャンプ】大阪・関西万博ESDプログラム（インドネシア編）",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "*This event will be held at Junior SDGs Camp. [Dates: Sep 18th, 19th][Time: 15:00-16:00][Target age] Upper elementary to high school students [Summary] Inviting an Indonesian presenter to share insights on Indonesia, including an overview of the country, waste disposal issues, current status of resource circulation, and future initiatives. The program will also compare these topics with Japan and have discussions on what participants can do themselves. It will be basically conducted in Japanese, though some segments may include English expressions. *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "※本イベントの実施場所はインドネシアパビリオンではなく「ジュニアSDGsキャンプ」です。【開催日：9月18日、19日】【11:00-12:00, 13:00-14:00, 15:00-16:00】【対象学年】小学校高学年から中学生・高校生向け【概要】ESD国際交流プログラム「インドネシア編」のご案内：当日は、インドネシア人プレゼンターをお招きし、インドネシアの概要、廃棄物処理問題、資源循環の現状、そして今後の取り組みについてお話しいただきます。また、日本との比較を通して自分たちにできることを考え、ディスカッションを行います。進行は基本的に日本語で行われますが、一部英語表現が含まれる場合がありますのでご了承ください。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.651883147350695,
-    "lng": 135.37559777498245,
-    "short_name": "SDGs Camp",
-    "chairman": false,
-    "is_today": false
-  },
-  "T70I": {
-    "id": 5933,
-    "event_code": "T70I",
-    "event_name": {
-      "en": "Preserving natural capital Agenda2025 Organised Programme",
-      "ja": "自然資本の維持 アジェンダ2025 主催プログラム",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Theme Weeks・The Future of Earth and Biodiversity】【Date:September 19th】【10:00-12:00 (OPEN9:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】The programme, together with the General Sponsors, explores: 'What additional perspectives should be added to the global discussion on biodiversity beyond 2030?'(Japan Association for the 2025 World Exposition) *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【テーマウィーク・地球の未来と生物多様性】【開催日：9月19日】【10:00-12:00 (OPEN9:30)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】本プログラムは、テーマウィーク全体協賛者と連携して協会が企画・実施する「アジェンダ2025」の一つです。「「いのち」 の豊かさ(生物多様性)を巡る国際的な議論に、2030年以降を見据え、加えるべき視点/要素は何か」という…（２０２５年日本国際博覧会協会）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2e124b0fca.html",
-    "lat": 34.652520807124446,
-    "lng": 135.38274586200717,
-    "short_name": "Theme Weeks Studio",
-    "chairman": false,
-    "is_today": false
-  },
-  "T70L": {
-    "id": 5934,
-    "event_code": "T70L",
-    "event_name": {
-      "en": "Achieving a circular economy Agenda2025 Organised Programme",
-      "ja": "循環経済の実現 アジェンダ2025 主催プログラム",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Theme Weeks・The Future of Earth and Biodiversity】【Date:September 19th】【13:30-15:30 (OPEN13:00)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】The programme, together with the General Sponsors, explores: 'Is it possible to pursue a prosperous future by the concept of a 'circular economy' as a means to balance the economy, well-being, and sustainability?'(Japan Association for the 2025 World Exposition) *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【テーマウィーク・地球の未来と生物多様性】【開催日：9月19日】【13:30-15:30 (OPEN13:00)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】本プログラムは、テーマウィーク全体協賛者と連携して協会が企画・実施する「アジェンダ2025」の一つです。「経済・Well-being・サステナビリティなどのバランスを取りながら豊かな未来を追求するために、”循環経済”の実現を手段とすることは可能か」という…（２０２５年日本国際博覧会協会）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2e1fe79a37.html",
-    "lat": 34.652233971155,
-    "lng": 135.38285449147224,
-    "short_name": "Theme Weeks Studio",
-    "chairman": false,
-    "is_today": false
-  },
-  "T70O": {
-    "id": 5935,
-    "event_code": "T70O",
-    "event_name": {
-      "en": "Tackling climate change Agenda2025 Organised Programme",
-      "ja": "気候変動への対応 アジェンダ2025 主催プログラム",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Theme Weeks・The Future of Earth and Biodiversity】【Date:September 19th】【17:00-19:00 (OPEN16:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】The programme, together with the General Sponsors, explores: 'In 2025, with worsening climate change, what agendas should we now consider?'(Japan Association for the 2025 World Exposition) *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【テーマウィーク・地球の未来と生物多様性】【開催日：9月19日】【17:00-19:00 (OPEN16:30)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】本プログラムは、テーマウィーク全体協賛者と連携して協会が企画・実施する「アジェンダ2025」の一つです。「2025年現在、気候変動が顕在化してきていると言われる中、改めて、今私たちが考えるべきアジェンダは何か」という…（２０２５年日本国際博覧会協会）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66e2e3add921a.html",
-    "lat": 34.65225162262793,
-    "lng": 135.38307040929797,
-    "short_name": "Theme Weeks Studio",
-    "chairman": false,
-    "is_today": false
-  },
-  "II09": {
-    "id": 35,
-    "event_code": "II09",
-    "event_name": {
-      "en": "Signature Pavilion KAWAMORI Shoji”Live Earth Journey” ANIMA! without floor vibration",
-      "ja": "シグネチャーパビリオン 河森正治 「いのちめぐる冒険」 ANIMA! 床振動演出なし",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Duration: Approximately 30 minutes】【Meeting Time: Reservation time】ANIMA!｜A musical of life where music, visuals, and vibrations synchronize in a way that you can feel throughout your body.*Floor vibrations are not included in this course.*You will be able to view all exhibits except for “ Deep Vision” .-If you are late for your reservation time, you will not be able to participate in the experience.-There are safety precautions for this course. Please be sure to check the following 'Click here for details ' before making your reservation. ",
-      "ja": "【所要時間：約30分】【集合時間：ご予約時間】以下の体験コースです。ANIMA!｜音楽と映像と振動がシンクロする全身で感じるいのちのミュージカル※本コースでは床振動はご体験いただけません。※超時空シアターを除く全ての展示をご覧いただけます。・ご予約時間に遅れた方はご体験いただけません。・このコースでは、安全のために一定の利用制限を設けております。以下の「詳しくはこちら」を必ずご確認の上、ご予約ください。　",
-      "zh-tw": "【Duration: Approximately 30 minutes】【Meeting Time: Reservation time】ANIMA!｜A musical of life where music, visuals, and vibrations synchronize in a way that you can feel throughout your body.*Floor vibrations are not included in this course.*You will be able to view all exhibits except for “ Deep Vision” .-If you are late for your reservation time, you will not be able to participate in the experience.-There are safety precautions for this course. Please be sure to check the following '點此了解詳情' before making your reservation. ",
-      "fr": "【Duration: Approximately 30 minutes】【Meeting Time: Reservation time】ANIMA!｜A musical of life where music, visuals, and vibrations synchronize in a way that you can feel throughout your body.*Floor vibrations are not included in this course.*You will be able to view all exhibits except for “ Deep Vision” .-If you are late for your reservation time, you will not be able to participate in the experience.-There are safety precautions for this course. Please be sure to check the following 'Cliquez ici pour plus de détails' before making your reservation. ",
-      "ko": "【Duration: Approximately 30 minutes】【Meeting Time: Reservation time】ANIMA!｜A musical of life where music, visuals, and vibrations synchronize in a way that you can feel throughout your body.*Floor vibrations are not included in this course.*You will be able to view all exhibits except for “ Deep Vision” .-If you are late for your reservation time, you will not be able to participate in the experience.-There are safety precautions for this course. Please be sure to check the following '자세한것은이쪽' before making your reservation. ",
-      "zh-cn": "【Duration: Approximately 30 minutes】【Meeting Time: Reservation time】ANIMA!｜A musical of life where music, visuals, and vibrations synchronize in a way that you can feel throughout your body.*Floor vibrations are not included in this course.*You will be able to view all exhibits except for “ Deep Vision” .-If you are late for your reservation time, you will not be able to participate in the experience.-There are safety precautions for this course. Please be sure to check the following '点击此处了解详情' before making your reservation. "
-    },
-    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-106271",
-    "portal_url": "https://shojikawamori.jp/expo2025/attention/#course04",
-    "chairman": false,
-    "is_today": false,
-    "cost_time": 30
-  },
-  "M21A": {
-    "id": 37663,
-    "event_code": "M21A",
-    "event_name": {
-      "en": "SF Kyogen “Mono no Aware” –　Japanese Traditional Theatre “Kyogen” Reimagined in Sci-Fi 1st Floor Sea",
-      "ja": "SF狂言「もののあはれ」1階席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "[Admission: until 30 minutes before start] / [Wheelchair users must reserve in designated wheelchair blocks] / [children under 6 will not be admitted.]\n[Cast /Artists] Miyake Tōkurō tenth, Yuima Nakazato, Etsuko Yakushimaru and others\n[Overview]\nA new Kyogen (Japanese traditional theatre) play inspired by Mono no Aware, a short SF story by American author Ken Liu, winner of the Hugo, Nebula, and World Fantasy Awards. Crossing the frontiers of art, science, performance, and technology, this work reexamines the meaning of Japanese tradition and pursues innovation in expression.",
-      "ja": "【来場：開始30分前まで】/【車いすでの参加は車いす用ブロックで予約必要】【未就学児（6歳未満）入場はご遠慮ください】【出演者・参加作家】十世三宅藤九郎、ユイマ・ナカザト、やくしまるえつこ、藤本隆行、Konel他　【概要】世界三大SF文学賞を制したアメリカの小説家ケン・リュウの短編「もののあはれ」から翻案した新作狂言。人間国宝の名跡を継ぐ女性の狂言師・十世三宅藤九郎、装束をユイマ・ナカザト、照明はダムタイプの藤本隆行など、芸術・科学・芸能・技術の最前線を横断し、日本の伝統の意味を問い直し、表現の革新に挑みます。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": null,
-    "portal_url": null,
-    "chairman": false,
-    "is_today": false
-  },
-  "M21D": {
-    "id": 37664,
-    "event_code": "M21D",
-    "event_name": {
-      "en": "SF Kyogen “Mono no Aware” –　Japanese Traditional Theatre “Kyogen” Reimagined in Sci-Fi Wheelchair Se",
-      "ja": "SF狂言「もののあはれ」車いす席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "[Admission: until 30 minutes before start] / [Wheelchair users must reserve in designated wheelchair blocks] / [children under 6 will not be admitted.]\n[Cast /Artists] Miyake Tōkurō tenth, Yuima Nakazato, Etsuko Yakushimaru and others\n[Overview]\nA new Kyogen (Japanese traditional theatre) play inspired by Mono no Aware, a short SF story by American author Ken Liu, winner of the Hugo, Nebula, and World Fantasy Awards. Crossing the frontiers of art, science, performance, and technology, this work reexamines the meaning of Japanese tradition and pursues innovation in expression.",
-      "ja": "【来場：開始30分前まで】/【車いすでの参加は車いす用ブロックで予約必要】【未就学児（6歳未満）入場はご遠慮ください】【出演者・参加作家】十世三宅藤九郎、ユイマ・ナカザト、やくしまるえつこ、藤本隆行、Konel他　【概要】世界三大SF文学賞を制したアメリカの小説家ケン・リュウの短編「もののあはれ」から翻案した新作狂言。人間国宝の名跡を継ぐ女性の狂言師・十世三宅藤九郎、装束をユイマ・ナカザト、照明はダムタイプの藤本隆行など、芸術・科学・芸能・技術の最前線を横断し、日本の伝統の意味を問い直し、表現の革新に挑みます。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": null,
-    "portal_url": null,
-    "chairman": true,
-    "is_today": false
-  },
-  "T81C": {
-    "id": 25686,
-    "event_code": "T81C",
-    "event_name": {
-      "en": "NIKKEI FORUM GDS 2025 in  Osaka-Kansai Expo 2025",
-      "ja": "NIKKEI FORUM GDS 2025 in 大阪・関西万博",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:September 30th】【13:00-16:00 (OPEN12:30)】【Venue:Theme Weeks Studio】【notice】*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】In line with GDS’ aim of “exploring societal enrichment from advancing technology”, Nikkei Inc.  plan to hold a symposium discussing these themes, including the contributions technology can make to solving societal issues.（NIKKEI） *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【テーマウィーク・SDGs+Beyond いのち輝く未来社会】【開催日：9月30日】【13:00-16:00 (OPEN12:30)】【開催場所:テーマウィークスタジオ】【注意事項】＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】日本経済新聞社は、「人間社会を豊かにするテクノロジーの在り方とは何か、考え伝えていく。」のGDSパーパスに沿った、テクノロジーが社会課題解決に貢献できるかを議論できるシンポジウム「GDS in万博」（仮称）を開催予定です。（日本経済新聞社）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://theme-weeks.expo2025.or.jp/program/",
-    "lat": 34.652520807124446,
-    "lng": 135.38274586200717,
-    "short_name": "Theme Weeks Studio",
-    "chairman": false,
-    "is_today": false
+    "is_today": true
   },
   "V003": {
     "id": 25687,
@@ -8766,341 +7796,5 @@
     "chairman": false,
     "is_today": true,
     "cost_time": 30
-  },
-  "S05F": {
-    "id": 25701,
-    "event_code": "S05F",
-    "event_name": {
-      "en": "[Junior SDGs Camp] Osaka-Kansai Expo ESD Program (Netherlands ver)",
-      "ja": "【ジュニアSDGsキャンプ】大阪・関西万博ESDプログラム（オランダ編）",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "*This event will be held at Junior SDGs Camp. [Date: October 1st][Time: 15:00-16:00][Target age] Middle and High School Students [Overview] Through presentations by Dutch students, let's learn about the education and culture of the Netherlands, which is said that 'the happiest country for children in the world,' and think together about the differences between Japan and the Netherlands from the perspective of the SDGs! *The main target audience is junior high school to high school students. Elementary school children are also welcome. *This program will be conducted in English. *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "※本イベントの実施場所はオランダパビリオンではなく「ジュニアSDGsキャンプ」です。【開催日：10月1日】【15:00-16:00】【対象学年】中学生・高校生向け【概要】オランダ人留学生によるプレゼンテーションで、「子供が世界一幸福な国」と言われるオランダの教育や文化等を知るとともに、SDGｓの観点で日本との違いやその理由について一緒に考えましょう！※主な対象者は中学生から高校生までですが、小学校のお子様も入場可能です。※当プログラムは英語での実施となります。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.651883147350695,
-    "lng": 135.37559777498245,
-    "short_name": "SDGs Camp",
-    "chairman": false,
-    "is_today": false
-  },
-  "S05O": {
-    "id": 25704,
-    "event_code": "S05O",
-    "event_name": {
-      "en": "[Junior SDGs Camp] EXPO Site Tour (*Please check the departure point with Visitors App)",
-      "ja": "【ジュニアSDGsキャンプ】会場内ツアー(必ず出発場所をVisitorsでご確認ください)",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "[Summary] This tour takes you around the cutting-edge spots within the Expo site, with a focus on the themes of SDGs and architecture. [Recommended age] Middle and High School Students [Tour theme and departure point] October 1st-5th: What material is it made of? Unique building materials discovery tour(depart from Junior SDGs Camp) *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【概要】SDGs、建築をテーマに、万博会場内の先進的なスポットを巡るツアーです。【対象学年】中学生・高校生向け【ツアーテーマ・出発地点】10/1-5: どんな素材でできている？ユニークな建築素材発見ツアー(ジュニアSDGsキャンプ前出発)　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.65175737996498,
-    "lng": 135.37550389766696,
-    "short_name": "SDGs Camp",
-    "chairman": false,
-    "is_today": false
-  },
-  "O00Y": {
-    "id": 37665,
-    "event_code": "O00Y",
-    "event_name": {
-      "en": "The power of Intellectual Propertybuilds tomorrow Guide tour",
-      "ja": "明日を変える知財のチカラ　ガイドツアー",
-      "zh-tw": "智慧財產的力量創造未來 – 導覽行程",
-      "fr": "La puissance de la propriété intellectuelle construit demain – Visite guidée",
-      "ko": "지식재산의 힘이 내일을 만듭니다 – 가이드 투어",
-      "zh-cn": "知识产权的力量创造未来 – 导览行程"
-    },
-    "event_summary": {
-      "en": "The Japan Patent Office presents \"The Power of Intellectual Property to Change Tomorrow\" at \"WASSE.\"\nWould you like to experience the power of intellectual property more deeply through a guided tour?\nIn this tour, you will visit several booths with Patent Office staff, listening to explanations of real-world applications of intellectual property while seeing, touching, and experiencing the exhibits yourself.\nWhile no reservation is required for general entry, booking the guided tour grants you priority access.【Please arrive at least 10 minutes before the start】",
-      "ja": "特許庁が、「WASSE」にて開催する「明日を変える知財のチカラ」。知財のチカラをガイドツアーでより深く体感してみませんか？このツアーでは、特許庁職員といくつかのブースを巡って、知財の活用事例の説明とともに、実物を見て、触れて、体験していただきます。会場は予約不要で入場できますが、ガイドツアーにお申し込みいただくと優先入場が可能です。【来場は開始1０分前まで】/【車いすでの参加の際は備考欄に記入してください。】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": "日本專利局將於「WASSE」舉辦「改變明天的智慧財產力量」。\n想透過導覽行程更深入體驗智慧財產的力量嗎？\n在本次導覽中，您將與專利局人員一同參觀多個展位，聽取智慧財產實際應用案例的介紹，並能親眼觀察、親手觸摸、親身體驗展品。\n場館入場無需預約，但報名參加導覽行程可享有優先入場。\n【請於開始前 10 分鐘入場】/【如需使用輪椅參加，請於備註欄中填寫。】",
-      "fr": "L'Office japonais des brevets présente « La force de la propriété intellectuelle pour changer demain » au « WASSE ».\nSouhaitez-vous découvrir plus en profondeur la puissance de la propriété intellectuelle lors d'une visite guidée ?\nAu cours de cette visite, vous parcourrez plusieurs stands avec des agents de l'Office, découvrirez et toucherez les objets exposés tout en écoutant des explications sur des cas concrets d’utilisation de la propriété intellectuelle.【Arrivez au moins 10 minutes avant le début】",
-      "ko": "일본 특허청이 \"WASSE\"에서 개최하는 「내일을 바꾸는 지재의 힘」.\n가이드 투어를 통해 지식재산의 힘을 더 깊이 체험해 보시겠습니까?\n이 투어에서는 특허청 직원과 함께 여러 부스를 둘러보며, 실제 사례를 보고, 만지고, 직접 체험하면서 지식재산의 활용 방안을 들을 수 있습니다.\n행사장 입장은 예약이 필요 없지만, 가이드 투어에 신청하면 우선 입장이 가능합니다.\n【시작 10분 전까지 도착해 주세요】/【휠체어로 참가 시 비고란에 기재해 주세요.】",
-      "zh-cn": "日本专利局将在“WASSE”举办“改变明天的知识产权力量”。\n想通过导览行程更深入地体验知识产权的力量吗？\n在本次导览中，您将与专利局工作人员一起参观多个展位，听取知识产权实际应用案例的讲解，并可亲眼观看、亲手触摸、亲身体验展品。\n场馆入场无需预约，但报名参加导览行程可享受优先入场。\n【请在开始前 10 分钟入场】/【如需使用轮椅参加，请在备注栏中填写。】"
-    },
-    "virtual_url": null,
-    "portal_url": null,
-    "chairman": false,
-    "is_today": true
-  },
-  "S060": {
-    "id": 35598,
-    "event_code": "S060",
-    "event_name": {
-      "en": "[Junior SDGs Camp]Sustainable Urban Public Transportation, “MONORAIL”",
-      "ja": "【ジュニアSDGsキャンプ】持続可能で環境に優しい都市公共交通 ～モノレール～",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "[Date: October 2nd, 3rd][Time: 13:00, 15:00-16:00][Target Age Group: Elementary school students and above][Summary] Monorails are public transportation with no exhaust emissions, low noise, low vibration, low environmental impact, and excellent scenery that harmonizes with the cityscape. In this workshop, you can learn about the history, technology of monorails and environmental considerations.　In addition, before and after the workshop, you can freely learn the structure of monorails through panels, videos, model exhibits. You can also enjoy coloring a picture of monorails.",
-      "ja": "【開催日：10月2日、3日】【開催時間：13:00-14:00、15:00-16:00】【対象：小学生以上】【概要】モノレールは、排気ガスがなく、低騒音、低振動で環境負荷が小さく、街並みと調和する景観に優れた公共交通手段であり、現在では海外にも輸出され活躍しています。ワークショップでは、モノレールの歴史や技術、環境への配慮について学ぶことができます。ワークショップ開催前後の時間には、パネルや映像、模型展示、パンフレットで、モノレールの仕組みや環境への配慮について自由にご覧いただけるほか、モノレールの塗り絵もお楽しみいただけます。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": null,
-    "portal_url": null,
-    "lat": 34.651883147350695,
-    "lng": 135.37559777498245,
-    "short_name": "SDGs Camp",
-    "chairman": false,
-    "is_today": false
-  },
-  "T800": {
-    "id": 8765,
-    "event_code": "T800",
-    "event_name": {
-      "en": "20th/Year 2025 L’Oréal UNESCO For Women in Science Japan Fellowship Award &…",
-      "ja": "第20回/2025年度 ロレアル-ユネスコ女性科学者 日本奨励賞 授賞式・パネルディスカ…",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:October 2nd】【14:30-16:00 (OPEN14:00)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and　earphones.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】The L'Oréal-UNESCO For Women in Science Awards, held jointly by the L'Oréal and UNESCO since 1998, will hold an awards ceremony for the Japan Fellowship Awards Program (first held in Japan in 2005, marking the 20th anniversary of Japan's hosting …（Nihon L’Oreal K.K.） *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【テーマウィーク・SDGs+Beyondいのち輝く未来社会】【開催日：10月2日】【14:30-16:00 (OPEN14:00)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】ロレアルグループが1998年以来ユネスコと共同で開催している「ロレアル―ユネスコ女性科学賞」の日本奨励賞授賞式（日本で2005年に創設、万博開催年が日本20周年に当たります）と、科学界におけるジェンダーギャップの問題、女性研究者支援の必要性を議論するパ…（日本ロレアル株式会社）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/01j6hhvwegzbc89v0wqm2tn5cp.html",
-    "lat": 34.652520807124446,
-    "lng": 135.38274586200717,
-    "short_name": "Theme Weeks Studio",
-    "chairman": false,
-    "is_today": false
-  },
-  "T80C": {
-    "id": 8759,
-    "event_code": "T80C",
-    "event_name": {
-      "en": "City Climate Finance GAP Fund : Challenges and Opportunities Moving Forward",
-      "ja": "都市気候ファイナンス・ギャップ・ファンド：これからの挑戦とチャンス",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:October 2nd】【10:00-12:30 (OPEN9:30)】【Venue:Theme Weeks Studio】【notice】 *All speakers are scheduled to participate online.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website.【Summary】To highlights cities' critical role in combating climate change, as they consume 78% of global energy and produce over 60% of greenhouse gas emissions. With 68% of the global population projected...(Malaysia) *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【テーマウィーク・SDGs+Beyond いのち輝く未来社会】【開催日:10月2日】【10:00-12:30 (OPEN9:30)】【開催場所:テーマウィークスタジオ】【注意事項】※すべての登壇者がオンライン参加を予定しています。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】気候変動対策で都市の役割は重要であり、都市は世界のエネルギーの78％を消費し、温室効果ガスの60％以上を排出しています。2050年までに世界人口の68％が都市に居住すると予測され、都市の変革が不可欠です。2023年、イスカンダル・マレーシアを含むマレーシアの...（マレーシア）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/6752a347f30c8.html",
-    "lat": 34.652233971155,
-    "lng": 135.38285449147224,
-    "short_name": "Theme Weeks Studio",
-    "chairman": false,
-    "is_today": false
-  },
-  "M1YA": {
-    "id": 14470,
-    "event_code": "M1YA",
-    "event_name": {
-      "en": "WAKAYAMA DAY “The journey of the soul begins here.”",
-      "ja": "和歌山ＤＡＹ〜こころの旅路はじまる〜",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "Doors Open 9:45/Performance Starts 10:30/Ends 12:00\nIf you will be attending in a wheelchair, please reserve a seat in the wheelchair section (one companion may sit with you).\nWhen using a seat, even children aged 3 and under must have their own reservation.\n\nWakayama is home to Kumano, a sacred place of nature worship, and Koyasan, a Buddhist sanctuary with 1,200 years of history—both UNESCO World Heritage Sites.\nAt “Wakayama Day”, experience the region’s deep spirituality, rich culture, and timeless traditions through captivating stage performances.",
-      "ja": "【9:45開場/10:30開演/12:00終演】/【車いすでの参加の際は車いす用のブロックでご予約ください。同伴1名可能】/【席を使う場合、3歳以下も席予約必須】/【概要】和歌山県は、自然崇拝を起源とし、よみがえりの地として人々を癒す「熊野」、1200年以上に渡り、人々の信仰を集めてきた天空の聖地「高野山」に代表される世界遺産をもち、国内外から注目を集めています。「和歌山DAY」では、そのような古来から伝わる和歌山の歴史文化を表現したステージプログラムにより、和歌山県の魅力をあますところなく発信・体感いただく場を創出します。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": null,
-    "portal_url": "https://www.expovisitors.expo2025.or.jp/events/e9b15dae-90b5-4d9c-a2d3-e44a07b8ab64",
-    "chairman": false,
-    "is_today": false
-  },
-  "M1YD": {
-    "id": 14444,
-    "event_code": "M1YD",
-    "event_name": {
-      "en": "WAKAYAMA DAY “The journey of the soul begins here.” Wheelchair seat",
-      "ja": "和歌山ＤＡＹ〜こころの旅路はじまる〜　車イス席",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "Doors Open 9:45/Performance Starts 10:30/Ends 12:00\nIf you will be attending in a wheelchair, please reserve a seat in the wheelchair section (one companion may sit with you).\nWhen using a seat, even children aged 3 and under must have their own reservation.\n\nWakayama is home to Kumano, a sacred place of nature worship, and Koyasan, a Buddhist sanctuary with 1,200 years of history—both UNESCO World Heritage Sites.\nAt “Wakayama Day”, experience the region’s deep spirituality, rich culture, and timeless traditions through captivating stage performances.",
-      "ja": "【9:45開場/10:30開演/12:00終演】/【車いすでの参加の際は車いす用のブロックでご予約ください。同伴1名可能】/【席を使う場合、3歳以下も席予約必須】/【概要】和歌山県は、自然崇拝を起源とし、よみがえりの地として人々を癒す「熊野」、1200年以上に渡り、人々の信仰を集めてきた天空の聖地「高野山」に代表される世界遺産をもち、国内外から注目を集めています。「和歌山DAY」では、そのような古来から伝わる和歌山の歴史文化を表現したステージプログラムにより、和歌山県の魅力をあますところなく発信・体感いただく場を創出します。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": null,
-    "portal_url": "https://www.expovisitors.expo2025.or.jp/events/e9b15dae-90b5-4d9c-a2d3-e44a07b8ab64",
-    "chairman": true,
-    "is_today": false
-  },
-  "M1ZS": {
-    "id": 25696,
-    "event_code": "M1ZS",
-    "event_name": {
-      "en": "DANCE DRAMA Breakthrough Journey　 Free Seat",
-      "ja": "DANCE DRAMA Breakthrough Journey 自由席　（上層階）",
-      "zh-tw": "DANCE DRAMA Breakthrough Journey – 自由座位 ",
-      "fr": "DANCE DRAMA Breakthrough Journey　Placement libre　",
-      "ko": "DANCE DRAMA Breakthrough Journey – 자유석 ",
-      "zh-cn": "DANCE DRAMA Breakthrough Journey – 自由座位 "
-    },
-    "event_summary": {
-      "en": "　[Doors 17:30 / Show 18:30–20:30][Cast: DAZZLE, BOTAN, Kazuyo Morita, and more][Narration: Daisuke Ono, Reina Ueda][Support: Subtitles & audio guides (JP/EN/ZH/KR), hearing loop][Wheelchair users: Please reserve a wheelchair seat][Dancers from 11 regions across Japan and abroad—with diverse backgrounds in culture, nationality, and disability—create a unified stage work. By valuing each individual and fostering empowerment, the project promotes a society free from division and aims toward universal peace. Experience the possibilities of a society where diversity is shared.]",
-      "ja": "【開場 17:30／開演 18:30／終演時間　20：30】【出演：DAZZLE・BOTAN・森田かずよ ほか】【劇中ナレーション：小野大輔・上田麗奈】【鑑賞サポート：多言語字幕・音声解説（⽇・英・中・韓）、ヒアリングループ対応】【車いすでの鑑賞については車いすブロックの予約が必要】【作品概要：文化・国籍・障害など、異なる背景をもつ国内外11地域のダンサーたちが、一つの舞台を共につくります。一人ひとりの存在価値や自己肯定感、エンパワーメントを高め、分断や差別のない社会、そして普遍的な世界平和が形成されることを目指します。多様性と共に生きる社会の可能性を、あなたも体感してください。】 ",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://www.big-i.jp/",
-    "chairman": false,
-    "is_today": true
-  },
-  "M1ZV": {
-    "id": 25697,
-    "event_code": "M1ZV",
-    "event_name": {
-      "en": "DANCE DRAMA Breakthrough Journey 　Wheelchair Seat  ",
-      "ja": "DANCE DRAMA Breakthrough Journey 車いす席　（上層階）",
-      "zh-tw": "DANCE DRAMA Breakthrough Journey  – 輪椅席 ",
-      "fr": "DANCE DRAMA Breakthrough Journey　Place en fauteuil roulant",
-      "ko": "DANCE DRAMA Breakthrough Journey – 휠체어석 ",
-      "zh-cn": "DANCE DRAMA Breakthrough Journey  – 轮椅席 "
-    },
-    "event_summary": {
-      "en": "　[Doors 17:30 / Show 18:30–20:30][Cast: DAZZLE, BOTAN, Kazuyo Morita, and more][Narration: Daisuke Ono, Reina Ueda][Support: Subtitles & audio guides (JP/EN/ZH/KR), hearing loop][Wheelchair users: Please reserve a wheelchair seat][Dancers from 11 regions across Japan and abroad—with diverse backgrounds in culture, nationality, and disability—create a unified stage work. By valuing each individual and fostering empowerment, the project promotes a society free from division and aims toward universal peace. Experience the possibilities of a society where diversity is shared.]",
-      "ja": "【開場 17:30／開演 18:30／終演時間　20：30】【出演：DAZZLE・BOTAN・森田かずよ ほか】【劇中ナレーション：小野大輔・上田麗奈】【鑑賞サポート：多言語字幕・音声解説（⽇・英・中・韓）、ヒアリングループ対応】【車いすでの鑑賞については車いすブロックの予約が必要】【作品概要：文化・国籍・障害など、異なる背景をもつ国内外11地域のダンサーたちが、一つの舞台を共につくります。一人ひとりの存在価値や自己肯定感、エンパワーメントを高め、分断や差別のない社会、そして普遍的な世界平和が形成されることを目指します。多様性と共に生きる社会の可能性を、あなたも体感してください。】 ",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://www.big-i.jp/",
-    "chairman": true,
-    "is_today": true
-  },
-  "T806": {
-    "id": 8768,
-    "event_code": "T806",
-    "event_name": {
-      "en": "Innovative development on urban waterfront with autonomous vessels",
-      "ja": "都市型自動運転船による都市の水辺のイノベーション",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:October 8th】【18:00-20:00 (OPEN17:40)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones.*Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】We have been developing the concept of Umidoko Robot, which is a robot creates a floor itself that moves around like a drone on the water automatically.We will discuss innovation of urban waterfront with those who are working on the development and …（TAKENAKA CORPORATION） *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【テーマウィーク・SDGs+Beyondいのち輝く未来社会】【開催日：10月8日】【18:00-20:00 (OPEN17:40)】【開催場所：テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】海床ロボットは、水の上に床をつくり、自動で動き回る水上ドローンのようなロボットというコンセプトで開発を進めてきました。環境、エネルギー、交通、物流、防災など、都市の水辺が抱える世界共通の課題解決に向けて、海床ロボットをはじめとする都市型自動運転船の開発…（株式会社竹中工務店）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66ea818da6a1a.html",
-    "lat": 34.652520807124446,
-    "lng": 135.38274586200717,
-    "short_name": "Theme Weeks Studio",
-    "chairman": false,
-    "is_today": true
-  },
-  "T819": {
-    "id": 25707,
-    "event_code": "T819",
-    "event_name": {
-      "en": "Resonance and Forest - From the Breaking Tower(1970) to the Opening Sky(2025)",
-      "ja": "共鳴と森-突き破る塔(1970)から開かれる空(2025)へ",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:October 8th】【14:00-16:30 (OPEN13:30)】【Venue:Theme Weeks Studio】【notice】This programme was scheduled to open 14:30, start 15:00, and end 16:00, but has been changed to open 13:30, start 14:00, and end 16:00. Those with reservations may enter the Theme Weeks Studio from 13:30.While you may still enter after 14:30 as originally planned to enjoy only the main session, the programme has been enhanced. We therefore encourage you to arrive at the 13:30 opening time to enjoy the performance commencing at 14:00. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website. 【Summary】This program led by Producer Hiroaki Miyata under the thematic initiative “Resonating Lives.” Together with guests and attendees, we will think about and envision the potential future society that “Better Co-Being” offers, focusing on the ideas of “connecting together and living together... (Producer MIYATA Hiroaki)） *Reservations",
-      "ja": "【テーマウィーク・SDGs+Beyondいのち輝く未来社会】【開催日：10月8日】【14:00-16:30 (OPEN13:30)】【開催場所:テーマウィークスタジオ】【注意事項】本プログラムは14:30開場・15:00開演・16:00終演の予定でしたが13:30開場・14:00開演・16:00終演へと変更となりました。ご予約者様は13:30からテーマウィークスタジオにご入場いただけます。予定通り14:30以降にご入場いただき、メインセッションのみをお楽しみいただく事も可能ですが、より充実したプログラムとなりましたので、ぜひ13:30の開場に合わせてご入場いただき、14:00からの開演をお楽しみくださいませ。＊その他、中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】テーマ事業「いのちを響き合わせる」を担当する宮田裕章プロデューサーによるプログラム。「共につながり、共に生きる」、Better Co-Beingがもたらす未来社会の可能性についてゲストや来場者とともに考え、描きます。（大阪・関西万博テーマ事業 いのちを響き合わせる（宮田プロデューサー）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://theme-weeks.expo2025.or.jp/program/",
-    "lat": 34.652233971155,
-    "lng": 135.38285449147224,
-    "short_name": "Theme Weeks Studio",
-    "chairman": false,
-    "is_today": true
-  },
-  "U06R": {
-    "id": 10587,
-    "event_code": "U06R",
-    "event_name": {
-      "en": "WA Space<Canada Presents: RegenHERation>",
-      "ja": "WAスペース カナダ・プレゼンツ：輝き続ける女性たち",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Date: October 8th】【12:00-14:30 (OPEN11:30)】【Summary】Women‘s Pavilion.At Expo 2025 Osaka Kansai, Canada will present a monthly series of events at the Women's Pavilion in collaboration with Cartier. Titled 'RegenHERation' (which draws from the Canada Pavilion theme of 'Regeneration'), the series will seek to celebrate progress made in advancing gender equality globally, and inspire the current and future generations who are moving society forward. *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【開催日：10月8日】【12:00-14:30 (OPEN11:30)】【概要】ウーマンズパビリオン。2025大阪・関西万博に出展されるウーマンズ パビリオン in collaboration with Cartier  で、カナダは毎月シリーズとしてイベントをお届けします。シリーズのタイトルは、「輝き続ける女性たち」。カナダパビリオンのテーマである「再生」に関連付けたこのタイトルの下、ジェンダー平等の実現に向けたこれまでの世界の進歩を称え、これからの社会の発展を担う現在と未来の世代にインスピレーションをもたらすことを目標としています。　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "",
-    "lat": 34.648940035891734,
-    "lng": 135.38833651412097,
-    "short_name": "WA Space",
-    "chairman": false,
-    "is_today": true
   }
 }
