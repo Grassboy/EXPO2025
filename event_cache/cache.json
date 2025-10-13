@@ -1,5 +1,5 @@
 {
-  "_parse_time": "2025-10-09 11:47:32",
+  "_parse_time": "2025-10-13 08:18:44",
   "C0R0": {
     "id": 1,
     "event_code": "C0R0",
@@ -161,7 +161,7 @@
     "lng": 135.38342998875157,
     "short_name": "泰國",
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 10
   },
   "CO73": {
@@ -189,7 +189,7 @@
     "lng": 135.3834261955352,
     "short_name": "泰國♿",
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 10
   },
   "H3H0": {
@@ -1878,7 +1878,7 @@
     },
     "event_summary": {
       "en": "Viewing time: 80 mins. • Please arrive on time for your reservation. • If you are late, you will not be able to enter the pavilion. • After entering the pavilion, you will not be able to leave and re-enter. • If the pavilion is closed due to problems with display equipment or inclement weather, you will be asked to make a new reservation. • This tour also includes full Japan Pavilion access. • See the link below for other regulations. Biogas Plant Overview: Microorganisms break down Expo pavilion organic waste into biogas, which is converted to energy. Guides at the plant offer more details.",
-      "ja": "【所要時間：80分】●予約時間内に受付が出来るようお越し下さい●受付時間を過ぎるとご入場出来ません●途中退場できません●荒天時や機器のトラブル等による中止の際は再予約をお願いします●その他詳細ルールは下記リンクからご確認ください【プラントツアー概要】万博会場の生ごみを微生物の力によってメタン発酵させ、発生したバイオガスはガスエンジンを用いて発電し、館内の一部に活用します。プラントを間近で見ながら、処理の流れを説明します。\r\n【抽せん対象日】9月11,12,13,17,19,20,22,23、10月3,8-12",
+      "ja": "【所要時間：80分】●予約時間内に受付が出来るようお越し下さい●受付時間を過ぎるとご入場出来ません●途中退場できません●荒天時や機器のトラブル等による中止の際は再予約をお願いします●その他詳細ルールは下記リンクからご確認ください【プラントツアー概要】万博会場の生ごみを微生物の力によってメタン発酵させ、発生したバイオガスはガスエンジンを用いて発電し、館内の一部に活用します。プラントを間近で見ながら、処理の流れを説明します。【抽せん対象日】4月19,21,23,26,28,30、5月3-6,21,24,26、6月11,14,16、9月1,2,17,20,22,23、10月8-12",
       "zh-tw": "【所需時間（參觀時間）：80分鐘】 ●若預約時間遲到，原則上不可入館。●有可能需要比預約時間多等10分鐘左右。●不可中途退出展館。●有可能因天災或展示設備的故障等，展館臨時休館或更改參觀時間。遇此情況需重新預約。●本遊程附帶館內參觀。●參觀路線因參觀日期而有所變動。●其他詳細資訊請點選下方連結參閱。【發酵塔遊程概要】世博會場館的廚餘垃圾經發酵後生成甲烷，產生的沼氣將被用來發電，並用於日本館的部分區域。專業導遊將在發酵塔旁為大家講解。",
       "fr": "Durée de la visite : 80 minutes. • Arrivez à l’heure pour votre réservation. • En cas de retard, vous ne pourrez pas entrer dans le pavillon. • Toute sortie sera définitive. • Si le pavillon est fermé pour des problèmes liés au matériel d’exposition ou aux intempéries, vous devrez effectuer une nouvelle réservation. • Cette visite inclut l’accès complet au Pavillon Japon. • Voir ci-dessous pour d’autres règlementations. Zone Traitement du biogaz : Les micro-organismes décomposent les déchets organiques du pavillon Expo en biogaz converti en énergie. Les guides proposent plus de détails.",
       "ko": "관람 시간: 80분 • 예약 시간을 준수해 주시기 바랍니다. • 예약에 늦을 경우 전시관에 입장하실 수 없습니다. • 전시관 입장 후에는 퇴장 후 재입장이 불가능합니다. • 전시 장비의 문제 또는 악천후로 인해 전시관의 운영이 중단되는 경우 다시 예약하셔야 합니다. • 관람 시 일본관 전체를 둘러보실 수 있습니다. • 기타 규정은 아래 링크를 참조해 주십시오. 바이오가스 플랜트 소개: 미생물이 엑스포 전시관의 유기 폐기물을 바이오가스로 분해하여 에너지로 사용합니다. 플랜트의 가이드가 자세한 내용을 설명해 드립니다.",
@@ -1889,7 +1889,7 @@
     "lat": 34.64862637249134,
     "lng": 135.3874357044697,
     "chairman": false,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 80
   },
   "H1HF": {
@@ -1905,7 +1905,7 @@
     },
     "event_summary": {
       "en": "[Reservation requirement: Wheelchair user and one accompanying person only] Viewing time: 80 mins. • Please arrive on time for your reservation. • If you are late, you will not be able to enter the pavilion. • After entering the pavilion, you will not be able to leave and re-enter. • This tour also includes full Japan Pavilion access. • See the link below for other regulations. Biogas Plant Overview: Microorganisms break down Expo pavilion organic waste into biogas, which is converted to energy. Guides at the plant offer more details.",
-      "ja": "【申込条件：車いす利用者のみ　同行者については1名まで一緒にご参加頂けます。】【所要時間：80分】●予約時間内に受付が出来るようお越し下さい●受付時間を過ぎるとご入場出来ません●途中退場できません●荒天時や機器のトラブル等による中止の際は再予約をお願いします●その他詳細ルールは下記リンクからご確認ください【プラントツアー概要】万博会場の生ごみを微生物の力によってメタン発酵させ、発生したバイオガスはガスエンジンを用いて発電し、館内の一部に活用します。プラントを間近で見ながら、処理の流れを説明します。\r\n【抽せん対象日】9月11,12,13,17,19,20,22,23、10月3,8-12",
+      "ja": "【申込条件：車いす利用者のみ　同行者については1名まで一緒にご参加頂けます。】【所要時間：80分】●予約時間内に受付が出来るようお越し下さい●受付時間を過ぎるとご入場出来ません●途中退場できません●荒天時や機器のトラブル等による中止の際は再予約をお願いします●その他詳細ルールは下記リンクからご確認ください【プラントツアー概要】万博会場の生ごみを微生物の力によってメタン発酵させ、発生したバイオガスはガスエンジンを用いて発電し、館内の一部に活用します。プラントを間近で見ながら、処理の流れを説明します。【抽せん対象日】4月19,21,23,26,28,30、5月3-6,21,24,26、6月11,14,16、9月1,2,17,20,22,23、10月8-12",
       "zh-tw": "【預約規定：僅限輪椅人士，陪同人員不超過1名】 【所需時間（參觀時間）：80分鐘】 ●若預約時間遲到，原則上不可入館。●有可能需要比預約時間多等10分鐘左右。●不可中途退出展館。●有可能因天災或展示設備的故障等，展館臨時休館或更改參觀時間。遇此情況需重新預約。●本遊程附帶館內參觀。●參觀路線因參觀日期而有所變動。●其他詳細資訊請點選下方連結參閱。【發酵塔遊程概要】世博會場館的廚餘垃圾經發酵後生成甲烷，產生的沼氣將被用來發電，並用於日本館的部分區域。專業導遊將在發酵塔旁為大家講解。",
       "fr": "[Conditions de réservation: utilisateur PMR et une personne accompagnante uniquement] Durée de la visite : 80 minutes. • Veuillez arriver à l’heure pour votre réservation. • Si vous êtes en retard, vous ne pourrez pas entrer dans le pavillon. • Cette visite comprend également l’accès complet au Pavillon Japon. • Voir ci-dessous pour d’autres règlementations. Zone Traitement du biogaz : Les micro-organismes décomposent les déchets organiques du pavillon Expo en biogaz converti en énergie. Les guides proposent plus de détails.",
       "ko": "[예약 조건: 휠체어 이용자와 동행자 1명만] 관람 시간: 80분 • 예약 시간을 준수해 주시기 바랍니다. • 예약에 늦을 경우 전시관에 입장하실 수 없습니다. • 전시관 입장 후에는 퇴장 후 재입장이 불가능합니다. • 관람 시 일본관 전체를 둘러보실 수 있습니다. • 기타 규정은 아래 링크를 참조해 주십시오. 바이오가스 플랜트 소개: 미생물이 엑스포 전시관의 유기 폐기물을 바이오가스로 분해하여 에너지로 사용합니다. 플랜트의 가이드가 자세한 내용을 설명해 드립니다.",
@@ -1916,7 +1916,7 @@
     "lat": 34.64842888778767,
     "lng": 135.3873632848263,
     "chairman": true,
-    "is_today": true,
+    "is_today": false,
     "cost_time": 80
   },
   "H7H3": {
@@ -2281,7 +2281,7 @@
     "lng": 135.38230597972873,
     "short_name": "瓦斯館甲烷示範",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 40
   },
   "SI09": {
@@ -2309,7 +2309,7 @@
     "lng": 135.3822602556547,
     "short_name": "瓦斯館甲烷示範♿",
     "chairman": true,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 40
   },
   "T11O": {
@@ -6783,7 +6783,7 @@
     "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-596086",
     "portal_url": "",
     "chairman": false,
-    "is_today": false,
+    "is_today": true,
     "cost_time": 30
   },
   "M1YG": {
@@ -7721,54 +7721,77 @@
     "chairman": false,
     "is_today": true
   },
-  "O00Y": {
-    "id": 37665,
-    "event_code": "O00Y",
+  "HUHF": {
+    "id": 47065,
+    "event_code": "HUHF",
     "event_name": {
-      "en": "The power of Intellectual Propertybuilds tomorrow Guide tour",
-      "ja": "明日を変える知財のチカラ　ガイドツアー",
-      "zh-tw": "智慧財產的力量創造未來 – 導覽行程",
-      "fr": "La puissance de la propriété intellectuelle construit demain – Visite guidée",
-      "ko": "지식재산의 힘이 내일을 만듭니다 – 가이드 투어",
-      "zh-cn": "知识产权的力量创造未来 – 导览行程"
+      "en": "GAS PAVILION OBAKE WONDERLAND / XR Goggles (Group Must Include 7–12 old)",
+      "ja": "ガスパビリオン【7歳以上の小学生を含むグループ限定】XRゴーグル",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
     },
     "event_summary": {
-      "en": "The Japan Patent Office presents \"The Power of Intellectual Property to Change Tomorrow\" at \"WASSE.\"\nWould you like to experience the power of intellectual property more deeply through a guided tour?\nIn this tour, you will visit several booths with Patent Office staff, listening to explanations of real-world applications of intellectual property while seeing, touching, and experiencing the exhibits yourself.\nWhile no reservation is required for general entry, booking the guided tour grants you priority access.【Please arrive at least 10 minutes before the start】",
-      "ja": "特許庁が、「WASSE」にて開催する「明日を変える知財のチカラ」。知財のチカラをガイドツアーでより深く体感してみませんか？このツアーでは、特許庁職員といくつかのブースを巡って、知財の活用事例の説明とともに、実物を見て、触れて、体験していただきます。会場は予約不要で入場できますが、ガイドツアーにお申し込みいただくと優先入場が可能です。【来場は開始1０分前まで】/【車いすでの参加の際は備考欄に記入してください。】　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": "日本專利局將於「WASSE」舉辦「改變明天的智慧財產力量」。\n想透過導覽行程更深入體驗智慧財產的力量嗎？\n在本次導覽中，您將與專利局人員一同參觀多個展位，聽取智慧財產實際應用案例的介紹，並能親眼觀察、親手觸摸、親身體驗展品。\n場館入場無需預約，但報名參加導覽行程可享有優先入場。\n【請於開始前 10 分鐘入場】/【如需使用輪椅參加，請於備註欄中填寫。】",
-      "fr": "L'Office japonais des brevets présente « La force de la propriété intellectuelle pour changer demain » au « WASSE ».\nSouhaitez-vous découvrir plus en profondeur la puissance de la propriété intellectuelle lors d'une visite guidée ?\nAu cours de cette visite, vous parcourrez plusieurs stands avec des agents de l'Office, découvrirez et toucherez les objets exposés tout en écoutant des explications sur des cas concrets d’utilisation de la propriété intellectuelle.【Arrivez au moins 10 minutes avant le début】",
-      "ko": "일본 특허청이 \"WASSE\"에서 개최하는 「내일을 바꾸는 지재의 힘」.\n가이드 투어를 통해 지식재산의 힘을 더 깊이 체험해 보시겠습니까?\n이 투어에서는 특허청 직원과 함께 여러 부스를 둘러보며, 실제 사례를 보고, 만지고, 직접 체험하면서 지식재산의 활용 방안을 들을 수 있습니다.\n행사장 입장은 예약이 필요 없지만, 가이드 투어에 신청하면 우선 입장이 가능합니다.\n【시작 10분 전까지 도착해 주세요】/【휠체어로 참가 시 비고란에 기재해 주세요.】",
-      "zh-cn": "日本专利局将在“WASSE”举办“改变明天的知识产权力量”。\n想通过导览行程更深入地体验知识产权的力量吗？\n在本次导览中，您将与专利局工作人员一起参观多个展位，听取知识产权实际应用案例的讲解，并可亲眼观看、亲手触摸、亲身体验展品。\n场馆入场无需预约，但报名参加导览行程可享受优先入场。\n【请在开始前 10 分钟入场】/【如需使用轮椅参加，请在备注栏中填写。】"
+      "en": "■Duration: Approx.40 minutes ■Eligibility: Groups must include at least one elementary school child aged 7 or older. Each adult accompanying a child for the XR experience must make a separate reservation. If no eligible child is present at check-in, the reservation will be invalid. Children aged 7 to 12 must be accompanied by guardian or have a written consent form. Children under 7 cannot use XR goggles but may enter if accompanied by a non-participating guardian.■Meeting Time: Arrive within your reserved time slot.■Note: Be sure to read the “Reservation Guidelines” at the link below *Reservations are required for children under 3 years old.",
+      "ja": "■所要時間：約40分■参加条件：「7歳以上の小学生」を含むグループ。お子様に同伴してXRゴーグル体験をされる大人がいる場合もお１人様１予約が必要です。受付時に「７歳以上の小学生」がいないグループの場合、本予約があってもご利用いただけません。7歳～13歳未満のお子様だけでの参加は保護者の同伴または同意書（リンク先参照）が必要です。また、7歳未満のお子様はXRゴーグル体験ができませんが、体験しない保護者の方の付き添い（保護者1名につき2名様以内）があれば入場可能です。■集合時間：ご予約された時間内にお越しください。■その他、下記のリンク先「予約にあたっての注意事項」を必ずご一読いただき、ご予約をお願いします。　※３歳以下の方もご予約が必要です。",
+      "zh-tw": "■Duration: Approx.40 minutes ■Eligibility: Groups must include at least one elementary school child aged 7 or older. Each adult accompanying a child for the XR experience must make a separate reservation. If no eligible child is present at check-in, the reservation will be invalid. Children aged 7 to 12 must be accompanied by guardian or have a written consent form. Children under 7 cannot use XR goggles but may enter if accompanied by a non-participating guardian.■Meeting Time: Arrive within your reserved time slot.■Note: Be sure to read the “Reservation Guidelines” at the link below *3以下兒童需預約",
+      "fr": "■Duration: Approx.40 minutes ■Eligibility: Groups must include at least one elementary school child aged 7 or older. Each adult accompanying a child for the XR experience must make a separate reservation. If no eligible child is present at check-in, the reservation will be invalid. Children aged 7 to 12 must be accompanied by guardian or have a written consent form. Children under 7 cannot use XR goggles but may enter if accompanied by a non-participating guardian.■Meeting Time: Arrive within your reserved time slot.■Note: Be sure to read the “Reservation Guidelines” at the link below *Réservation obligatoire pour les enfants de moins de 3 ans.",
+      "ko": "■Duration: Approx.40 minutes ■Eligibility: Groups must include at least one elementary school child aged 7 or older. Each adult accompanying a child for the XR experience must make a separate reservation. If no eligible child is present at check-in, the reservation will be invalid. Children aged 7 to 12 must be accompanied by guardian or have a written consent form. Children under 7 cannot use XR goggles but may enter if accompanied by a non-participating guardian.■Meeting Time: Arrive within your reserved time slot.■Note: Be sure to read the “Reservation Guidelines” at the link below *3세 미만 어린이는 예약이 필요합니다.",
+      "zh-cn": "■Duration: Approx.40 minutes ■Eligibility: Groups must include at least one elementary school child aged 7 or older. Each adult accompanying a child for the XR experience must make a separate reservation. If no eligible child is present at check-in, the reservation will be invalid. Children aged 7 to 12 must be accompanied by guardian or have a written consent form. Children under 7 cannot use XR goggles but may enter if accompanied by a non-participating guardian.■Meeting Time: Arrive within your reserved time slot.■Note: Be sure to read the “Reservation Guidelines” at the link below *3岁以下儿童需要预约"
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-664929",
+    "portal_url": "https://www.gaspavilion.gas.or.jp/pavilion/notes/",
+    "chairman": false,
+    "is_today": true,
+    "cost_time": 40
+  },
+  "IC0C": {
+    "id": 49420,
+    "event_code": "IC0C",
+    "event_name": {
+      "en": "Signature Pavilion OCHIAI Yoichi 'null²' Naorai Mode *10 min before the reservation start time",
+      "ja": "シグネチャーパビリオン 落合陽一  「null²」 ナオライモード　※予約時間の10分前集合",
+      "zh-tw": null,
+      "fr": "Signature Pavilion OCHIAI Yoichi 'null²' Mode Naorai *10 min before the reservation start time",
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "［AverageDuration:10min］［10 min before the reservation start time］Naorai Mode – Farewell to the Forest of NullThis 10-minute ceremony is the final Naorai shared by the pavilion and its visitors. Soon, null² will return to Nul, and we celebrate its departure through a feast. In a space that shifts from the solemn resonance of a Buddhist indō (ritual of farewell) to the lively rhythms of festival applause and cheers, all participants become one community, sharing “goodbye” and “thank you.” It is not an end, but a prayer and a hospitable rite for a new beginning.",
+      "ja": "【平均所要時間10分】【受付時間：予約時間の10分前集合】ナオライモード – さようならヌルの森この10分間は、パビリオンと来場者が共に迎える最後の「直会（なおらい）」です．null²はこの後ヌルへと帰り、私たちは饗宴によってその旅立ちを祝います．厳かな引導の響きと、祭囃子のような拍手や歓声が交錯する空間で、来場者全員が一つの共同体となり、「さようなら」と「ありがとう」を分かち合います．それは終わりではなく、新たな始まりへの祈りと歓待の儀式です．",
+      "zh-tw": "直會模式 — 再見，Null之森 這十分鐘是展館與來訪者共同迎來的最後一次「直會」（祭祀後的共享宴席）。不久之後，null² 將歸於「ヌル」，而我們以盛宴慶祝它的啟程。在空間中，從莊嚴的佛教「引導」（送別儀式）的回響，到如祭典般的掌聲與歡呼交錯，所有來訪者共同組成一個整體，分享「再見」與「謝謝」。這不是終結，而是為新的開始所獻上的祈願與歡迎之禮。",
+      "fr": "［AverageDuration:10min］Mode Naorai – Adieu à la Forêt de NulCes dix minutes constituent le dernier Naorai partagé entre le pavillon et ses visiteurs. Bientôt, null² retournera à Nul, et nous célébrons ce départ par un banquet. Dans un espace qui passe de la résonance solennelle de l’indō bouddhique (rite de passage) aux applaudissements et aux acclamations festives, tous les participants forment une seule communauté, partageant un « au revoir » et un « merci ». Ce n’est pas une fin, mais une prière et un rite d’hospitalité pour un nouveau commencement.",
+      "ko": "나오라이 모드 – 잘 가라, 눌의 숲이 10분간은 파빌리온과 방문객이 함께 맞이하는 마지막 나오라이(직회의 잔치)입니다. 곧 null²은 눌로 돌아가고, 우리는 연회를 통해 그 여정을 축하합니다. 장엄한 불교적 *인도(引導)*의 울림에서 축제의 박수와 환호로 전환되는 공간 속에서, 모든 참가자는 하나의 공동체가 되어 “안녕“과 “고마움“을 나눕니다. 그것은 끝이 아니라, 새로운 시작을 위한 기도이자 환대의 의식입니다.",
+      "zh-cn": "直会模式 – 再见，Null之森这十分钟是展馆与来访者共同迎来的最后一次“直会“（祭祀后的共享宴席）。不久之后，null² 将归于“ヌル“，而我们以盛宴庆祝它的启程。在空间中，从庄严的佛教“引导“（送别仪式）的回响，到祭典般的掌声与欢呼的交错，所有来访者共同组成一个整体，分享“再见“和”谢谢“。这不是终结，而是为新的开始所献上的祈愿与欢迎之礼。"
+    },
+    "virtual_url": "https://contents.ssv.virtualexpo.expo2025.or.jp/deeplink/cushion_page.html?SpaceId=SS-664929",
+    "portal_url": "https://expo2025.digitalnatureandarts.or.jp/specialsite.html",
+    "chairman": false,
+    "is_today": true,
+    "cost_time": 10
+  },
+  "QH07": {
+    "id": 49495,
+    "event_code": "QH07",
+    "event_name": {
+      "en": "MYAKU-MYAKU Around the World Exhibition/Myaku-Myaku Painting Workshop",
+      "ja": "世界のミャクミャク展/ミャクミャク塗装ワークショップ",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
+    },
+    "event_summary": {
+      "en": "【Up to 3 accompanying persons permitted　*Including children under 3 years old】/【No reservation required for accompanying persons *If  accompanying persons also wish to participate in the workshop,  reservations are required.】/【Overview】You can experience a workshop where you can paint a figure of  Myaku-Myaku, the official character of Expo 2025 Osaka, Kansai, Japan. *Please note that the content and times may change due to circumstances.【Part1】10:00-11:00/【Part2】12:00-13:00/【Part3】14:00-15:00/【Part4】16:00-17:00　*Check-in begins 30 minutes prior.",
+      "ja": "【体験者以外の同伴は３名まで】/【同伴者は予約不要　※同伴者も体験する場合は予約要】/【同伴者には３歳以下のお子様を含む】/【概要】大阪・関西万博公式キャラクター「ミャクミャク」のフィギュアを塗装いただけるワークショップを実施します。　※諸事情により内容および時間変更する場合がございます/【第1部】10:00～11:00/【第2部】12:00～13:00/【第3部】14:00～15:00/【第4部】16:00～17:00 ※各回とも30分前から受付開始",
+      "zh-tw": null,
+      "fr": null,
+      "ko": null,
+      "zh-cn": null
     },
     "virtual_url": null,
-    "portal_url": null,
-    "chairman": false,
-    "is_today": true
-  },
-  "T80L": {
-    "id": 8763,
-    "event_code": "T80L",
-    "event_name": {
-      "en": "Greater Intelligence, Enhanced Artistry, and Stronger Compassion: The Future of Urban Regeneration",
-      "ja": "より智慧的に、より藝術的に、より思いやりを持って：都市更新の未来",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "event_summary": {
-      "en": "【Theme Weeks・SDGs+Beyond Future Society for Life】【Date:Octber 9th】【18:00-20:00 (OPEN17:30)】【Venue:Theme Weeks Studio】【notice】*If you wish to listen to simultaneous interpretation, please prepare a smartphone and earphones. *Cancellations and changes will be notified on the 'Notice' section of the Theme Week website.【Summary】The event intends to highlight people, technology, space, and other crucial factors for future social development. It aims to explore how advanced concepts and values can be incorporated into urban development through varied forms of urban renewal ...(World Expo Museum) *Reservations are required for children under 3 years old if they wish to use the seats.",
-      "ja": "【テーマウィーク・SDGs+Beyond いのち輝く未来社会】【開催日:10月9日】【18:00-20:00 (OPEN17:30)】【開催場所:テーマウィークスタジオ】【注意事項】＊同時通訳聴取希望の方は、スマートフォン、イヤホンをご準備下さい。＊中止、変更等は、テーマウィーク特設Web「お知らせ」で通知します。【概要】シンポジウムでは人、技術、空間など未来社会の発展の鍵となる要素を浮き彫りにし、いかにさまざまな形態による都市再生を通して先進的な概念や価値観を都市の発展と融合させ…（万博博物館）　※３歳以下のお子様も座席を使いたい場合は予約必要です。",
-      "zh-tw": null,
-      "fr": null,
-      "ko": null,
-      "zh-cn": null
-    },
-    "virtual_url": "",
-    "portal_url": "https://theme-weeks.expo2025.or.jp/program/detail/66ee2bf4d30fb.html",
-    "lat": 34.652520807124446,
-    "lng": 135.38274586200717,
-    "short_name": "Theme Weeks Studio",
+    "portal_url": "https://www.expo2025.or.jp/news/news-20250917-02/",
     "chairman": false,
     "is_today": true
   },
