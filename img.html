@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>圖片重定向</title>
+    <script>
+        (function() {
+            // 取得 URL 的查詢字串
+            const queryString = window.location.search;
+            
+            // 如果有查詢字串，移除開頭的 '?' 並使用它作為圖片名稱
+            if (queryString) {
+                var imgName = queryString.substring(1) * 1;
+                if(imgName <= 501) {
+                    imgName = 501 - imgName;
+                } else if(imgName > 501 && imgName <= 671) {
+                    imgName = 'a'+(imgName - 501 + 1);
+                } else if(imgName > 671 && imgName <= 684) {
+                    imgName = 'L'+(12 - (imgName - 671) + 1);
+                }
+                const targetUrl = `https://www.expo2025.or.jp/assets_top_mainvisual/pc/${imgName}.webp`;
+                //alert(targetUrl);
+                // 重定向到目標 URL
+                window.location.href = targetUrl;
+            } else {
+                document.write('<p>請在 URL 中提供圖片參數，例如：img.html?1</p>');
+            }
+        })();
+    </script>
+</head>
+<body>
+    <p>重定向中...</p>
+</body>
+</html>
+
